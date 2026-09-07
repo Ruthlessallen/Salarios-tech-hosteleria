@@ -1,0 +1,2001 @@
+﻿id_trabajador;comunidad_autonoma;sector;tipo_jornada;genero;edad;salario_bruto_anual_eur;salario_bruto_mensual_eur
+TRAB_00001;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;23748.56;1696.33
+TRAB_00002;Cataluña;Hostelería;Tiempo completo;Mujeres;23;19503.41;1393.1
+TRAB_00003;Balears, Illes;Hostelería;Tiempo completo;Mujeres;54;20967.85;1497.7
+TRAB_00004;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;22780.48;1627.18
+TRAB_00005;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;24;21668.04;1547.72
+TRAB_00006;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;30;12831.42;916.53
+TRAB_00007;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;47402.9;3385.92
+TRAB_00008;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;21012.41;1500.89
+TRAB_00009;Balears, Illes;Hostelería;Tiempo parcial;Mujeres;36;10745.57;767.54
+TRAB_00010;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;62;37290.07;2663.58
+TRAB_00011;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;45239.11;3231.37
+TRAB_00012;País Vasco;Hostelería;Tiempo completo;Hombres;62;21050.99;1503.64
+TRAB_00013;Castilla y León;Hostelería;Tiempo completo;Hombres;44;22348.69;1596.33
+TRAB_00014;Cataluña;Hostelería;Tiempo completo;Hombres;35;24933.99;1781.0
+TRAB_00015;País Vasco;Hostelería;Tiempo completo;Hombres;48;10500.0;750.0
+TRAB_00016;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;47397.12;3385.51
+TRAB_00017;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;50;10500.0;750.0
+TRAB_00018;Galicia;Hostelería;Tiempo parcial;Mujeres;49;10500.0;750.0
+TRAB_00019;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;49;25584.21;1827.44
+TRAB_00020;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;29698.12;2121.29
+TRAB_00021;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;36076.43;2576.89
+TRAB_00022;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;30505.45;2178.96
+TRAB_00023;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;28024.11;2001.72
+TRAB_00024;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;31242.51;2231.61
+TRAB_00025;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;38;10500.0;750.0
+TRAB_00026;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;54;23036.06;1645.43
+TRAB_00027;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;57;32082.3;2291.59
+TRAB_00028;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;60;28710.15;2050.72
+TRAB_00029;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;44;27489.28;1963.52
+TRAB_00030;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;23;23962.05;1711.58
+TRAB_00031;Canarias;Hostelería;Tiempo completo;Mujeres;30;21359.24;1525.66
+TRAB_00032;Castilla y León;Hostelería;Tiempo completo;Mujeres;32;13240.68;945.76
+TRAB_00033;Galicia;Hostelería;Tiempo parcial;Mujeres;46;10500.0;750.0
+TRAB_00034;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;54;12632.58;902.33
+TRAB_00035;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;24;23288.24;1663.45
+TRAB_00036;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;57071.14;4076.51
+TRAB_00037;Andalucía;Hostelería;Tiempo parcial;Hombres;42;15640.73;1117.19
+TRAB_00038;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;56;11206.28;800.45
+TRAB_00039;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;27;10726.91;766.21
+TRAB_00040;Canarias;Hostelería;Tiempo parcial;Hombres;42;11253.75;803.84
+TRAB_00041;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;41558.63;2968.47
+TRAB_00042;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;23;11847.7;846.26
+TRAB_00043;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;30;31368.93;2240.64
+TRAB_00044;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;34;44438.04;3174.15
+TRAB_00045;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;48586.02;3470.43
+TRAB_00046;Cataluña;Hostelería;Tiempo completo;Hombres;44;22605.57;1614.68
+TRAB_00047;Cataluña;Hostelería;Tiempo completo;Mujeres;43;18341.87;1310.13
+TRAB_00048;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;32721.79;2337.27
+TRAB_00049;Cataluña;Hostelería;Tiempo parcial;Hombres;27;11100.26;792.88
+TRAB_00050;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;63;10500.0;750.0
+TRAB_00051;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;36544.89;2610.35
+TRAB_00052;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;47791.8;3413.7
+TRAB_00053;Cataluña;Hostelería;Tiempo parcial;Mujeres;26;10500.0;750.0
+TRAB_00054;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;35;56593.44;4042.39
+TRAB_00055;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;31657.63;2261.26
+TRAB_00056;Andalucía;Hostelería;Tiempo completo;Hombres;44;17261.9;1232.99
+TRAB_00057;Balears, Illes;Información y comunicaciones (Tech);Tiempo parcial;Hombres;31;17889.62;1277.83
+TRAB_00058;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;23;26891.99;1920.86
+TRAB_00059;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;56;14555.09;1039.65
+TRAB_00060;Balears, Illes;Hostelería;Tiempo completo;Mujeres;31;28445.27;2031.81
+TRAB_00061;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;51071.9;3647.99
+TRAB_00062;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;28;20378.98;1455.64
+TRAB_00063;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;57;36037.84;2574.13
+TRAB_00064;Cataluña;Hostelería;Tiempo completo;Mujeres;56;19685.07;1406.08
+TRAB_00065;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;38040.87;2717.21
+TRAB_00066;País Vasco;Hostelería;Tiempo completo;Mujeres;41;21895.11;1563.94
+TRAB_00067;Cataluña;Hostelería;Tiempo parcial;Hombres;33;11862.49;847.32
+TRAB_00068;Andalucía;Hostelería;Tiempo completo;Hombres;26;17001.9;1214.42
+TRAB_00069;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;44;36916.7;2636.91
+TRAB_00070;Canarias;Hostelería;Tiempo parcial;Hombres;56;10500.0;750.0
+TRAB_00071;Cataluña;Hostelería;Tiempo completo;Hombres;31;20360.29;1454.31
+TRAB_00072;Cataluña;Hostelería;Tiempo completo;Hombres;48;20330.92;1452.21
+TRAB_00073;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;22;18730.52;1337.89
+TRAB_00074;Andalucía;Hostelería;Tiempo completo;Mujeres;40;19333.77;1380.98
+TRAB_00075;Andalucía;Hostelería;Tiempo completo;Mujeres;60;11154.15;796.73
+TRAB_00076;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;62;28200.41;2014.32
+TRAB_00077;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;46;16127.2;1151.94
+TRAB_00078;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;42;12006.89;857.63
+TRAB_00079;Balears, Illes;Información y comunicaciones (Tech);Tiempo parcial;Hombres;40;17721.33;1265.81
+TRAB_00080;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;24;19491.99;1392.29
+TRAB_00081;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;29;16497.75;1178.41
+TRAB_00082;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;37886.36;2706.17
+TRAB_00083;Canarias;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;38;14405.66;1028.98
+TRAB_00084;Cataluña;Hostelería;Tiempo completo;Hombres;27;13597.56;971.25
+TRAB_00085;País Vasco;Hostelería;Tiempo parcial;Hombres;51;10500.0;750.0
+TRAB_00086;Canarias;Hostelería;Tiempo completo;Mujeres;46;16371.12;1169.37
+TRAB_00087;Galicia;Hostelería;Tiempo parcial;Hombres;56;10500.0;750.0
+TRAB_00088;País Vasco;Hostelería;Tiempo parcial;Mujeres;58;10500.0;750.0
+TRAB_00089;Cataluña;Hostelería;Tiempo completo;Hombres;22;20481.18;1462.94
+TRAB_00090;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;36629.95;2616.42
+TRAB_00091;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;33;26930.67;1923.62
+TRAB_00092;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;60;54853.32;3918.09
+TRAB_00093;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;32182.76;2298.77
+TRAB_00094;Andalucía;Hostelería;Tiempo completo;Mujeres;51;17965.64;1283.26
+TRAB_00095;Castilla y León;Hostelería;Tiempo parcial;Hombres;38;10500.0;750.0
+TRAB_00096;Canarias;Hostelería;Tiempo completo;Hombres;32;17277.81;1234.13
+TRAB_00097;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;30088.73;2149.2
+TRAB_00098;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;36389.06;2599.22
+TRAB_00099;Cataluña;Hostelería;Tiempo completo;Hombres;27;19571.88;1397.99
+TRAB_00100;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;30;30682.82;2191.63
+TRAB_00101;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;39662.19;2833.01
+TRAB_00102;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;43;17518.55;1251.33
+TRAB_00103;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;47;45189.01;3227.79
+TRAB_00104;Andalucía;Hostelería;Tiempo completo;Hombres;56;18745.0;1338.93
+TRAB_00105;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;30448.64;2174.9
+TRAB_00106;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;25;18760.85;1340.06
+TRAB_00107;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;45708.12;3264.87
+TRAB_00108;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;44850.19;3203.59
+TRAB_00109;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;54;19175.04;1369.65
+TRAB_00110;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;30;10500.0;750.0
+TRAB_00111;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;33565.7;2397.55
+TRAB_00112;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;59;12997.32;928.38
+TRAB_00113;Balears, Illes;Hostelería;Tiempo completo;Mujeres;26;17741.77;1267.27
+TRAB_00114;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;22981.58;1641.54
+TRAB_00115;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;34;17392.66;1242.33
+TRAB_00116;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;34;40426.59;2887.61
+TRAB_00117;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;30;17106.64;1221.9
+TRAB_00118;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;35;34047.55;2431.97
+TRAB_00119;Canarias;Hostelería;Tiempo completo;Hombres;22;19452.18;1389.44
+TRAB_00120;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;51;14476.3;1034.02
+TRAB_00121;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;25;23280.98;1662.93
+TRAB_00122;Andalucía;Hostelería;Tiempo parcial;Mujeres;59;10500.0;750.0
+TRAB_00123;Cataluña;Hostelería;Tiempo completo;Hombres;23;23569.64;1683.55
+TRAB_00124;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;29;11210.36;800.74
+TRAB_00125;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;51;11400.11;814.29
+TRAB_00126;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;25;42233.99;3016.71
+TRAB_00127;País Vasco;Hostelería;Tiempo parcial;Hombres;59;10500.0;750.0
+TRAB_00128;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;50;20203.23;1443.09
+TRAB_00129;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;25310.04;1807.86
+TRAB_00130;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;29;23390.77;1670.77
+TRAB_00131;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;61;62011.77;4429.41
+TRAB_00132;Castilla y León;Información y comunicaciones (Tech);Tiempo parcial;Hombres;25;18239.64;1302.83
+TRAB_00133;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;52;10500.0;750.0
+TRAB_00134;Balears, Illes;Hostelería;Tiempo parcial;Hombres;58;15151.02;1082.22
+TRAB_00135;Galicia;Hostelería;Tiempo completo;Mujeres;61;11166.37;797.6
+TRAB_00136;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;56;14114.06;1008.15
+TRAB_00137;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;39;21760.61;1554.33
+TRAB_00138;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;46;10915.32;779.67
+TRAB_00139;Cataluña;Hostelería;Tiempo parcial;Hombres;43;10500.0;750.0
+TRAB_00140;Canarias;Hostelería;Tiempo completo;Mujeres;43;14879.56;1062.83
+TRAB_00141;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;19735.67;1409.69
+TRAB_00142;Cataluña;Hostelería;Tiempo completo;Mujeres;50;12354.99;882.5
+TRAB_00143;Andalucía;Hostelería;Tiempo completo;Mujeres;23;11361.29;811.52
+TRAB_00144;País Vasco;Hostelería;Tiempo completo;Hombres;60;28684.13;2048.87
+TRAB_00145;Cataluña;Hostelería;Tiempo parcial;Mujeres;54;13058.49;932.75
+TRAB_00146;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;51444.0;3674.57
+TRAB_00147;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;29837.07;2131.22
+TRAB_00148;Castilla y León;Hostelería;Tiempo parcial;Hombres;58;10500.0;750.0
+TRAB_00149;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;24971.99;1783.71
+TRAB_00150;Galicia;Hostelería;Tiempo completo;Hombres;23;24558.75;1754.2
+TRAB_00151;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;48547.44;3467.67
+TRAB_00152;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;28751.11;2053.65
+TRAB_00153;Castilla y León;Hostelería;Tiempo parcial;Hombres;38;10500.0;750.0
+TRAB_00154;Cataluña;Hostelería;Tiempo completo;Mujeres;25;13159.33;939.95
+TRAB_00155;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;27;17333.66;1238.12
+TRAB_00156;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;63;10839.1;774.22
+TRAB_00157;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;55;54989.27;3927.8
+TRAB_00158;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;41129.33;2937.81
+TRAB_00159;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;47419.74;3387.12
+TRAB_00160;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;45;10500.0;750.0
+TRAB_00161;País Vasco;Hostelería;Tiempo completo;Hombres;41;18634.23;1331.02
+TRAB_00162;Canarias;Hostelería;Tiempo completo;Mujeres;23;16377.54;1169.82
+TRAB_00163;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;25978.43;1855.6
+TRAB_00164;Galicia;Hostelería;Tiempo parcial;Hombres;55;10500.0;750.0
+TRAB_00165;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;39330.1;2809.29
+TRAB_00166;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;42;20672.33;1476.6
+TRAB_00167;País Vasco;Hostelería;Tiempo parcial;Mujeres;39;10500.0;750.0
+TRAB_00168;Balears, Illes;Hostelería;Tiempo completo;Mujeres;28;19768.38;1412.03
+TRAB_00169;Andalucía;Hostelería;Tiempo completo;Hombres;36;13175.77;941.13
+TRAB_00170;Canarias;Hostelería;Tiempo parcial;Hombres;51;11941.94;853.0
+TRAB_00171;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;35;19353.56;1382.4
+TRAB_00172;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;44509.3;3179.24
+TRAB_00173;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;41307.67;2950.55
+TRAB_00174;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;55;47422.17;3387.3
+TRAB_00175;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;56;31781.5;2270.11
+TRAB_00176;Cataluña;Hostelería;Tiempo completo;Hombres;60;17779.1;1269.94
+TRAB_00177;País Vasco;Hostelería;Tiempo completo;Hombres;51;19318.25;1379.88
+TRAB_00178;Cataluña;Hostelería;Tiempo parcial;Hombres;36;12636.88;902.63
+TRAB_00179;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;58;30508.49;2179.18
+TRAB_00180;Balears, Illes;Hostelería;Tiempo completo;Mujeres;46;16697.66;1192.69
+TRAB_00181;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;31;19487.15;1391.94
+TRAB_00182;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;44;27489.74;1963.55
+TRAB_00183;Balears, Illes;Hostelería;Tiempo parcial;Hombres;63;10500.0;750.0
+TRAB_00184;Castilla y León;Hostelería;Tiempo completo;Mujeres;46;30169.49;2154.96
+TRAB_00185;Andalucía;Hostelería;Tiempo completo;Mujeres;24;16776.04;1198.29
+TRAB_00186;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;16143.23;1153.09
+TRAB_00187;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;29;19058.17;1361.3
+TRAB_00188;Canarias;Hostelería;Tiempo completo;Mujeres;34;17908.52;1279.18
+TRAB_00189;Andalucía;Hostelería;Tiempo completo;Mujeres;24;22795.5;1628.25
+TRAB_00190;Cataluña;Hostelería;Tiempo parcial;Mujeres;61;10500.0;750.0
+TRAB_00191;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;31645.57;2260.4
+TRAB_00192;Canarias;Hostelería;Tiempo completo;Mujeres;63;19877.48;1419.82
+TRAB_00193;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;54105.77;3864.7
+TRAB_00194;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;62;43087.98;3077.71
+TRAB_00195;Cataluña;Hostelería;Tiempo parcial;Mujeres;56;10500.0;750.0
+TRAB_00196;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;33966.12;2426.15
+TRAB_00197;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;25;13361.99;954.43
+TRAB_00198;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;22761.36;1625.81
+TRAB_00199;Canarias;Hostelería;Tiempo parcial;Mujeres;56;10500.0;750.0
+TRAB_00200;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;44446.14;3174.72
+TRAB_00201;Cataluña;Hostelería;Tiempo completo;Mujeres;38;25194.64;1799.62
+TRAB_00202;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;32969.12;2354.94
+TRAB_00203;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;15379.05;1098.5
+TRAB_00204;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;34899.98;2492.86
+TRAB_00205;Andalucía;Hostelería;Tiempo completo;Mujeres;46;18870.9;1347.92
+TRAB_00206;Galicia;Hostelería;Tiempo parcial;Mujeres;45;10629.86;759.28
+TRAB_00207;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;35;13228.85;944.92
+TRAB_00208;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;45509.35;3250.67
+TRAB_00209;Cataluña;Hostelería;Tiempo parcial;Hombres;34;10738.2;767.01
+TRAB_00210;Cataluña;Hostelería;Tiempo parcial;Mujeres;32;10500.0;750.0
+TRAB_00211;Castilla y León;Hostelería;Tiempo parcial;Hombres;43;10500.0;750.0
+TRAB_00212;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;35930.43;2566.46
+TRAB_00213;Andalucía;Hostelería;Tiempo completo;Hombres;23;21592.56;1542.33
+TRAB_00214;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;32824.27;2344.59
+TRAB_00215;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;61;12703.58;907.4
+TRAB_00216;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;40321.7;2880.12
+TRAB_00217;País Vasco;Hostelería;Tiempo parcial;Hombres;28;11058.1;789.86
+TRAB_00218;Galicia;Hostelería;Tiempo completo;Hombres;63;25406.18;1814.73
+TRAB_00219;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;37116.87;2651.21
+TRAB_00220;Cataluña;Hostelería;Tiempo completo;Mujeres;53;21696.66;1549.76
+TRAB_00221;Andalucía;Hostelería;Tiempo parcial;Hombres;53;10500.0;750.0
+TRAB_00222;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;67846.44;4846.17
+TRAB_00223;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;45;10500.0;750.0
+TRAB_00224;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;23885.59;1706.11
+TRAB_00225;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;36;19309.49;1379.25
+TRAB_00226;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;39;21974.12;1569.58
+TRAB_00227;País Vasco;Hostelería;Tiempo completo;Mujeres;51;15298.78;1092.77
+TRAB_00228;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;35;10500.0;750.0
+TRAB_00229;Cataluña;Hostelería;Tiempo completo;Hombres;46;14821.27;1058.66
+TRAB_00230;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;32;13553.82;968.13
+TRAB_00231;Cataluña;Hostelería;Tiempo completo;Hombres;33;18963.0;1354.5
+TRAB_00232;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;43103.18;3078.8
+TRAB_00233;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;33565.17;2397.51
+TRAB_00234;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;58;13396.76;956.91
+TRAB_00235;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;26;20763.75;1483.12
+TRAB_00236;Cataluña;Hostelería;Tiempo completo;Mujeres;55;16421.75;1172.98
+TRAB_00237;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;24159.8;1725.7
+TRAB_00238;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;43630.51;3116.47
+TRAB_00239;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;26;10773.74;769.55
+TRAB_00240;Galicia;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;48;17467.37;1247.67
+TRAB_00241;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;37;10738.07;767.0
+TRAB_00242;Cataluña;Hostelería;Tiempo completo;Mujeres;30;23961.41;1711.53
+TRAB_00243;Canarias;Hostelería;Tiempo parcial;Hombres;52;10866.69;776.19
+TRAB_00244;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;43199.96;3085.71
+TRAB_00245;Cataluña;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_00246;Cataluña;Hostelería;Tiempo completo;Hombres;56;13425.04;958.93
+TRAB_00247;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;40025.04;2858.93
+TRAB_00248;Canarias;Hostelería;Tiempo parcial;Mujeres;50;13189.95;942.14
+TRAB_00249;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;52458.46;3747.03
+TRAB_00250;País Vasco;Hostelería;Tiempo parcial;Hombres;44;10865.6;776.11
+TRAB_00251;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;57;30299.93;2164.28
+TRAB_00252;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;36977.66;2641.26
+TRAB_00253;Andalucía;Hostelería;Tiempo completo;Hombres;51;13541.49;967.25
+TRAB_00254;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;48466.94;3461.92
+TRAB_00255;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;63;19424.62;1387.47
+TRAB_00256;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;39165.88;2797.56
+TRAB_00257;Galicia;Hostelería;Tiempo parcial;Hombres;30;10500.0;750.0
+TRAB_00258;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;36297.98;2592.71
+TRAB_00259;Cataluña;Hostelería;Tiempo parcial;Hombres;31;12290.69;877.91
+TRAB_00260;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;55;46129.06;3294.93
+TRAB_00261;Andalucía;Hostelería;Tiempo completo;Hombres;56;21355.52;1525.39
+TRAB_00262;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;59894.71;4278.19
+TRAB_00263;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;41383.48;2955.96
+TRAB_00264;Cataluña;Hostelería;Tiempo parcial;Mujeres;57;10500.0;750.0
+TRAB_00265;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;26720.92;1908.64
+TRAB_00266;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;42;10565.42;754.67
+TRAB_00267;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;18503.71;1321.69
+TRAB_00268;Cataluña;Hostelería;Tiempo completo;Mujeres;57;14681.43;1048.67
+TRAB_00269;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;63;10500.0;750.0
+TRAB_00270;Cataluña;Hostelería;Tiempo parcial;Mujeres;37;10500.0;750.0
+TRAB_00271;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;41;22361.33;1597.24
+TRAB_00272;Andalucía;Hostelería;Tiempo parcial;Hombres;60;11341.17;810.08
+TRAB_00273;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;35;16336.78;1166.91
+TRAB_00274;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;36329.59;2594.97
+TRAB_00275;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;39945.36;2853.24
+TRAB_00276;Castilla y León;Hostelería;Tiempo completo;Mujeres;63;20853.96;1489.57
+TRAB_00277;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;35;10875.57;776.83
+TRAB_00278;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;45396.35;3242.6
+TRAB_00279;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;23;31774.76;2269.63
+TRAB_00280;País Vasco;Hostelería;Tiempo completo;Mujeres;62;20771.07;1483.65
+TRAB_00281;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;25;19531.03;1395.07
+TRAB_00282;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;40485.9;2891.85
+TRAB_00283;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;33802.0;2414.43
+TRAB_00284;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;40;10862.15;775.87
+TRAB_00285;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;28;36506.41;2607.6
+TRAB_00286;Canarias;Hostelería;Tiempo parcial;Mujeres;50;10500.0;750.0
+TRAB_00287;Andalucía;Hostelería;Tiempo completo;Hombres;56;12819.55;915.68
+TRAB_00288;País Vasco;Hostelería;Tiempo parcial;Hombres;23;10500.0;750.0
+TRAB_00289;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;40979.61;2927.12
+TRAB_00290;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;29932.32;2138.02
+TRAB_00291;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;50769.14;3626.37
+TRAB_00292;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;30573.23;2183.8
+TRAB_00293;Cataluña;Hostelería;Tiempo completo;Hombres;42;21165.8;1511.84
+TRAB_00294;Galicia;Hostelería;Tiempo completo;Hombres;61;14577.27;1041.23
+TRAB_00295;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;29;10500.0;750.0
+TRAB_00296;Castilla y León;Hostelería;Tiempo completo;Mujeres;44;16472.18;1176.58
+TRAB_00297;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;45;10500.0;750.0
+TRAB_00298;Canarias;Hostelería;Tiempo parcial;Mujeres;49;10500.0;750.0
+TRAB_00299;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;48964.43;3497.46
+TRAB_00300;Cataluña;Hostelería;Tiempo completo;Hombres;25;16972.82;1212.34
+TRAB_00301;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;31;14925.93;1066.14
+TRAB_00302;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;53;21211.36;1515.1
+TRAB_00303;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;39;17620.89;1258.63
+TRAB_00304;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;51;28468.32;2033.45
+TRAB_00305;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;42;20941.89;1495.85
+TRAB_00306;Galicia;Hostelería;Tiempo parcial;Hombres;34;10500.0;750.0
+TRAB_00307;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;22650.78;1617.91
+TRAB_00308;Canarias;Hostelería;Tiempo parcial;Hombres;39;10731.38;766.53
+TRAB_00309;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;36;43144.55;3081.75
+TRAB_00310;Andalucía;Hostelería;Tiempo completo;Mujeres;40;17585.09;1256.08
+TRAB_00311;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;58;38753.9;2768.14
+TRAB_00312;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;61;28981.32;2070.09
+TRAB_00313;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;38478.54;2748.47
+TRAB_00314;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;53018.54;3787.04
+TRAB_00315;Galicia;Hostelería;Tiempo parcial;Hombres;55;11327.43;809.1
+TRAB_00316;Galicia;Hostelería;Tiempo completo;Mujeres;25;21988.7;1570.62
+TRAB_00317;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;19234.71;1373.91
+TRAB_00318;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;41;10500.0;750.0
+TRAB_00319;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;58;45878.99;3277.07
+TRAB_00320;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;52;14038.4;1002.74
+TRAB_00321;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;45;50043.12;3574.51
+TRAB_00322;Galicia;Hostelería;Tiempo completo;Hombres;57;14902.94;1064.5
+TRAB_00323;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;41708.63;2979.19
+TRAB_00324;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;37190.82;2656.49
+TRAB_00325;País Vasco;Hostelería;Tiempo parcial;Mujeres;26;10500.0;750.0
+TRAB_00326;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;27;29923.44;2137.39
+TRAB_00327;Cataluña;Hostelería;Tiempo parcial;Hombres;47;12129.92;866.42
+TRAB_00328;Andalucía;Hostelería;Tiempo completo;Hombres;60;15369.2;1097.8
+TRAB_00329;Balears, Illes;Hostelería;Tiempo parcial;Hombres;62;11780.51;841.47
+TRAB_00330;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;51;30119.24;2151.37
+TRAB_00331;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;30376.74;2169.77
+TRAB_00332;Cataluña;Hostelería;Tiempo completo;Mujeres;41;12253.93;875.28
+TRAB_00333;Andalucía;Hostelería;Tiempo completo;Hombres;48;20447.38;1460.53
+TRAB_00334;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Hombres;28;16207.43;1157.67
+TRAB_00335;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;22006.4;1571.89
+TRAB_00336;Andalucía;Hostelería;Tiempo parcial;Mujeres;62;10872.52;776.61
+TRAB_00337;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;49157.51;3511.25
+TRAB_00338;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;55968.64;3997.76
+TRAB_00339;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;31;19246.24;1374.73
+TRAB_00340;Cataluña;Hostelería;Tiempo parcial;Mujeres;45;12988.66;927.76
+TRAB_00341;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;53;17163.87;1225.99
+TRAB_00342;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;35406.08;2529.01
+TRAB_00343;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;61;23532.44;1680.89
+TRAB_00344;Andalucía;Hostelería;Tiempo completo;Mujeres;46;17188.65;1227.76
+TRAB_00345;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;23523.08;1680.22
+TRAB_00346;Andalucía;Hostelería;Tiempo parcial;Mujeres;36;10500.0;750.0
+TRAB_00347;Andalucía;Hostelería;Tiempo completo;Mujeres;33;19020.31;1358.59
+TRAB_00348;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;21932.43;1566.6
+TRAB_00349;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;58;32209.5;2300.68
+TRAB_00350;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;22392.2;1599.44
+TRAB_00351;Andalucía;Hostelería;Tiempo completo;Mujeres;55;12743.95;910.28
+TRAB_00352;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;55;29702.73;2121.62
+TRAB_00353;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;30;22833.88;1630.99
+TRAB_00354;Cataluña;Hostelería;Tiempo completo;Mujeres;30;25270.39;1805.03
+TRAB_00355;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;27886.65;1991.9
+TRAB_00356;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;37283.04;2663.07
+TRAB_00357;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;26;10569.53;754.97
+TRAB_00358;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;43441.97;3103.0
+TRAB_00359;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;22;17963.22;1283.09
+TRAB_00360;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;42;20610.12;1472.15
+TRAB_00361;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;33;46150.77;3296.48
+TRAB_00362;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;48;26652.79;1903.77
+TRAB_00363;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;57;16192.6;1156.61
+TRAB_00364;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;29267.45;2090.53
+TRAB_00365;Balears, Illes;Hostelería;Tiempo completo;Mujeres;40;23373.66;1669.55
+TRAB_00366;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;40;19480.85;1391.49
+TRAB_00367;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;61;10500.0;750.0
+TRAB_00368;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;62;22113.21;1579.51
+TRAB_00369;Balears, Illes;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;43;17082.98;1220.21
+TRAB_00370;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;42;19324.71;1380.34
+TRAB_00371;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;54;11399.49;814.25
+TRAB_00372;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;47382.45;3384.46
+TRAB_00373;Cataluña;Hostelería;Tiempo completo;Hombres;36;23543.21;1681.66
+TRAB_00374;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;34070.09;2433.58
+TRAB_00375;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;33;26183.77;1870.27
+TRAB_00376;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;44;10500.0;750.0
+TRAB_00377;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;30018.25;2144.16
+TRAB_00378;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;13389.31;956.38
+TRAB_00379;Castilla y León;Hostelería;Tiempo completo;Mujeres;41;16263.16;1161.65
+TRAB_00380;Andalucía;Hostelería;Tiempo completo;Hombres;62;14491.37;1035.1
+TRAB_00381;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;36077.53;2576.97
+TRAB_00382;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;22;20277.18;1448.37
+TRAB_00383;País Vasco;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;33;16068.99;1147.79
+TRAB_00384;Canarias;Hostelería;Tiempo parcial;Mujeres;44;11889.29;849.24
+TRAB_00385;Galicia;Hostelería;Tiempo completo;Mujeres;39;16425.88;1173.28
+TRAB_00386;Cataluña;Hostelería;Tiempo completo;Hombres;41;16435.23;1173.94
+TRAB_00387;Cataluña;Hostelería;Tiempo completo;Mujeres;23;24905.62;1778.97
+TRAB_00388;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;30;42413.87;3029.56
+TRAB_00389;Castilla y León;Hostelería;Tiempo parcial;Hombres;23;12445.62;888.97
+TRAB_00390;Galicia;Hostelería;Tiempo parcial;Mujeres;22;10500.0;750.0
+TRAB_00391;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;52;28612.24;2043.73
+TRAB_00392;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;30;21302.87;1521.63
+TRAB_00393;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;24;51717.43;3694.1
+TRAB_00394;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;57;10500.0;750.0
+TRAB_00395;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;28;23320.36;1665.74
+TRAB_00396;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;28128.59;2009.18
+TRAB_00397;Andalucía;Hostelería;Tiempo completo;Mujeres;29;12562.6;897.33
+TRAB_00398;Andalucía;Hostelería;Tiempo parcial;Hombres;26;10500.0;750.0
+TRAB_00399;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;22116.69;1579.76
+TRAB_00400;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;36743.7;2624.55
+TRAB_00401;Cataluña;Hostelería;Tiempo completo;Hombres;27;24692.5;1763.75
+TRAB_00402;Cataluña;Hostelería;Tiempo parcial;Hombres;53;11813.21;843.8
+TRAB_00403;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;55;27353.82;1953.84
+TRAB_00404;Cataluña;Hostelería;Tiempo parcial;Mujeres;42;10500.0;750.0
+TRAB_00405;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;22;16689.92;1192.14
+TRAB_00406;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;34153.22;2439.52
+TRAB_00407;Cataluña;Hostelería;Tiempo completo;Mujeres;40;18208.34;1300.6
+TRAB_00408;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;20517.51;1465.54
+TRAB_00409;País Vasco;Hostelería;Tiempo completo;Mujeres;42;18807.2;1343.37
+TRAB_00410;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;46661.09;3332.93
+TRAB_00411;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;53;10500.0;750.0
+TRAB_00412;Andalucía;Hostelería;Tiempo completo;Hombres;48;17185.53;1227.54
+TRAB_00413;Andalucía;Hostelería;Tiempo completo;Mujeres;35;10500.0;750.0
+TRAB_00414;Andalucía;Hostelería;Tiempo parcial;Hombres;30;10500.0;750.0
+TRAB_00415;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;45342.01;3238.72
+TRAB_00416;Balears, Illes;Hostelería;Tiempo completo;Hombres;50;10500.0;750.0
+TRAB_00417;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;42308.5;3022.04
+TRAB_00418;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;40;19368.79;1383.49
+TRAB_00419;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;38525.86;2751.85
+TRAB_00420;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;30;12135.59;866.83
+TRAB_00421;Galicia;Hostelería;Tiempo parcial;Hombres;30;10500.0;750.0
+TRAB_00422;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;35;23900.2;1707.16
+TRAB_00423;Balears, Illes;Hostelería;Tiempo completo;Mujeres;59;18146.92;1296.21
+TRAB_00424;Galicia;Hostelería;Tiempo parcial;Hombres;23;10500.0;750.0
+TRAB_00425;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;24;20817.9;1486.99
+TRAB_00426;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;30255.56;2161.11
+TRAB_00427;Cataluña;Hostelería;Tiempo parcial;Hombres;38;12491.48;892.25
+TRAB_00428;Galicia;Hostelería;Tiempo completo;Mujeres;35;19124.34;1366.02
+TRAB_00429;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;51;15377.5;1098.39
+TRAB_00430;Cataluña;Hostelería;Tiempo completo;Hombres;39;20261.07;1447.22
+TRAB_00431;País Vasco;Hostelería;Tiempo completo;Hombres;52;19741.23;1410.09
+TRAB_00432;Andalucía;Hostelería;Tiempo parcial;Mujeres;29;10500.0;750.0
+TRAB_00433;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;38474.96;2748.21
+TRAB_00434;Castilla y León;Hostelería;Tiempo completo;Mujeres;34;18098.39;1292.74
+TRAB_00435;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;38;21675.54;1548.25
+TRAB_00436;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;49835.23;3559.66
+TRAB_00437;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;32797.92;2342.71
+TRAB_00438;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;41775.84;2983.99
+TRAB_00439;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;56;19026.66;1359.05
+TRAB_00440;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;38114.93;2722.49
+TRAB_00441;Cataluña;Hostelería;Tiempo parcial;Hombres;59;13286.05;949.0
+TRAB_00442;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;45;31318.12;2237.01
+TRAB_00443;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;42;10500.0;750.0
+TRAB_00444;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;31;27858.78;1989.91
+TRAB_00445;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;59;10500.0;750.0
+TRAB_00446;Cataluña;Hostelería;Tiempo completo;Mujeres;45;16022.6;1144.47
+TRAB_00447;Castilla y León;Hostelería;Tiempo completo;Hombres;22;21714.45;1551.03
+TRAB_00448;Andalucía;Hostelería;Tiempo parcial;Hombres;63;10500.0;750.0
+TRAB_00449;Galicia;Hostelería;Tiempo completo;Hombres;53;12674.91;905.35
+TRAB_00450;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;37;10500.0;750.0
+TRAB_00451;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;30;23846.57;1703.33
+TRAB_00452;Cataluña;Hostelería;Tiempo completo;Hombres;61;20718.87;1479.92
+TRAB_00453;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;41553.35;2968.1
+TRAB_00454;Canarias;Hostelería;Tiempo completo;Mujeres;41;15729.1;1123.51
+TRAB_00455;Canarias;Hostelería;Tiempo completo;Hombres;47;15999.21;1142.8
+TRAB_00456;Galicia;Hostelería;Tiempo completo;Hombres;29;16229.14;1159.22
+TRAB_00457;Cataluña;Hostelería;Tiempo parcial;Hombres;59;10500.0;750.0
+TRAB_00458;País Vasco;Hostelería;Tiempo completo;Hombres;26;10500.0;750.0
+TRAB_00459;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;59;13569.36;969.24
+TRAB_00460;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;43;18238.96;1302.78
+TRAB_00461;Andalucía;Hostelería;Tiempo completo;Hombres;24;16697.0;1192.64
+TRAB_00462;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;34;28910.72;2065.05
+TRAB_00463;Cataluña;Hostelería;Tiempo parcial;Hombres;25;10500.0;750.0
+TRAB_00464;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;36159.55;2582.83
+TRAB_00465;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;32240.13;2302.87
+TRAB_00466;País Vasco;Hostelería;Tiempo completo;Hombres;53;19788.37;1413.45
+TRAB_00467;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;41;53357.04;3811.22
+TRAB_00468;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;49;21422.45;1530.17
+TRAB_00469;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;44488.8;3177.77
+TRAB_00470;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;40594.86;2899.63
+TRAB_00471;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;22;10500.0;750.0
+TRAB_00472;Balears, Illes;Hostelería;Tiempo parcial;Mujeres;35;10500.0;750.0
+TRAB_00473;Canarias;Hostelería;Tiempo completo;Mujeres;39;12655.31;903.95
+TRAB_00474;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;38576.88;2755.49
+TRAB_00475;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;62;11232.97;802.35
+TRAB_00476;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;37259.72;2661.41
+TRAB_00477;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;26;28984.7;2070.34
+TRAB_00478;Andalucía;Hostelería;Tiempo completo;Mujeres;62;15878.36;1134.17
+TRAB_00479;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;10500.0;750.0
+TRAB_00480;Galicia;Hostelería;Tiempo completo;Mujeres;45;18295.79;1306.84
+TRAB_00481;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;30495.23;2178.23
+TRAB_00482;Andalucía;Hostelería;Tiempo completo;Hombres;27;20164.66;1440.33
+TRAB_00483;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;38114.36;2722.45
+TRAB_00484;Galicia;Hostelería;Tiempo completo;Hombres;58;12904.82;921.77
+TRAB_00485;Galicia;Hostelería;Tiempo completo;Hombres;57;23338.93;1667.07
+TRAB_00486;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;55;13119.59;937.11
+TRAB_00487;Andalucía;Hostelería;Tiempo parcial;Hombres;38;10500.0;750.0
+TRAB_00488;País Vasco;Hostelería;Tiempo completo;Mujeres;46;20671.74;1476.55
+TRAB_00489;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;29113.99;2079.57
+TRAB_00490;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;38;13574.46;969.6
+TRAB_00491;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;49523.86;3537.42
+TRAB_00492;Balears, Illes;Hostelería;Tiempo completo;Hombres;36;23750.24;1696.45
+TRAB_00493;Cataluña;Hostelería;Tiempo parcial;Hombres;56;10867.36;776.24
+TRAB_00494;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;44093.16;3149.51
+TRAB_00495;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;34;33684.48;2406.03
+TRAB_00496;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;58;18419.71;1315.69
+TRAB_00497;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;40;15339.85;1095.7
+TRAB_00498;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;26;46138.54;3295.61
+TRAB_00499;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;35;19116.34;1365.45
+TRAB_00500;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;23;45375.47;3241.11
+TRAB_00501;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;28;16131.96;1152.28
+TRAB_00502;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;44688.71;3192.05
+TRAB_00503;Balears, Illes;Hostelería;Tiempo completo;Hombres;31;19078.4;1362.74
+TRAB_00504;País Vasco;Hostelería;Tiempo completo;Hombres;33;13803.07;985.93
+TRAB_00505;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;23;40536.02;2895.43
+TRAB_00506;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;59;12356.18;882.58
+TRAB_00507;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;28303.77;2021.7
+TRAB_00508;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;54;39467.59;2819.11
+TRAB_00509;Andalucía;Hostelería;Tiempo completo;Hombres;23;16640.36;1188.6
+TRAB_00510;País Vasco;Hostelería;Tiempo parcial;Hombres;25;10500.0;750.0
+TRAB_00511;Andalucía;Hostelería;Tiempo parcial;Hombres;30;10500.0;750.0
+TRAB_00512;Canarias;Hostelería;Tiempo completo;Hombres;56;19181.81;1370.13
+TRAB_00513;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;25;14690.42;1049.32
+TRAB_00514;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;27567.99;1969.14
+TRAB_00515;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;53;10500.0;750.0
+TRAB_00516;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;15103.01;1078.79
+TRAB_00517;Cataluña;Hostelería;Tiempo completo;Hombres;24;25668.08;1833.43
+TRAB_00518;Andalucía;Hostelería;Tiempo completo;Hombres;30;20225.36;1444.67
+TRAB_00519;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;54;34734.37;2481.03
+TRAB_00520;Andalucía;Hostelería;Tiempo parcial;Hombres;59;11212.44;800.89
+TRAB_00521;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;49;40024.17;2858.87
+TRAB_00522;Andalucía;Hostelería;Tiempo completo;Mujeres;28;10500.0;750.0
+TRAB_00523;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;24;26258.66;1875.62
+TRAB_00524;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;30835.75;2202.55
+TRAB_00525;País Vasco;Hostelería;Tiempo parcial;Mujeres;40;10500.0;750.0
+TRAB_00526;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;34489.87;2463.56
+TRAB_00527;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;53;12235.08;873.93
+TRAB_00528;Cataluña;Hostelería;Tiempo completo;Hombres;42;22425.71;1601.84
+TRAB_00529;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;62;11918.88;851.35
+TRAB_00530;Castilla y León;Hostelería;Tiempo parcial;Hombres;43;11488.39;820.6
+TRAB_00531;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;44;46353.7;3310.98
+TRAB_00532;Andalucía;Hostelería;Tiempo parcial;Hombres;54;10500.0;750.0
+TRAB_00533;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;50069.93;3576.42
+TRAB_00534;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;56505.3;4036.09
+TRAB_00535;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;30;25726.15;1837.58
+TRAB_00536;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;55;10500.0;750.0
+TRAB_00537;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;31620.19;2258.59
+TRAB_00538;Cataluña;Hostelería;Tiempo parcial;Mujeres;34;15249.17;1089.23
+TRAB_00539;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;31588.7;2256.34
+TRAB_00540;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;46;10500.0;750.0
+TRAB_00541;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;43;10500.0;750.0
+TRAB_00542;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;43012.12;3072.29
+TRAB_00543;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;19956.57;1425.47
+TRAB_00544;Galicia;Hostelería;Tiempo completo;Mujeres;39;17151.21;1225.09
+TRAB_00545;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;63;22299.15;1592.8
+TRAB_00546;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;33801.54;2414.4
+TRAB_00547;País Vasco;Hostelería;Tiempo completo;Hombres;30;18574.14;1326.72
+TRAB_00548;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;60;53617.08;3829.79
+TRAB_00549;País Vasco;Hostelería;Tiempo completo;Hombres;50;23812.15;1700.87
+TRAB_00550;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;30089.74;2149.27
+TRAB_00551;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;43;10500.0;750.0
+TRAB_00552;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;49547.32;3539.09
+TRAB_00553;Castilla y León;Hostelería;Tiempo parcial;Mujeres;32;10500.0;750.0
+TRAB_00554;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;59;12967.42;926.24
+TRAB_00555;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;51;10500.0;750.0
+TRAB_00556;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;60;17561.73;1254.41
+TRAB_00557;Galicia;Hostelería;Tiempo completo;Mujeres;45;18541.77;1324.41
+TRAB_00558;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;35150.42;2510.74
+TRAB_00559;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;19779.6;1412.83
+TRAB_00560;País Vasco;Hostelería;Tiempo completo;Mujeres;39;16209.74;1157.84
+TRAB_00561;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;48;23027.15;1644.8
+TRAB_00562;Canarias;Hostelería;Tiempo completo;Hombres;34;19949.88;1424.99
+TRAB_00563;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;30714.39;2193.88
+TRAB_00564;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;42020.24;3001.45
+TRAB_00565;Andalucía;Hostelería;Tiempo completo;Mujeres;40;24575.09;1755.36
+TRAB_00566;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;55;35570.71;2540.76
+TRAB_00567;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;33;42267.7;3019.12
+TRAB_00568;Balears, Illes;Hostelería;Tiempo completo;Mujeres;39;19926.03;1423.29
+TRAB_00569;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;33417.03;2386.93
+TRAB_00570;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;28;18054.57;1289.61
+TRAB_00571;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;38;10500.0;750.0
+TRAB_00572;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;33;43081.04;3077.22
+TRAB_00573;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;47;10500.0;750.0
+TRAB_00574;Cataluña;Hostelería;Tiempo parcial;Mujeres;29;10500.0;750.0
+TRAB_00575;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;33755.22;2411.09
+TRAB_00576;Castilla y León;Hostelería;Tiempo parcial;Hombres;48;10500.0;750.0
+TRAB_00577;Cataluña;Hostelería;Tiempo parcial;Mujeres;41;12514.19;893.87
+TRAB_00578;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;41;10500.0;750.0
+TRAB_00579;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;63;34003.44;2428.82
+TRAB_00580;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;38400.75;2742.91
+TRAB_00581;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;61;36297.49;2592.68
+TRAB_00582;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;49;18063.8;1290.27
+TRAB_00583;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;33793.68;2413.83
+TRAB_00584;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;34580.57;2470.04
+TRAB_00585;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;25650.01;1832.14
+TRAB_00586;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;49072.02;3505.14
+TRAB_00587;Cataluña;Hostelería;Tiempo parcial;Hombres;55;14825.47;1058.96
+TRAB_00588;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;36;10500.0;750.0
+TRAB_00589;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;61;29340.76;2095.77
+TRAB_00590;País Vasco;Hostelería;Tiempo completo;Mujeres;40;15502.46;1107.32
+TRAB_00591;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;60;14438.36;1031.31
+TRAB_00592;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;40;20643.73;1474.55
+TRAB_00593;Andalucía;Hostelería;Tiempo parcial;Hombres;60;10500.0;750.0
+TRAB_00594;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;24;22844.13;1631.72
+TRAB_00595;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;40607.44;2900.53
+TRAB_00596;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;44005.78;3143.27
+TRAB_00597;Galicia;Hostelería;Tiempo parcial;Hombres;46;15079.66;1077.12
+TRAB_00598;País Vasco;Hostelería;Tiempo parcial;Mujeres;41;14612.8;1043.77
+TRAB_00599;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;39720.47;2837.18
+TRAB_00600;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;47;16361.27;1168.66
+TRAB_00601;Andalucía;Hostelería;Tiempo completo;Mujeres;37;22988.47;1642.03
+TRAB_00602;País Vasco;Hostelería;Tiempo parcial;Hombres;51;10960.94;782.92
+TRAB_00603;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;38;14927.11;1066.22
+TRAB_00604;Andalucía;Hostelería;Tiempo completo;Hombres;51;18385.97;1313.28
+TRAB_00605;Cataluña;Hostelería;Tiempo parcial;Hombres;56;10500.0;750.0
+TRAB_00606;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;38239.92;2731.42
+TRAB_00607;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;57211.68;4086.55
+TRAB_00608;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;27;21877.56;1562.68
+TRAB_00609;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;33530.51;2395.04
+TRAB_00610;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;40;25687.78;1834.84
+TRAB_00611;Andalucía;Hostelería;Tiempo parcial;Hombres;49;10500.0;750.0
+TRAB_00612;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;53;24640.33;1760.02
+TRAB_00613;Cataluña;Hostelería;Tiempo completo;Mujeres;56;18286.0;1306.14
+TRAB_00614;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;33;10500.0;750.0
+TRAB_00615;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;30;25948.13;1853.44
+TRAB_00616;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;24;31117.67;2222.69
+TRAB_00617;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;61;39786.79;2841.91
+TRAB_00618;País Vasco;Hostelería;Tiempo completo;Hombres;33;18166.65;1297.62
+TRAB_00619;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;41;10500.0;750.0
+TRAB_00620;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;24;49109.23;3507.8
+TRAB_00621;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;43134.6;3081.04
+TRAB_00622;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;45;10500.0;750.0
+TRAB_00623;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;44;20290.22;1449.3
+TRAB_00624;Andalucía;Hostelería;Tiempo parcial;Mujeres;31;10500.0;750.0
+TRAB_00625;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;33416.12;2386.87
+TRAB_00626;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;61;10500.0;750.0
+TRAB_00627;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;38098.76;2721.34
+TRAB_00628;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;60;23162.01;1654.43
+TRAB_00629;Cataluña;Hostelería;Tiempo completo;Hombres;46;18345.58;1310.4
+TRAB_00630;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;48989.19;3499.23
+TRAB_00631;Galicia;Hostelería;Tiempo completo;Hombres;29;12762.78;911.63
+TRAB_00632;Cataluña;Hostelería;Tiempo parcial;Mujeres;35;11434.12;816.72
+TRAB_00633;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;35696.86;2549.78
+TRAB_00634;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;30318.77;2165.63
+TRAB_00635;Cataluña;Hostelería;Tiempo completo;Mujeres;39;22154.92;1582.49
+TRAB_00636;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;56;19154.9;1368.21
+TRAB_00637;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;34268.56;2447.75
+TRAB_00638;Canarias;Hostelería;Tiempo completo;Mujeres;27;10500.0;750.0
+TRAB_00639;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;25;15671.74;1119.41
+TRAB_00640;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;23;20218.72;1444.19
+TRAB_00641;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;30;23576.2;1684.01
+TRAB_00642;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;27529.6;1966.4
+TRAB_00643;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;29503.86;2107.42
+TRAB_00644;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;25;10500.0;750.0
+TRAB_00645;Andalucía;Hostelería;Tiempo completo;Hombres;53;19497.64;1392.69
+TRAB_00646;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;29474.81;2105.34
+TRAB_00647;Cataluña;Hostelería;Tiempo completo;Hombres;53;24166.9;1726.21
+TRAB_00648;Cataluña;Hostelería;Tiempo parcial;Hombres;63;12283.8;877.41
+TRAB_00649;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;62;30231.3;2159.38
+TRAB_00650;Balears, Illes;Hostelería;Tiempo parcial;Hombres;46;13088.18;934.87
+TRAB_00651;País Vasco;Hostelería;Tiempo parcial;Hombres;62;10500.0;750.0
+TRAB_00652;Galicia;Información y comunicaciones (Tech);Tiempo parcial;Hombres;38;16486.38;1177.6
+TRAB_00653;Castilla y León;Información y comunicaciones (Tech);Tiempo parcial;Hombres;32;16816.59;1201.18
+TRAB_00654;País Vasco;Hostelería;Tiempo parcial;Mujeres;63;10500.0;750.0
+TRAB_00655;Cataluña;Hostelería;Tiempo parcial;Mujeres;48;10500.0;750.0
+TRAB_00656;Cataluña;Hostelería;Tiempo completo;Hombres;33;23737.71;1695.55
+TRAB_00657;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;39004.01;2786.0
+TRAB_00658;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;23930.22;1709.3
+TRAB_00659;Castilla y León;Hostelería;Tiempo parcial;Mujeres;36;11105.89;793.28
+TRAB_00660;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;10667.73;761.98
+TRAB_00661;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;43476.77;3105.48
+TRAB_00662;Cataluña;Hostelería;Tiempo parcial;Hombres;50;10500.0;750.0
+TRAB_00663;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;47761.9;3411.56
+TRAB_00664;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;26;21362.03;1525.86
+TRAB_00665;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;42213.07;3015.22
+TRAB_00666;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;42;13422.32;958.74
+TRAB_00667;Cataluña;Hostelería;Tiempo completo;Mujeres;31;12655.71;903.98
+TRAB_00668;Castilla y León;Hostelería;Tiempo completo;Mujeres;45;14362.04;1025.86
+TRAB_00669;Andalucía;Hostelería;Tiempo parcial;Hombres;33;11084.59;791.76
+TRAB_00670;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;25481.78;1820.13
+TRAB_00671;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;47005.02;3357.5
+TRAB_00672;Andalucía;Hostelería;Tiempo completo;Hombres;46;23592.95;1685.21
+TRAB_00673;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;62;11401.74;814.41
+TRAB_00674;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;48;23063.24;1647.37
+TRAB_00675;Cataluña;Hostelería;Tiempo completo;Mujeres;61;24780.88;1770.06
+TRAB_00676;Andalucía;Hostelería;Tiempo parcial;Mujeres;57;10677.04;762.65
+TRAB_00677;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;43468.89;3104.92
+TRAB_00678;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;51534.93;3681.07
+TRAB_00679;Cataluña;Hostelería;Tiempo parcial;Hombres;27;10500.0;750.0
+TRAB_00680;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;54;11905.62;850.4
+TRAB_00681;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;37;20110.59;1436.47
+TRAB_00682;Andalucía;Hostelería;Tiempo completo;Mujeres;37;12949.25;924.95
+TRAB_00683;Galicia;Hostelería;Tiempo completo;Hombres;36;18425.78;1316.13
+TRAB_00684;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;36;45818.41;3272.74
+TRAB_00685;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;44;25328.76;1809.2
+TRAB_00686;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Hombres;29;18721.63;1337.26
+TRAB_00687;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;45;32838.79;2345.63
+TRAB_00688;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;30345.38;2167.53
+TRAB_00689;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;23747.65;1696.26
+TRAB_00690;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;25;10500.0;750.0
+TRAB_00691;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;34;50774.42;3626.74
+TRAB_00692;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;47;15940.96;1138.64
+TRAB_00693;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;60;39784.2;2841.73
+TRAB_00694;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;55;43971.44;3140.82
+TRAB_00695;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;63;13085.45;934.68
+TRAB_00696;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;33;11298.39;807.03
+TRAB_00697;Andalucía;Hostelería;Tiempo completo;Mujeres;45;15440.16;1102.87
+TRAB_00698;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;32;11541.37;824.38
+TRAB_00699;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;30729.0;2194.93
+TRAB_00700;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;52062.54;3718.75
+TRAB_00701;Cataluña;Hostelería;Tiempo completo;Hombres;46;12824.43;916.03
+TRAB_00702;Cataluña;Hostelería;Tiempo parcial;Hombres;44;10500.0;750.0
+TRAB_00703;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;62001.24;4428.66
+TRAB_00704;Cataluña;Hostelería;Tiempo completo;Hombres;55;17830.87;1273.63
+TRAB_00705;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;28;40962.85;2925.92
+TRAB_00706;Cataluña;Hostelería;Tiempo parcial;Mujeres;48;11560.99;825.78
+TRAB_00707;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;56;19113.25;1365.23
+TRAB_00708;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;60;10500.0;750.0
+TRAB_00709;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;33;21965.72;1568.98
+TRAB_00710;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;44;37127.84;2651.99
+TRAB_00711;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;63701.84;4550.13
+TRAB_00712;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;51;19626.98;1401.93
+TRAB_00713;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;54;14617.61;1044.12
+TRAB_00714;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;28;23481.0;1677.21
+TRAB_00715;Cataluña;Hostelería;Tiempo completo;Hombres;52;21703.37;1550.24
+TRAB_00716;Cataluña;Hostelería;Tiempo parcial;Mujeres;27;11920.05;851.43
+TRAB_00717;Cataluña;Hostelería;Tiempo completo;Hombres;52;29089.74;2077.84
+TRAB_00718;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;40001.33;2857.24
+TRAB_00719;Galicia;Hostelería;Tiempo completo;Mujeres;60;23231.49;1659.39
+TRAB_00720;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;27015.46;1929.68
+TRAB_00721;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;32539.65;2324.26
+TRAB_00722;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;37;17513.19;1250.94
+TRAB_00723;Castilla y León;Hostelería;Tiempo completo;Mujeres;28;18201.15;1300.08
+TRAB_00724;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;46;10500.0;750.0
+TRAB_00725;Canarias;Hostelería;Tiempo parcial;Mujeres;35;10500.0;750.0
+TRAB_00726;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;34;10500.0;750.0
+TRAB_00727;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;29978.33;2141.31
+TRAB_00728;Cataluña;Hostelería;Tiempo completo;Hombres;55;27080.67;1934.33
+TRAB_00729;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;60;19455.52;1389.68
+TRAB_00730;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;33;34904.84;2493.2
+TRAB_00731;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;56;50746.86;3624.78
+TRAB_00732;País Vasco;Hostelería;Tiempo completo;Mujeres;43;13035.21;931.09
+TRAB_00733;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;49;25056.77;1789.77
+TRAB_00734;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;56;25587.85;1827.7
+TRAB_00735;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;33994.23;2428.16
+TRAB_00736;País Vasco;Hostelería;Tiempo parcial;Hombres;43;10500.0;750.0
+TRAB_00737;Balears, Illes;Hostelería;Tiempo parcial;Hombres;44;13363.21;954.51
+TRAB_00738;Andalucía;Hostelería;Tiempo parcial;Hombres;36;10500.0;750.0
+TRAB_00739;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;30348.61;2167.76
+TRAB_00740;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;16971.8;1212.27
+TRAB_00741;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;27216.91;1944.07
+TRAB_00742;Andalucía;Hostelería;Tiempo completo;Hombres;27;11228.56;802.04
+TRAB_00743;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;23;16435.13;1173.94
+TRAB_00744;Andalucía;Hostelería;Tiempo completo;Mujeres;22;17252.64;1232.33
+TRAB_00745;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;46;27046.98;1931.93
+TRAB_00746;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;63;11592.21;828.01
+TRAB_00747;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;55;58106.43;4150.46
+TRAB_00748;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;52;10500.0;750.0
+TRAB_00749;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;30;17699.47;1264.25
+TRAB_00750;Cataluña;Hostelería;Tiempo completo;Hombres;36;25920.44;1851.46
+TRAB_00751;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;32551.05;2325.07
+TRAB_00752;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;40672.8;2905.2
+TRAB_00753;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;56;20055.63;1432.55
+TRAB_00754;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;19733.8;1409.56
+TRAB_00755;Galicia;Hostelería;Tiempo completo;Hombres;47;20271.42;1447.96
+TRAB_00756;Canarias;Hostelería;Tiempo completo;Hombres;23;20438.55;1459.9
+TRAB_00757;Cataluña;Hostelería;Tiempo parcial;Mujeres;24;10500.0;750.0
+TRAB_00758;País Vasco;Hostelería;Tiempo completo;Hombres;40;10500.0;750.0
+TRAB_00759;Balears, Illes;Hostelería;Tiempo parcial;Mujeres;36;11927.4;851.96
+TRAB_00760;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;40;11587.0;827.64
+TRAB_00761;Balears, Illes;Hostelería;Tiempo completo;Mujeres;39;23960.95;1711.5
+TRAB_00762;Cataluña;Hostelería;Tiempo parcial;Mujeres;55;10500.0;750.0
+TRAB_00763;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;33377.2;2384.09
+TRAB_00764;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;36371.3;2597.95
+TRAB_00765;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;60;12609.04;900.65
+TRAB_00766;Cataluña;Hostelería;Tiempo parcial;Hombres;22;12298.93;878.5
+TRAB_00767;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;24;10551.8;753.7
+TRAB_00768;Cataluña;Hostelería;Tiempo completo;Mujeres;54;27226.06;1944.72
+TRAB_00769;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;33112.48;2365.18
+TRAB_00770;Balears, Illes;Hostelería;Tiempo completo;Hombres;44;10500.0;750.0
+TRAB_00771;Cataluña;Hostelería;Tiempo completo;Hombres;48;24260.69;1732.91
+TRAB_00772;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;45;29190.45;2085.03
+TRAB_00773;Andalucía;Hostelería;Tiempo parcial;Mujeres;34;10500.0;750.0
+TRAB_00774;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;41993.3;2999.52
+TRAB_00775;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;38366.96;2740.5
+TRAB_00776;Andalucía;Hostelería;Tiempo completo;Hombres;43;17074.65;1219.62
+TRAB_00777;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;33820.94;2415.78
+TRAB_00778;Cataluña;Hostelería;Tiempo parcial;Hombres;37;12192.6;870.9
+TRAB_00779;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;23;36309.37;2593.53
+TRAB_00780;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;46116.18;3294.01
+TRAB_00781;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;52859.72;3775.69
+TRAB_00782;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;37;14103.47;1007.39
+TRAB_00783;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;54958.09;3925.58
+TRAB_00784;Galicia;Hostelería;Tiempo parcial;Mujeres;51;10500.0;750.0
+TRAB_00785;Andalucía;Hostelería;Tiempo parcial;Mujeres;63;10500.0;750.0
+TRAB_00786;Castilla y León;Hostelería;Tiempo completo;Mujeres;50;19424.21;1387.44
+TRAB_00787;Cataluña;Hostelería;Tiempo completo;Hombres;27;24007.3;1714.81
+TRAB_00788;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;28;35521.86;2537.28
+TRAB_00789;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;35474.03;2533.86
+TRAB_00790;País Vasco;Hostelería;Tiempo completo;Mujeres;51;17301.61;1235.83
+TRAB_00791;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;31145.85;2224.7
+TRAB_00792;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;48917.18;3494.08
+TRAB_00793;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;37;11565.84;826.13
+TRAB_00794;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;29834.01;2131.0
+TRAB_00795;Castilla y León;Hostelería;Tiempo completo;Hombres;36;16145.68;1153.26
+TRAB_00796;País Vasco;Hostelería;Tiempo completo;Hombres;33;23819.76;1701.41
+TRAB_00797;País Vasco;Hostelería;Tiempo parcial;Hombres;27;10500.0;750.0
+TRAB_00798;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;37979.49;2712.82
+TRAB_00799;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;26;43631.22;3116.52
+TRAB_00800;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;47;27055.76;1932.55
+TRAB_00801;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;62;12225.16;873.23
+TRAB_00802;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;44328.17;3166.3
+TRAB_00803;Galicia;Hostelería;Tiempo parcial;Mujeres;38;10637.97;759.85
+TRAB_00804;Andalucía;Hostelería;Tiempo parcial;Mujeres;53;10500.0;750.0
+TRAB_00805;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;34997.11;2499.79
+TRAB_00806;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;18895.27;1349.66
+TRAB_00807;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;41934.06;2995.29
+TRAB_00808;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;19336.62;1381.19
+TRAB_00809;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;51;22650.9;1617.92
+TRAB_00810;Castilla y León;Hostelería;Tiempo completo;Mujeres;39;14271.44;1019.39
+TRAB_00811;Cataluña;Hostelería;Tiempo completo;Hombres;35;17042.51;1217.32
+TRAB_00812;País Vasco;Hostelería;Tiempo completo;Mujeres;30;22267.6;1590.54
+TRAB_00813;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;47;30711.96;2193.71
+TRAB_00814;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;39083.28;2791.66
+TRAB_00815;Andalucía;Hostelería;Tiempo completo;Hombres;24;22104.52;1578.89
+TRAB_00816;Galicia;Información y comunicaciones (Tech);Tiempo parcial;Hombres;57;16515.79;1179.7
+TRAB_00817;Galicia;Hostelería;Tiempo completo;Hombres;31;16865.03;1204.64
+TRAB_00818;Andalucía;Hostelería;Tiempo parcial;Mujeres;28;10500.0;750.0
+TRAB_00819;Andalucía;Hostelería;Tiempo completo;Hombres;47;17194.55;1228.18
+TRAB_00820;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;29279.33;2091.38
+TRAB_00821;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;55;33237.29;2374.09
+TRAB_00822;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;58804.08;4200.29
+TRAB_00823;Galicia;Hostelería;Tiempo completo;Hombres;24;25131.24;1795.09
+TRAB_00824;Cataluña;Hostelería;Tiempo completo;Mujeres;27;19709.83;1407.85
+TRAB_00825;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;51;15908.22;1136.3
+TRAB_00826;Andalucía;Hostelería;Tiempo completo;Mujeres;58;15188.06;1084.86
+TRAB_00827;Galicia;Hostelería;Tiempo completo;Hombres;26;18757.92;1339.85
+TRAB_00828;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;42;27352.4;1953.74
+TRAB_00829;País Vasco;Hostelería;Tiempo parcial;Mujeres;35;11600.91;828.64
+TRAB_00830;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;30321.2;2165.8
+TRAB_00831;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;25;44924.28;3208.88
+TRAB_00832;Castilla y León;Hostelería;Tiempo completo;Hombres;33;14066.58;1004.76
+TRAB_00833;Andalucía;Hostelería;Tiempo completo;Mujeres;33;30108.23;2150.59
+TRAB_00834;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;21888.55;1563.47
+TRAB_00835;Cataluña;Hostelería;Tiempo completo;Mujeres;42;18593.5;1328.11
+TRAB_00836;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;34658.87;2475.63
+TRAB_00837;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;27;26573.51;1898.11
+TRAB_00838;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;42;11793.43;842.39
+TRAB_00839;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;49;25564.43;1826.03
+TRAB_00840;País Vasco;Hostelería;Tiempo completo;Mujeres;32;15060.4;1075.74
+TRAB_00841;Cataluña;Hostelería;Tiempo completo;Hombres;52;19683.73;1405.98
+TRAB_00842;Cataluña;Hostelería;Tiempo completo;Hombres;56;17683.5;1263.11
+TRAB_00843;Cataluña;Hostelería;Tiempo parcial;Hombres;29;10500.0;750.0
+TRAB_00844;País Vasco;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;57;17960.61;1282.9
+TRAB_00845;Cataluña;Hostelería;Tiempo completo;Mujeres;39;15395.39;1099.67
+TRAB_00846;Cataluña;Hostelería;Tiempo completo;Mujeres;29;10500.0;750.0
+TRAB_00847;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;40391.91;2885.14
+TRAB_00848;Andalucía;Hostelería;Tiempo completo;Hombres;49;15839.6;1131.4
+TRAB_00849;Castilla y León;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_00850;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;38388.06;2742.0
+TRAB_00851;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;36;12680.13;905.72
+TRAB_00852;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;50146.37;3581.88
+TRAB_00853;Balears, Illes;Hostelería;Tiempo parcial;Hombres;48;10500.0;750.0
+TRAB_00854;Cataluña;Hostelería;Tiempo parcial;Mujeres;52;12031.25;859.38
+TRAB_00855;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;54;40717.81;2908.41
+TRAB_00856;Cataluña;Hostelería;Tiempo parcial;Hombres;55;10500.0;750.0
+TRAB_00857;Balears, Illes;Hostelería;Tiempo parcial;Hombres;63;15256.3;1089.74
+TRAB_00858;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;36;12282.19;877.3
+TRAB_00859;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;33;19469.74;1390.7
+TRAB_00860;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;36646.88;2617.63
+TRAB_00861;Andalucía;Hostelería;Tiempo parcial;Hombres;35;13054.34;932.45
+TRAB_00862;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;26;26225.85;1873.27
+TRAB_00863;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;42007.79;3000.56
+TRAB_00864;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;25;24224.74;1730.34
+TRAB_00865;Cataluña;Hostelería;Tiempo completo;Hombres;45;21162.96;1511.64
+TRAB_00866;País Vasco;Hostelería;Tiempo completo;Mujeres;45;16057.25;1146.95
+TRAB_00867;Cataluña;Hostelería;Tiempo completo;Mujeres;48;13924.36;994.6
+TRAB_00868;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;10500.0;750.0
+TRAB_00869;Cataluña;Hostelería;Tiempo parcial;Hombres;44;10500.0;750.0
+TRAB_00870;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;40382.07;2884.43
+TRAB_00871;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;28;42274.66;3019.62
+TRAB_00872;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;28020.61;2001.47
+TRAB_00873;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;31250.63;2232.19
+TRAB_00874;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;48840.88;3488.63
+TRAB_00875;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;34267.33;2447.67
+TRAB_00876;Galicia;Hostelería;Tiempo parcial;Hombres;52;10500.0;750.0
+TRAB_00877;Castilla y León;Hostelería;Tiempo completo;Mujeres;37;17543.52;1253.11
+TRAB_00878;Cataluña;Hostelería;Tiempo parcial;Hombres;39;12234.35;873.88
+TRAB_00879;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;24;28414.97;2029.64
+TRAB_00880;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;50668.33;3619.17
+TRAB_00881;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;44;26851.37;1917.95
+TRAB_00882;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;28;26164.28;1868.88
+TRAB_00883;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;48;10500.0;750.0
+TRAB_00884;País Vasco;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_00885;Cataluña;Hostelería;Tiempo completo;Mujeres;26;19694.44;1406.75
+TRAB_00886;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;38672.32;2762.31
+TRAB_00887;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;39438.68;2817.05
+TRAB_00888;Galicia;Hostelería;Tiempo completo;Mujeres;42;16789.35;1199.24
+TRAB_00889;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;10500.0;750.0
+TRAB_00890;Andalucía;Hostelería;Tiempo parcial;Hombres;50;10926.11;780.44
+TRAB_00891;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;57;17146.06;1224.72
+TRAB_00892;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;56;24010.07;1715.0
+TRAB_00893;Andalucía;Hostelería;Tiempo parcial;Mujeres;46;10500.0;750.0
+TRAB_00894;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;33141.14;2367.22
+TRAB_00895;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;28111.67;2007.98
+TRAB_00896;Canarias;Hostelería;Tiempo completo;Mujeres;52;10500.0;750.0
+TRAB_00897;Cataluña;Hostelería;Tiempo completo;Hombres;59;26426.19;1887.58
+TRAB_00898;Cataluña;Hostelería;Tiempo completo;Mujeres;43;16409.73;1172.12
+TRAB_00899;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;28;22158.62;1582.76
+TRAB_00900;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;36836.39;2631.17
+TRAB_00901;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;25;19102.47;1364.46
+TRAB_00902;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;49189.91;3513.57
+TRAB_00903;Castilla y León;Hostelería;Tiempo parcial;Hombres;38;10500.0;750.0
+TRAB_00904;Canarias;Hostelería;Tiempo parcial;Hombres;49;10500.0;750.0
+TRAB_00905;País Vasco;Hostelería;Tiempo completo;Mujeres;56;22061.25;1575.8
+TRAB_00906;Cataluña;Hostelería;Tiempo completo;Mujeres;56;29995.47;2142.53
+TRAB_00907;Cataluña;Hostelería;Tiempo completo;Mujeres;31;21297.04;1521.22
+TRAB_00908;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;62;60504.19;4321.73
+TRAB_00909;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;35637.92;2545.57
+TRAB_00910;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;46442.85;3317.35
+TRAB_00911;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;54;55465.66;3961.83
+TRAB_00912;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;10500.0;750.0
+TRAB_00913;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;44;18655.07;1332.5
+TRAB_00914;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;45;27708.24;1979.16
+TRAB_00915;Cataluña;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_00916;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;47;26448.52;1889.18
+TRAB_00917;Andalucía;Hostelería;Tiempo parcial;Mujeres;60;10500.0;750.0
+TRAB_00918;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;30518.95;2179.93
+TRAB_00919;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;66667.98;4762.0
+TRAB_00920;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;49680.92;3548.64
+TRAB_00921;País Vasco;Hostelería;Tiempo completo;Hombres;23;23419.95;1672.85
+TRAB_00922;Cataluña;Hostelería;Tiempo completo;Mujeres;27;19242.43;1374.46
+TRAB_00923;Canarias;Hostelería;Tiempo parcial;Mujeres;42;12386.89;884.78
+TRAB_00924;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;48512.83;3465.2
+TRAB_00925;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;37;32776.05;2341.15
+TRAB_00926;Galicia;Hostelería;Tiempo completo;Hombres;46;17191.13;1227.94
+TRAB_00927;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;42;22879.7;1634.26
+TRAB_00928;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;27850.13;1989.3
+TRAB_00929;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;37;10500.0;750.0
+TRAB_00930;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;34581.14;2470.08
+TRAB_00931;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;30;31438.81;2245.63
+TRAB_00932;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;63;36418.24;2601.3
+TRAB_00933;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;45649.34;3260.67
+TRAB_00934;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;44230.11;3159.29
+TRAB_00935;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;44;10885.42;777.53
+TRAB_00936;Canarias;Hostelería;Tiempo completo;Hombres;22;21599.79;1542.84
+TRAB_00937;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;36957.44;2639.82
+TRAB_00938;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;45;20456.8;1461.2
+TRAB_00939;Balears, Illes;Hostelería;Tiempo completo;Mujeres;36;21887.45;1563.39
+TRAB_00940;País Vasco;Hostelería;Tiempo completo;Hombres;56;13968.14;997.72
+TRAB_00941;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;44;21214.57;1515.33
+TRAB_00942;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;23;43271.3;3090.81
+TRAB_00943;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;57;11204.32;800.31
+TRAB_00944;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;46;10500.0;750.0
+TRAB_00945;Andalucía;Hostelería;Tiempo completo;Hombres;45;12925.76;923.27
+TRAB_00946;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;37;24681.15;1762.94
+TRAB_00947;Andalucía;Hostelería;Tiempo parcial;Mujeres;60;10500.0;750.0
+TRAB_00948;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;23;15045.75;1074.7
+TRAB_00949;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;60;10500.0;750.0
+TRAB_00950;Galicia;Hostelería;Tiempo completo;Mujeres;35;14561.17;1040.08
+TRAB_00951;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;45734.52;3266.75
+TRAB_00952;Castilla y León;Hostelería;Tiempo completo;Hombres;35;12147.17;867.65
+TRAB_00953;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;25;30949.59;2210.68
+TRAB_00954;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;63;11792.36;842.31
+TRAB_00955;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;46;30567.72;2183.41
+TRAB_00956;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;26;32485.45;2320.39
+TRAB_00957;Canarias;Hostelería;Tiempo completo;Hombres;51;20118.15;1437.01
+TRAB_00958;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;34003.22;2428.8
+TRAB_00959;Cataluña;Hostelería;Tiempo completo;Mujeres;44;18645.26;1331.8
+TRAB_00960;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;38450.7;2746.48
+TRAB_00961;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;32001.99;2285.86
+TRAB_00962;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;45;46863.05;3347.36
+TRAB_00963;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;57;46715.6;3336.83
+TRAB_00964;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;51805.24;3700.37
+TRAB_00965;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;28718.88;2051.35
+TRAB_00966;Castilla y León;Hostelería;Tiempo parcial;Hombres;36;10500.0;750.0
+TRAB_00967;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Hombres;48;23272.84;1662.35
+TRAB_00968;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;14462.44;1033.03
+TRAB_00969;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;37759.13;2697.08
+TRAB_00970;Cataluña;Hostelería;Tiempo completo;Mujeres;54;14736.46;1052.6
+TRAB_00971;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;47;10500.0;750.0
+TRAB_00972;Balears, Illes;Hostelería;Tiempo parcial;Hombres;45;10500.0;750.0
+TRAB_00973;País Vasco;Hostelería;Tiempo parcial;Hombres;50;11140.81;795.77
+TRAB_00974;Andalucía;Hostelería;Tiempo parcial;Mujeres;44;10500.0;750.0
+TRAB_00975;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;31;10500.0;750.0
+TRAB_00976;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;55;25403.44;1814.53
+TRAB_00977;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;44322.34;3165.88
+TRAB_00978;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;30504.03;2178.86
+TRAB_00979;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;45;25884.14;1848.87
+TRAB_00980;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;52;17202.02;1228.72
+TRAB_00981;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;23;20646.2;1474.73
+TRAB_00982;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;24;11965.68;854.69
+TRAB_00983;Castilla y León;Hostelería;Tiempo parcial;Hombres;22;10895.2;778.23
+TRAB_00984;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;61;38842.06;2774.43
+TRAB_00985;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;22206.36;1586.17
+TRAB_00986;Cataluña;Hostelería;Tiempo completo;Mujeres;52;24336.53;1738.32
+TRAB_00987;Cataluña;Hostelería;Tiempo parcial;Hombres;23;13215.75;943.98
+TRAB_00988;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;36661.95;2618.71
+TRAB_00989;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;62;11894.8;849.63
+TRAB_00990;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;23343.04;1667.36
+TRAB_00991;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;24;12355.7;882.55
+TRAB_00992;País Vasco;Información y comunicaciones (Tech);Tiempo parcial;Hombres;41;22858.76;1632.77
+TRAB_00993;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;60;19489.29;1392.09
+TRAB_00994;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;40722.26;2908.73
+TRAB_00995;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;62;12560.98;897.21
+TRAB_00996;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;45559.75;3254.27
+TRAB_00997;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;45810.29;3272.16
+TRAB_00998;Cataluña;Hostelería;Tiempo parcial;Mujeres;34;11042.64;788.76
+TRAB_00999;Cataluña;Hostelería;Tiempo completo;Mujeres;30;19594.7;1399.62
+TRAB_01000;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;41;10500.0;750.0
+TRAB_01001;Canarias;Hostelería;Tiempo parcial;Hombres;37;10500.0;750.0
+TRAB_01002;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;28623.94;2044.57
+TRAB_01003;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;39903.9;2850.28
+TRAB_01004;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;27789.36;1984.95
+TRAB_01005;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;41419.79;2958.56
+TRAB_01006;Galicia;Hostelería;Tiempo parcial;Hombres;52;11360.08;811.43
+TRAB_01007;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;27793.14;1985.22
+TRAB_01008;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;29031.43;2073.67
+TRAB_01009;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;39818.95;2844.21
+TRAB_01010;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;29322.97;2094.5
+TRAB_01011;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;36;10500.0;750.0
+TRAB_01012;Andalucía;Hostelería;Tiempo completo;Hombres;36;11703.4;835.96
+TRAB_01013;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;32;19031.2;1359.37
+TRAB_01014;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;35;10949.8;782.13
+TRAB_01015;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;33;10826.48;773.32
+TRAB_01016;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;36;14326.01;1023.29
+TRAB_01017;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;19713.73;1408.12
+TRAB_01018;Cataluña;Hostelería;Tiempo parcial;Hombres;39;10500.0;750.0
+TRAB_01019;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;55;33660.91;2404.35
+TRAB_01020;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;48861.0;3490.07
+TRAB_01021;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;45;13186.32;941.88
+TRAB_01022;Balears, Illes;Hostelería;Tiempo parcial;Hombres;22;14022.61;1001.62
+TRAB_01023;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;28;12649.08;903.51
+TRAB_01024;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;39;10617.32;758.38
+TRAB_01025;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;29308.96;2093.5
+TRAB_01026;Andalucía;Hostelería;Tiempo completo;Mujeres;28;15463.33;1104.52
+TRAB_01027;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;35;19199.68;1371.41
+TRAB_01028;Andalucía;Hostelería;Tiempo completo;Mujeres;63;15129.99;1080.71
+TRAB_01029;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;44;20391.65;1456.55
+TRAB_01030;País Vasco;Hostelería;Tiempo parcial;Hombres;63;10500.0;750.0
+TRAB_01031;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;36;49868.92;3562.07
+TRAB_01032;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;31;10500.0;750.0
+TRAB_01033;Andalucía;Hostelería;Tiempo completo;Hombres;23;20386.32;1456.17
+TRAB_01034;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;31;10500.0;750.0
+TRAB_01035;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;27;19455.71;1389.69
+TRAB_01036;País Vasco;Hostelería;Tiempo parcial;Hombres;61;10500.0;750.0
+TRAB_01037;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;30;37131.27;2652.23
+TRAB_01038;Cataluña;Hostelería;Tiempo parcial;Mujeres;45;10500.0;750.0
+TRAB_01039;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;35014.28;2501.02
+TRAB_01040;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;51778.45;3698.46
+TRAB_01041;Andalucía;Hostelería;Tiempo parcial;Hombres;54;10500.0;750.0
+TRAB_01042;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;34;18623.85;1330.27
+TRAB_01043;Cataluña;Hostelería;Tiempo completo;Hombres;62;16490.18;1177.87
+TRAB_01044;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;18359.05;1311.36
+TRAB_01045;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;25;42601.11;3042.94
+TRAB_01046;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;37;38317.62;2736.97
+TRAB_01047;Cataluña;Hostelería;Tiempo parcial;Hombres;60;10500.0;750.0
+TRAB_01048;Balears, Illes;Hostelería;Tiempo parcial;Mujeres;62;11048.1;789.15
+TRAB_01049;Cataluña;Hostelería;Tiempo completo;Mujeres;38;28691.8;2049.41
+TRAB_01050;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;38285.5;2734.68
+TRAB_01051;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;35;20424.0;1458.86
+TRAB_01052;Castilla y León;Hostelería;Tiempo parcial;Mujeres;46;10809.56;772.11
+TRAB_01053;Castilla y León;Hostelería;Tiempo parcial;Mujeres;60;10723.01;765.93
+TRAB_01054;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;63;24769.56;1769.25
+TRAB_01055;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;47587.32;3399.09
+TRAB_01056;Andalucía;Hostelería;Tiempo parcial;Mujeres;29;10500.0;750.0
+TRAB_01057;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;33;16333.42;1166.67
+TRAB_01058;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;36;30090.2;2149.3
+TRAB_01059;Canarias;Hostelería;Tiempo completo;Hombres;59;13943.03;995.93
+TRAB_01060;Cataluña;Hostelería;Tiempo parcial;Mujeres;43;11427.38;816.24
+TRAB_01061;Cataluña;Hostelería;Tiempo completo;Hombres;27;26969.5;1926.39
+TRAB_01062;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;58490.4;4177.89
+TRAB_01063;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;32;15572.44;1112.32
+TRAB_01064;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;49665.17;3547.51
+TRAB_01065;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;59;12550.24;896.45
+TRAB_01066;Andalucía;Hostelería;Tiempo parcial;Mujeres;48;10500.0;750.0
+TRAB_01067;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;44646.53;3189.04
+TRAB_01068;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;61;10500.0;750.0
+TRAB_01069;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;40;19769.78;1412.13
+TRAB_01070;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;28;12986.03;927.57
+TRAB_01071;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;45;16628.07;1187.72
+TRAB_01072;Canarias;Hostelería;Tiempo parcial;Mujeres;45;10500.0;750.0
+TRAB_01073;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;34;43924.05;3137.43
+TRAB_01074;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;39594.56;2828.18
+TRAB_01075;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;32;11262.13;804.44
+TRAB_01076;Canarias;Hostelería;Tiempo parcial;Mujeres;42;12675.39;905.38
+TRAB_01077;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;23;28220.05;2015.72
+TRAB_01078;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;50;20554.18;1468.16
+TRAB_01079;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;58;42190.54;3013.61
+TRAB_01080;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;31;10500.0;750.0
+TRAB_01081;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;47151.4;3367.96
+TRAB_01082;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;48762.6;3483.04
+TRAB_01083;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;39247.63;2803.4
+TRAB_01084;Cataluña;Hostelería;Tiempo parcial;Mujeres;54;11152.93;796.64
+TRAB_01085;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;37;30539.56;2181.4
+TRAB_01086;Andalucía;Hostelería;Tiempo parcial;Mujeres;43;10500.0;750.0
+TRAB_01087;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;23119.2;1651.37
+TRAB_01088;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;32436.49;2316.89
+TRAB_01089;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;49099.46;3507.1
+TRAB_01090;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;31;11957.22;854.09
+TRAB_01091;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;44;18576.04;1326.86
+TRAB_01092;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;25045.03;1788.93
+TRAB_01093;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;58420.92;4172.92
+TRAB_01094;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;63;10500.0;750.0
+TRAB_01095;Cataluña;Hostelería;Tiempo parcial;Mujeres;34;15867.26;1133.38
+TRAB_01096;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;35524.76;2537.48
+TRAB_01097;Galicia;Hostelería;Tiempo completo;Mujeres;32;21009.4;1500.67
+TRAB_01098;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;39;10500.0;750.0
+TRAB_01099;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;43917.14;3136.94
+TRAB_01100;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;42;47048.42;3360.6
+TRAB_01101;Cataluña;Hostelería;Tiempo parcial;Hombres;51;12936.99;924.07
+TRAB_01102;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;37;10500.0;750.0
+TRAB_01103;Cataluña;Hostelería;Tiempo completo;Mujeres;22;22058.69;1575.62
+TRAB_01104;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;28608.46;2043.46
+TRAB_01105;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;33;13259.17;947.08
+TRAB_01106;País Vasco;Hostelería;Tiempo parcial;Hombres;63;10944.07;781.72
+TRAB_01107;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;30;41820.34;2987.17
+TRAB_01108;Cataluña;Hostelería;Tiempo completo;Hombres;25;18837.05;1345.5
+TRAB_01109;Cataluña;Hostelería;Tiempo completo;Hombres;60;16714.06;1193.86
+TRAB_01110;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;58;38471.62;2747.97
+TRAB_01111;País Vasco;Hostelería;Tiempo completo;Mujeres;43;14873.24;1062.37
+TRAB_01112;Galicia;Hostelería;Tiempo completo;Hombres;31;16458.76;1175.63
+TRAB_01113;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;38692.85;2763.78
+TRAB_01114;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;48742.54;3481.61
+TRAB_01115;Canarias;Hostelería;Tiempo parcial;Hombres;36;10500.0;750.0
+TRAB_01116;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;27;10500.0;750.0
+TRAB_01117;Canarias;Hostelería;Tiempo completo;Hombres;27;26396.18;1885.44
+TRAB_01118;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;42;24050.61;1717.9
+TRAB_01119;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;61;20699.23;1478.52
+TRAB_01120;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;24705.23;1764.66
+TRAB_01121;Balears, Illes;Hostelería;Tiempo parcial;Mujeres;55;10500.0;750.0
+TRAB_01122;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;31614.03;2258.14
+TRAB_01123;Cataluña;Hostelería;Tiempo completo;Mujeres;34;27431.71;1959.41
+TRAB_01124;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;30;42436.52;3031.18
+TRAB_01125;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;51;41409.88;2957.85
+TRAB_01126;Andalucía;Hostelería;Tiempo completo;Mujeres;46;15823.69;1130.26
+TRAB_01127;Galicia;Hostelería;Tiempo parcial;Mujeres;31;10500.0;750.0
+TRAB_01128;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;34;36849.35;2632.1
+TRAB_01129;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;40;28687.53;2049.11
+TRAB_01130;Canarias;Información y comunicaciones (Tech);Tiempo parcial;Hombres;31;10500.0;750.0
+TRAB_01131;Andalucía;Hostelería;Tiempo completo;Mujeres;25;10500.0;750.0
+TRAB_01132;Cataluña;Hostelería;Tiempo completo;Mujeres;27;20771.87;1483.7
+TRAB_01133;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;28;14965.14;1068.94
+TRAB_01134;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;56;42803.42;3057.39
+TRAB_01135;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;62;28007.09;2000.51
+TRAB_01136;País Vasco;Hostelería;Tiempo completo;Hombres;31;17137.55;1224.11
+TRAB_01137;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;59;28099.07;2007.08
+TRAB_01138;Andalucía;Hostelería;Tiempo parcial;Mujeres;52;10500.0;750.0
+TRAB_01139;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;40;21407.82;1529.13
+TRAB_01140;País Vasco;Hostelería;Tiempo completo;Hombres;35;21420.02;1530.0
+TRAB_01141;Andalucía;Hostelería;Tiempo completo;Mujeres;32;18333.91;1309.57
+TRAB_01142;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;45396.85;3242.63
+TRAB_01143;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;33216.86;2372.63
+TRAB_01144;Cataluña;Hostelería;Tiempo completo;Mujeres;47;24134.26;1723.88
+TRAB_01145;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;34442.62;2460.19
+TRAB_01146;Cataluña;Hostelería;Tiempo parcial;Hombres;30;10836.29;774.02
+TRAB_01147;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;38;14829.94;1059.28
+TRAB_01148;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;35;23018.16;1644.15
+TRAB_01149;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;54;10500.0;750.0
+TRAB_01150;Balears, Illes;Hostelería;Tiempo parcial;Hombres;36;13268.1;947.72
+TRAB_01151;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;28381.19;2027.23
+TRAB_01152;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;30054.39;2146.74
+TRAB_01153;Galicia;Hostelería;Tiempo parcial;Hombres;46;10500.0;750.0
+TRAB_01154;Galicia;Hostelería;Tiempo completo;Mujeres;35;22206.79;1586.2
+TRAB_01155;Cataluña;Hostelería;Tiempo completo;Mujeres;60;18318.93;1308.5
+TRAB_01156;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;32996.51;2356.89
+TRAB_01157;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;58;38780.78;2770.06
+TRAB_01158;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;30;34469.15;2462.08
+TRAB_01159;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;57;12015.13;858.22
+TRAB_01160;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;57;13862.07;990.15
+TRAB_01161;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;27408.91;1957.78
+TRAB_01162;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;38565.67;2754.69
+TRAB_01163;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;56;10860.14;775.72
+TRAB_01164;Andalucía;Hostelería;Tiempo parcial;Mujeres;51;10500.0;750.0
+TRAB_01165;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;32283.42;2305.96
+TRAB_01166;País Vasco;Hostelería;Tiempo completo;Mujeres;40;20260.29;1447.16
+TRAB_01167;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;29;31779.89;2269.99
+TRAB_01168;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;22246.38;1589.03
+TRAB_01169;Andalucía;Hostelería;Tiempo completo;Hombres;36;10500.0;750.0
+TRAB_01170;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;28719.63;2051.4
+TRAB_01171;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;38;21615.1;1543.94
+TRAB_01172;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;30320.92;2165.78
+TRAB_01173;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;41;21271.86;1519.42
+TRAB_01174;Andalucía;Hostelería;Tiempo parcial;Mujeres;58;10500.0;750.0
+TRAB_01175;Cataluña;Hostelería;Tiempo completo;Mujeres;33;22638.13;1617.01
+TRAB_01176;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;47;27066.05;1933.29
+TRAB_01177;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;39;18718.46;1337.03
+TRAB_01178;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;30;12882.4;920.17
+TRAB_01179;País Vasco;Hostelería;Tiempo parcial;Mujeres;42;10500.0;750.0
+TRAB_01180;País Vasco;Hostelería;Tiempo parcial;Hombres;42;11527.61;823.4
+TRAB_01181;País Vasco;Hostelería;Tiempo completo;Mujeres;55;20645.62;1474.69
+TRAB_01182;Andalucía;Hostelería;Tiempo completo;Mujeres;55;15261.81;1090.13
+TRAB_01183;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;16864.44;1204.6
+TRAB_01184;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;48;16137.26;1152.66
+TRAB_01185;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;39;22036.45;1574.03
+TRAB_01186;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;26693.08;1906.65
+TRAB_01187;Andalucía;Hostelería;Tiempo completo;Hombres;27;22219.65;1587.12
+TRAB_01188;Andalucía;Hostelería;Tiempo completo;Mujeres;25;25780.11;1841.44
+TRAB_01189;País Vasco;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;47;20788.34;1484.88
+TRAB_01190;Cataluña;Hostelería;Tiempo parcial;Hombres;60;12081.67;862.98
+TRAB_01191;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;59;18914.26;1351.02
+TRAB_01192;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;41735.27;2981.09
+TRAB_01193;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;45;41315.89;2951.13
+TRAB_01194;Cataluña;Hostelería;Tiempo completo;Hombres;60;24519.21;1751.37
+TRAB_01195;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;24189.49;1727.82
+TRAB_01196;Canarias;Hostelería;Tiempo parcial;Hombres;57;10739.97;767.14
+TRAB_01197;Cataluña;Hostelería;Tiempo completo;Mujeres;36;21578.32;1541.31
+TRAB_01198;Balears, Illes;Hostelería;Tiempo completo;Mujeres;31;18296.98;1306.93
+TRAB_01199;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;42;13962.49;997.32
+TRAB_01200;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;43;28670.81;2047.92
+TRAB_01201;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;26;41884.61;2991.76
+TRAB_01202;País Vasco;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;46;19223.27;1373.09
+TRAB_01203;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;40683.02;2905.93
+TRAB_01204;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;37603.97;2686.0
+TRAB_01205;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;19125.68;1366.12
+TRAB_01206;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;25;40108.36;2864.88
+TRAB_01207;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;34721.24;2480.09
+TRAB_01208;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;45;10591.05;756.5
+TRAB_01209;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;36;12534.69;895.34
+TRAB_01210;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;56;24475.17;1748.23
+TRAB_01211;Cataluña;Hostelería;Tiempo completo;Hombres;48;20117.74;1436.98
+TRAB_01212;Cataluña;Hostelería;Tiempo completo;Hombres;56;15367.14;1097.65
+TRAB_01213;Andalucía;Hostelería;Tiempo parcial;Mujeres;58;10500.0;750.0
+TRAB_01214;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;35220.67;2515.76
+TRAB_01215;Andalucía;Hostelería;Tiempo parcial;Mujeres;59;10500.0;750.0
+TRAB_01216;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;29;10727.89;766.28
+TRAB_01217;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;20155.69;1439.69
+TRAB_01218;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;44;14598.89;1042.78
+TRAB_01219;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;32;15112.42;1079.46
+TRAB_01220;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;49;10500.0;750.0
+TRAB_01221;Galicia;Hostelería;Tiempo completo;Hombres;30;18237.24;1302.66
+TRAB_01222;Cataluña;Hostelería;Tiempo completo;Hombres;57;18319.89;1308.56
+TRAB_01223;Cataluña;Hostelería;Tiempo completo;Hombres;25;13520.23;965.73
+TRAB_01224;Andalucía;Hostelería;Tiempo completo;Hombres;53;16094.91;1149.64
+TRAB_01225;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;25;14789.31;1056.38
+TRAB_01226;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;33796.74;2414.05
+TRAB_01227;Galicia;Hostelería;Tiempo completo;Mujeres;46;14886.15;1063.3
+TRAB_01228;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;43;18453.83;1318.13
+TRAB_01229;Galicia;Hostelería;Tiempo parcial;Hombres;58;10500.0;750.0
+TRAB_01230;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;24;30859.35;2204.24
+TRAB_01231;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;35;35882.98;2563.07
+TRAB_01232;Andalucía;Hostelería;Tiempo parcial;Mujeres;59;10500.0;750.0
+TRAB_01233;Cataluña;Hostelería;Tiempo completo;Hombres;52;10500.0;750.0
+TRAB_01234;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;24;18751.99;1339.43
+TRAB_01235;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;44705.36;3193.24
+TRAB_01236;Canarias;Hostelería;Tiempo parcial;Mujeres;43;10500.0;750.0
+TRAB_01237;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;28;24446.66;1746.19
+TRAB_01238;Cataluña;Hostelería;Tiempo completo;Mujeres;26;20043.85;1431.7
+TRAB_01239;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;47;10500.0;750.0
+TRAB_01240;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;39;18870.38;1347.88
+TRAB_01241;Cataluña;Hostelería;Tiempo completo;Mujeres;24;24739.65;1767.12
+TRAB_01242;Canarias;Hostelería;Tiempo parcial;Mujeres;55;10500.0;750.0
+TRAB_01243;Andalucía;Hostelería;Tiempo parcial;Hombres;42;10500.0;750.0
+TRAB_01244;Galicia;Hostelería;Tiempo parcial;Mujeres;41;10500.0;750.0
+TRAB_01245;Galicia;Hostelería;Tiempo completo;Mujeres;40;18046.39;1289.03
+TRAB_01246;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;40228.47;2873.46
+TRAB_01247;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;29;13327.99;952.0
+TRAB_01248;Andalucía;Hostelería;Tiempo completo;Mujeres;53;18336.71;1309.76
+TRAB_01249;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;33;21502.04;1535.86
+TRAB_01250;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;35;35718.38;2551.31
+TRAB_01251;Cataluña;Hostelería;Tiempo completo;Hombres;49;21812.65;1558.05
+TRAB_01252;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;30;18432.72;1316.62
+TRAB_01253;Andalucía;Hostelería;Tiempo completo;Hombres;54;19494.42;1392.46
+TRAB_01254;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;24;12658.22;904.16
+TRAB_01255;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;37435.79;2673.99
+TRAB_01256;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;28;12408.37;886.31
+TRAB_01257;Cataluña;Hostelería;Tiempo parcial;Mujeres;43;10500.0;750.0
+TRAB_01258;País Vasco;Información y comunicaciones (Tech);Tiempo parcial;Hombres;29;14151.15;1010.8
+TRAB_01259;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;43;12739.59;909.97
+TRAB_01260;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;34750.38;2482.17
+TRAB_01261;Castilla y León;Hostelería;Tiempo parcial;Mujeres;60;11982.34;855.88
+TRAB_01262;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;55;26441.19;1888.66
+TRAB_01263;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;57820.93;4130.07
+TRAB_01264;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;29;10612.91;758.06
+TRAB_01265;País Vasco;Hostelería;Tiempo parcial;Mujeres;62;10500.0;750.0
+TRAB_01266;País Vasco;Hostelería;Tiempo completo;Hombres;46;17937.36;1281.24
+TRAB_01267;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;43070.94;3076.5
+TRAB_01268;Andalucía;Hostelería;Tiempo completo;Mujeres;52;23501.1;1678.65
+TRAB_01269;Cataluña;Hostelería;Tiempo completo;Mujeres;24;29284.02;2091.72
+TRAB_01270;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;59;12327.65;880.55
+TRAB_01271;Andalucía;Hostelería;Tiempo parcial;Hombres;24;11082.64;791.62
+TRAB_01272;Cataluña;Hostelería;Tiempo parcial;Hombres;41;11310.87;807.92
+TRAB_01273;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;61;26194.56;1871.04
+TRAB_01274;Galicia;Hostelería;Tiempo completo;Hombres;31;18780.87;1341.49
+TRAB_01275;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;34;30872.37;2205.17
+TRAB_01276;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;34578.23;2469.87
+TRAB_01277;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;29;14236.05;1016.86
+TRAB_01278;Andalucía;Hostelería;Tiempo completo;Mujeres;29;12952.4;925.17
+TRAB_01279;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;23526.73;1680.48
+TRAB_01280;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;33;11656.63;832.62
+TRAB_01281;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;43;20412.01;1458.0
+TRAB_01282;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;28;21851.49;1560.82
+TRAB_01283;Cataluña;Hostelería;Tiempo completo;Hombres;44;27474.41;1962.46
+TRAB_01284;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;40313.27;2879.52
+TRAB_01285;País Vasco;Hostelería;Tiempo completo;Mujeres;27;10500.0;750.0
+TRAB_01286;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;54;19416.25;1386.88
+TRAB_01287;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;35871.51;2562.25
+TRAB_01288;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;47614.37;3401.03
+TRAB_01289;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;51;50985.77;3641.84
+TRAB_01290;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;40205.95;2871.85
+TRAB_01291;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;32497.35;2321.24
+TRAB_01292;Andalucía;Hostelería;Tiempo parcial;Mujeres;32;10969.39;783.53
+TRAB_01293;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;35037.34;2502.67
+TRAB_01294;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;29630.23;2116.45
+TRAB_01295;Cataluña;Hostelería;Tiempo completo;Mujeres;23;23583.35;1684.52
+TRAB_01296;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;62;36243.37;2588.81
+TRAB_01297;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;15836.08;1131.15
+TRAB_01298;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;25750.25;1839.3
+TRAB_01299;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;34599.72;2471.41
+TRAB_01300;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;61;31624.65;2258.9
+TRAB_01301;Andalucía;Hostelería;Tiempo completo;Mujeres;43;15902.14;1135.87
+TRAB_01302;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;33162.69;2368.76
+TRAB_01303;País Vasco;Hostelería;Tiempo completo;Mujeres;58;13156.31;939.74
+TRAB_01304;Galicia;Hostelería;Tiempo completo;Mujeres;49;16259.12;1161.37
+TRAB_01305;Canarias;Hostelería;Tiempo completo;Hombres;56;11795.93;842.57
+TRAB_01306;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;45;35544.86;2538.92
+TRAB_01307;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;27708.63;1979.19
+TRAB_01308;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;50;13222.03;944.43
+TRAB_01309;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;21702.06;1550.15
+TRAB_01310;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;41;10500.0;750.0
+TRAB_01311;País Vasco;Hostelería;Tiempo completo;Hombres;27;13566.95;969.07
+TRAB_01312;Canarias;Información y comunicaciones (Tech);Tiempo parcial;Hombres;31;16909.38;1207.81
+TRAB_01313;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;51;15091.19;1077.94
+TRAB_01314;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;51705.81;3693.27
+TRAB_01315;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_01316;Castilla y León;Hostelería;Tiempo completo;Hombres;51;19742.16;1410.15
+TRAB_01317;Balears, Illes;Hostelería;Tiempo completo;Hombres;51;19042.96;1360.21
+TRAB_01318;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;46036.69;3288.34
+TRAB_01319;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;40264.24;2876.02
+TRAB_01320;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;42;27686.41;1977.6
+TRAB_01321;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;32077.51;2291.25
+TRAB_01322;País Vasco;Hostelería;Tiempo completo;Hombres;38;13421.91;958.71
+TRAB_01323;Andalucía;Hostelería;Tiempo completo;Mujeres;23;17226.21;1230.44
+TRAB_01324;Cataluña;Hostelería;Tiempo parcial;Hombres;29;11063.31;790.24
+TRAB_01325;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;31;14359.58;1025.68
+TRAB_01326;Andalucía;Hostelería;Tiempo parcial;Hombres;41;10500.0;750.0
+TRAB_01327;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;43181.35;3084.38
+TRAB_01328;Castilla y León;Hostelería;Tiempo parcial;Hombres;59;10500.0;750.0
+TRAB_01329;Canarias;Información y comunicaciones (Tech);Tiempo parcial;Hombres;47;15461.38;1104.38
+TRAB_01330;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;56268.31;4019.16
+TRAB_01331;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;22069.31;1576.38
+TRAB_01332;Cataluña;Hostelería;Tiempo parcial;Hombres;25;10500.0;750.0
+TRAB_01333;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_01334;Cataluña;Hostelería;Tiempo completo;Mujeres;44;12143.87;867.42
+TRAB_01335;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;14186.32;1013.31
+TRAB_01336;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;54;38666.26;2761.88
+TRAB_01337;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;50888.59;3634.9
+TRAB_01338;Andalucía;Hostelería;Tiempo parcial;Hombres;22;10500.0;750.0
+TRAB_01339;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;25;19934.39;1423.88
+TRAB_01340;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;63;16222.24;1158.73
+TRAB_01341;Cataluña;Hostelería;Tiempo completo;Mujeres;40;20467.32;1461.95
+TRAB_01342;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;20429.68;1459.26
+TRAB_01343;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;57;46638.63;3331.33
+TRAB_01344;Canarias;Hostelería;Tiempo completo;Mujeres;26;14676.48;1048.32
+TRAB_01345;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;35281.05;2520.08
+TRAB_01346;Cataluña;Hostelería;Tiempo parcial;Hombres;46;10500.0;750.0
+TRAB_01347;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;27044.72;1931.77
+TRAB_01348;Cataluña;Hostelería;Tiempo completo;Mujeres;40;22038.76;1574.2
+TRAB_01349;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;53797.04;3842.65
+TRAB_01350;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;50914.64;3636.76
+TRAB_01351;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;33962.7;2425.91
+TRAB_01352;Andalucía;Hostelería;Tiempo completo;Hombres;31;12855.55;918.25
+TRAB_01353;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;26441.27;1888.66
+TRAB_01354;Cataluña;Hostelería;Tiempo completo;Hombres;27;15982.84;1141.63
+TRAB_01355;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;26922.97;1923.07
+TRAB_01356;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;36666.11;2619.01
+TRAB_01357;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;21778.24;1555.59
+TRAB_01358;Castilla y León;Hostelería;Tiempo completo;Hombres;56;13361.85;954.42
+TRAB_01359;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;36;46328.26;3309.16
+TRAB_01360;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;54485.87;3891.85
+TRAB_01361;País Vasco;Hostelería;Tiempo parcial;Mujeres;39;12368.56;883.47
+TRAB_01362;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;24;20972.26;1498.02
+TRAB_01363;Galicia;Hostelería;Tiempo parcial;Mujeres;39;10500.0;750.0
+TRAB_01364;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;29;16954.28;1211.02
+TRAB_01365;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;52;15107.12;1079.08
+TRAB_01366;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;28;23198.51;1657.04
+TRAB_01367;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;34800.64;2485.76
+TRAB_01368;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;27;30761.55;2197.25
+TRAB_01369;Galicia;Hostelería;Tiempo completo;Hombres;34;17004.93;1214.64
+TRAB_01370;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;40380.25;2884.3
+TRAB_01371;Canarias;Hostelería;Tiempo parcial;Hombres;60;13853.02;989.5
+TRAB_01372;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;14019.49;1001.39
+TRAB_01373;Galicia;Hostelería;Tiempo parcial;Mujeres;47;10500.0;750.0
+TRAB_01374;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;48;20171.87;1440.85
+TRAB_01375;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;39026.75;2787.62
+TRAB_01376;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;25;12071.62;862.26
+TRAB_01377;Andalucía;Hostelería;Tiempo completo;Mujeres;48;19972.35;1426.6
+TRAB_01378;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;31;23901.77;1707.27
+TRAB_01379;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;50;18848.38;1346.31
+TRAB_01380;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;34205.35;2443.24
+TRAB_01381;Castilla y León;Hostelería;Tiempo completo;Hombres;50;10500.0;750.0
+TRAB_01382;Andalucía;Hostelería;Tiempo completo;Hombres;48;12531.0;895.07
+TRAB_01383;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;45;23650.48;1689.32
+TRAB_01384;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;46;19687.5;1406.25
+TRAB_01385;Canarias;Hostelería;Tiempo parcial;Mujeres;40;11644.67;831.76
+TRAB_01386;Andalucía;Hostelería;Tiempo completo;Mujeres;26;20248.27;1446.31
+TRAB_01387;Balears, Illes;Hostelería;Tiempo completo;Mujeres;60;21069.39;1504.96
+TRAB_01388;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;25;42280.73;3020.05
+TRAB_01389;Cataluña;Hostelería;Tiempo completo;Hombres;29;26058.86;1861.35
+TRAB_01390;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;35696.07;2549.72
+TRAB_01391;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;39812.18;2843.73
+TRAB_01392;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;41;24306.34;1736.17
+TRAB_01393;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;45063.36;3218.81
+TRAB_01394;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;18145.65;1296.12
+TRAB_01395;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;30;11487.96;820.57
+TRAB_01396;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;35440.9;2531.49
+TRAB_01397;Andalucía;Hostelería;Tiempo parcial;Mujeres;60;11625.02;830.36
+TRAB_01398;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;41;13757.85;982.7
+TRAB_01399;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;27248.32;1946.31
+TRAB_01400;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;35890.64;2563.62
+TRAB_01401;País Vasco;Hostelería;Tiempo completo;Mujeres;35;17858.09;1275.58
+TRAB_01402;Castilla y León;Hostelería;Tiempo completo;Hombres;45;17768.81;1269.2
+TRAB_01403;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;36;22756.72;1625.48
+TRAB_01404;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;43;10500.0;750.0
+TRAB_01405;Balears, Illes;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_01406;Canarias;Información y comunicaciones (Tech);Tiempo parcial;Hombres;26;23359.45;1668.53
+TRAB_01407;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;28;28279.19;2019.94
+TRAB_01408;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;60;32291.57;2306.54
+TRAB_01409;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;32525.39;2323.24
+TRAB_01410;Andalucía;Hostelería;Tiempo parcial;Mujeres;26;10500.0;750.0
+TRAB_01411;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;27507.75;1964.84
+TRAB_01412;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;42;27925.98;1994.71
+TRAB_01413;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;25;37534.5;2681.04
+TRAB_01414;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;28;36587.15;2613.37
+TRAB_01415;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;17888.11;1277.72
+TRAB_01416;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;39;14612.31;1043.74
+TRAB_01417;Cataluña;Hostelería;Tiempo completo;Hombres;24;18941.82;1352.99
+TRAB_01418;Andalucía;Hostelería;Tiempo parcial;Mujeres;26;10500.0;750.0
+TRAB_01419;Cataluña;Hostelería;Tiempo completo;Mujeres;45;20960.46;1497.18
+TRAB_01420;Andalucía;Hostelería;Tiempo completo;Mujeres;24;19127.63;1366.26
+TRAB_01421;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;12041.68;860.12
+TRAB_01422;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;44;10500.0;750.0
+TRAB_01423;Canarias;Hostelería;Tiempo completo;Hombres;29;26385.42;1884.67
+TRAB_01424;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;33593.68;2399.55
+TRAB_01425;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;60;21498.0;1535.57
+TRAB_01426;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;56;10500.0;750.0
+TRAB_01427;Galicia;Hostelería;Tiempo completo;Mujeres;47;16371.5;1169.39
+TRAB_01428;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;51076.33;3648.31
+TRAB_01429;Andalucía;Hostelería;Tiempo completo;Mujeres;35;16905.52;1207.54
+TRAB_01430;Castilla y León;Hostelería;Tiempo completo;Mujeres;23;13606.96;971.93
+TRAB_01431;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;44329.06;3166.36
+TRAB_01432;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;30757.13;2196.94
+TRAB_01433;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;29632.02;2116.57
+TRAB_01434;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;32981.75;2355.84
+TRAB_01435;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;48839.67;3488.55
+TRAB_01436;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;32342.04;2310.15
+TRAB_01437;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;62;27377.5;1955.54
+TRAB_01438;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;36;48574.84;3469.63
+TRAB_01439;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;55;10500.0;750.0
+TRAB_01440;Galicia;Hostelería;Tiempo completo;Mujeres;58;24885.58;1777.54
+TRAB_01441;Galicia;Hostelería;Tiempo parcial;Mujeres;54;12942.74;924.48
+TRAB_01442;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;42106.03;3007.57
+TRAB_01443;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;49;22782.26;1627.3
+TRAB_01444;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;38735.92;2766.85
+TRAB_01445;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;38875.49;2776.82
+TRAB_01446;País Vasco;Hostelería;Tiempo completo;Mujeres;49;17363.51;1240.25
+TRAB_01447;Castilla y León;Hostelería;Tiempo completo;Hombres;46;23779.95;1698.57
+TRAB_01448;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;27082.43;1934.46
+TRAB_01449;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;39699.6;2835.69
+TRAB_01450;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;26;42893.4;3063.81
+TRAB_01451;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;37926.33;2709.02
+TRAB_01452;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;56;15166.48;1083.32
+TRAB_01453;Castilla y León;Hostelería;Tiempo completo;Hombres;53;11994.15;856.73
+TRAB_01454;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;21920.77;1565.77
+TRAB_01455;Cataluña;Hostelería;Tiempo completo;Mujeres;29;18852.03;1346.57
+TRAB_01456;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;37;24601.95;1757.28
+TRAB_01457;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;23852.27;1703.73
+TRAB_01458;Cataluña;Hostelería;Tiempo completo;Mujeres;45;24332.58;1738.04
+TRAB_01459;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;27;34527.96;2466.28
+TRAB_01460;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;60;42361.6;3025.83
+TRAB_01461;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;62;50050.13;3575.01
+TRAB_01462;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;34088.85;2434.92
+TRAB_01463;Canarias;Hostelería;Tiempo parcial;Hombres;43;10500.0;750.0
+TRAB_01464;Cataluña;Hostelería;Tiempo parcial;Hombres;49;10975.81;783.99
+TRAB_01465;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;25538.86;1824.2
+TRAB_01466;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;34;24336.83;1738.35
+TRAB_01467;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;32;20629.4;1473.53
+TRAB_01468;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;33954.51;2425.32
+TRAB_01469;Andalucía;Hostelería;Tiempo completo;Hombres;27;13214.77;943.91
+TRAB_01470;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;50105.43;3578.96
+TRAB_01471;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;38432.71;2745.19
+TRAB_01472;País Vasco;Hostelería;Tiempo parcial;Mujeres;51;10500.0;750.0
+TRAB_01473;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;61;25970.64;1855.05
+TRAB_01474;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;37938.45;2709.89
+TRAB_01475;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;33;26463.15;1890.23
+TRAB_01476;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;34933.56;2495.25
+TRAB_01477;Cataluña;Hostelería;Tiempo completo;Hombres;56;23910.58;1707.9
+TRAB_01478;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;41;34733.78;2480.98
+TRAB_01479;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;28556.06;2039.72
+TRAB_01480;Castilla y León;Hostelería;Tiempo parcial;Mujeres;36;10500.0;750.0
+TRAB_01481;Andalucía;Hostelería;Tiempo completo;Mujeres;42;12086.07;863.29
+TRAB_01482;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;33228.98;2373.5
+TRAB_01483;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;34;27651.29;1975.09
+TRAB_01484;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;33;12220.87;872.92
+TRAB_01485;Cataluña;Hostelería;Tiempo parcial;Mujeres;38;15659.43;1118.53
+TRAB_01486;Andalucía;Hostelería;Tiempo parcial;Hombres;42;10500.0;750.0
+TRAB_01487;Cataluña;Hostelería;Tiempo completo;Hombres;36;23314.22;1665.3
+TRAB_01488;Andalucía;Hostelería;Tiempo completo;Hombres;30;13146.27;939.02
+TRAB_01489;Andalucía;Hostelería;Tiempo completo;Hombres;40;12467.92;890.57
+TRAB_01490;Andalucía;Hostelería;Tiempo completo;Mujeres;55;21016.55;1501.18
+TRAB_01491;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;47;11810.45;843.6
+TRAB_01492;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;17949.34;1282.1
+TRAB_01493;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;43;12747.91;910.56
+TRAB_01494;Andalucía;Hostelería;Tiempo completo;Hombres;47;10927.91;780.56
+TRAB_01495;Galicia;Hostelería;Tiempo completo;Hombres;35;19582.59;1398.76
+TRAB_01496;Cataluña;Hostelería;Tiempo completo;Mujeres;45;19329.36;1380.67
+TRAB_01497;Cataluña;Hostelería;Tiempo completo;Hombres;23;21233.72;1516.69
+TRAB_01498;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;30555.96;2182.57
+TRAB_01499;Galicia;Hostelería;Tiempo parcial;Mujeres;36;10500.0;750.0
+TRAB_01500;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;37944.14;2710.3
+TRAB_01501;Castilla y León;Hostelería;Tiempo parcial;Hombres;45;10500.0;750.0
+TRAB_01502;País Vasco;Hostelería;Tiempo completo;Mujeres;44;17036.01;1216.86
+TRAB_01503;País Vasco;Hostelería;Tiempo completo;Hombres;60;14702.79;1050.2
+TRAB_01504;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;43731.63;3123.69
+TRAB_01505;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;45;20632.38;1473.74
+TRAB_01506;Castilla y León;Hostelería;Tiempo parcial;Hombres;60;10500.0;750.0
+TRAB_01507;Cataluña;Hostelería;Tiempo parcial;Hombres;47;11307.23;807.66
+TRAB_01508;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;40585.22;2898.94
+TRAB_01509;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;39;17720.39;1265.74
+TRAB_01510;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;61;22850.02;1632.14
+TRAB_01511;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;29912.38;2136.6
+TRAB_01512;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;26;19965.06;1426.08
+TRAB_01513;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;35;34346.66;2453.33
+TRAB_01514;Galicia;Hostelería;Tiempo parcial;Hombres;22;12455.04;889.65
+TRAB_01515;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;32315.59;2308.26
+TRAB_01516;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;26211.35;1872.24
+TRAB_01517;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;30;48711.76;3479.41
+TRAB_01518;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;57;40422.82;2887.34
+TRAB_01519;Galicia;Hostelería;Tiempo completo;Hombres;33;12731.41;909.39
+TRAB_01520;Cataluña;Hostelería;Tiempo parcial;Hombres;35;11285.53;806.11
+TRAB_01521;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;40;14629.41;1044.96
+TRAB_01522;Galicia;Hostelería;Tiempo completo;Mujeres;32;14909.99;1065.0
+TRAB_01523;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;63;21921.02;1565.79
+TRAB_01524;Castilla y León;Información y comunicaciones (Tech);Tiempo parcial;Hombres;27;29609.65;2114.97
+TRAB_01525;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;39256.67;2804.05
+TRAB_01526;Cataluña;Hostelería;Tiempo completo;Hombres;48;23079.87;1648.56
+TRAB_01527;Cataluña;Hostelería;Tiempo parcial;Mujeres;43;10500.0;750.0
+TRAB_01528;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;35107.9;2507.71
+TRAB_01529;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;21673.93;1548.14
+TRAB_01530;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;33079.53;2362.82
+TRAB_01531;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;30548.32;2182.02
+TRAB_01532;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;31249.32;2232.09
+TRAB_01533;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;45717.96;3265.57
+TRAB_01534;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;35;10741.13;767.22
+TRAB_01535;Andalucía;Hostelería;Tiempo parcial;Mujeres;34;13548.2;967.73
+TRAB_01536;Balears, Illes;Hostelería;Tiempo parcial;Mujeres;59;15999.58;1142.83
+TRAB_01537;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;42;20072.19;1433.73
+TRAB_01538;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;38;24842.7;1774.48
+TRAB_01539;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;47764.34;3411.74
+TRAB_01540;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;48;13432.89;959.49
+TRAB_01541;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;24;25162.94;1797.35
+TRAB_01542;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;48;37972.82;2712.34
+TRAB_01543;Cataluña;Hostelería;Tiempo completo;Mujeres;27;18426.25;1316.16
+TRAB_01544;Andalucía;Hostelería;Tiempo parcial;Mujeres;47;10500.0;750.0
+TRAB_01545;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Hombres;37;24219.71;1729.98
+TRAB_01546;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;30;13519.54;965.68
+TRAB_01547;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;48;11263.86;804.56
+TRAB_01548;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;23;16027.52;1144.82
+TRAB_01549;Galicia;Hostelería;Tiempo completo;Mujeres;61;17346.38;1239.03
+TRAB_01550;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;48;12994.26;928.16
+TRAB_01551;País Vasco;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_01552;Andalucía;Hostelería;Tiempo parcial;Mujeres;44;10505.0;750.36
+TRAB_01553;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;25;28145.14;2010.37
+TRAB_01554;Cataluña;Hostelería;Tiempo completo;Hombres;31;19958.14;1425.58
+TRAB_01555;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;28941.29;2067.24
+TRAB_01556;País Vasco;Hostelería;Tiempo completo;Hombres;50;17620.59;1258.61
+TRAB_01557;País Vasco;Hostelería;Tiempo completo;Mujeres;28;17864.67;1276.05
+TRAB_01558;Cataluña;Hostelería;Tiempo parcial;Mujeres;42;12734.05;909.57
+TRAB_01559;Cataluña;Hostelería;Tiempo parcial;Mujeres;60;13980.12;998.58
+TRAB_01560;Cataluña;Hostelería;Tiempo completo;Mujeres;27;15114.52;1079.61
+TRAB_01561;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;62;30291.8;2163.7
+TRAB_01562;Galicia;Información y comunicaciones (Tech);Tiempo parcial;Hombres;37;18515.53;1322.54
+TRAB_01563;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;33993.91;2428.14
+TRAB_01564;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;34772.8;2483.77
+TRAB_01565;Balears, Illes;Hostelería;Tiempo completo;Hombres;43;17558.35;1254.17
+TRAB_01566;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;28;43262.78;3090.2
+TRAB_01567;Cataluña;Hostelería;Tiempo completo;Hombres;45;18266.88;1304.78
+TRAB_01568;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;42506.17;3036.15
+TRAB_01569;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;26;14544.83;1038.92
+TRAB_01570;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;35547.85;2539.13
+TRAB_01571;Canarias;Hostelería;Tiempo completo;Hombres;22;14298.66;1021.33
+TRAB_01572;Andalucía;Hostelería;Tiempo completo;Mujeres;38;15504.05;1107.43
+TRAB_01573;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;44761.63;3197.26
+TRAB_01574;Cataluña;Hostelería;Tiempo completo;Hombres;49;19957.54;1425.54
+TRAB_01575;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;37565.37;2683.24
+TRAB_01576;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;42282.71;3020.19
+TRAB_01577;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;39;38952.75;2782.34
+TRAB_01578;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;27496.3;1964.02
+TRAB_01579;País Vasco;Hostelería;Tiempo parcial;Mujeres;50;10500.0;750.0
+TRAB_01580;Galicia;Hostelería;Tiempo parcial;Mujeres;52;11494.99;821.07
+TRAB_01581;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;31912.71;2279.48
+TRAB_01582;Cataluña;Hostelería;Tiempo completo;Hombres;52;23966.59;1711.9
+TRAB_01583;Cataluña;Hostelería;Tiempo parcial;Hombres;51;11798.61;842.76
+TRAB_01584;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;45;13480.67;962.9
+TRAB_01585;Andalucía;Hostelería;Tiempo parcial;Mujeres;23;10500.0;750.0
+TRAB_01586;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;31;34695.48;2478.25
+TRAB_01587;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;55;19855.4;1418.24
+TRAB_01588;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;29;19382.23;1384.44
+TRAB_01589;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;22;12016.01;858.29
+TRAB_01590;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;51;25880.04;1848.57
+TRAB_01591;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;37105.52;2650.39
+TRAB_01592;Canarias;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;23;24219.03;1729.93
+TRAB_01593;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;24;33661.84;2404.42
+TRAB_01594;Galicia;Hostelería;Tiempo completo;Mujeres;23;20499.15;1464.23
+TRAB_01595;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;28183.28;2013.09
+TRAB_01596;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;45;43545.78;3110.41
+TRAB_01597;Balears, Illes;Hostelería;Tiempo completo;Mujeres;23;17349.82;1239.27
+TRAB_01598;Cataluña;Hostelería;Tiempo parcial;Hombres;63;10500.0;750.0
+TRAB_01599;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;57825.26;4130.38
+TRAB_01600;Cataluña;Hostelería;Tiempo completo;Hombres;51;20643.5;1474.54
+TRAB_01601;Andalucía;Hostelería;Tiempo completo;Mujeres;25;21281.25;1520.09
+TRAB_01602;Andalucía;Hostelería;Tiempo completo;Hombres;24;15289.72;1092.12
+TRAB_01603;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;35;53679.57;3834.26
+TRAB_01604;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;54;20777.8;1484.13
+TRAB_01605;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;35;13542.8;967.34
+TRAB_01606;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;61;10500.0;750.0
+TRAB_01607;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;28;36795.05;2628.22
+TRAB_01608;Andalucía;Hostelería;Tiempo parcial;Mujeres;26;10500.0;750.0
+TRAB_01609;Galicia;Hostelería;Tiempo completo;Hombres;57;19138.74;1367.05
+TRAB_01610;Galicia;Hostelería;Tiempo parcial;Mujeres;44;10500.0;750.0
+TRAB_01611;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;59;12974.38;926.74
+TRAB_01612;Galicia;Hostelería;Tiempo completo;Hombres;28;21049.53;1503.54
+TRAB_01613;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;24;14592.9;1042.35
+TRAB_01614;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;30;24101.44;1721.53
+TRAB_01615;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;45194.74;3228.2
+TRAB_01616;Canarias;Hostelería;Tiempo completo;Mujeres;55;12583.93;898.85
+TRAB_01617;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;31875.48;2276.82
+TRAB_01618;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;41;19176.47;1369.75
+TRAB_01619;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;30;19386.41;1384.74
+TRAB_01620;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;45198.44;3228.46
+TRAB_01621;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;25;14906.15;1064.72
+TRAB_01622;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;37048.69;2646.34
+TRAB_01623;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;58;23187.86;1656.28
+TRAB_01624;Cataluña;Hostelería;Tiempo completo;Mujeres;31;26532.92;1895.21
+TRAB_01625;Andalucía;Hostelería;Tiempo parcial;Mujeres;39;10500.0;750.0
+TRAB_01626;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;52486.17;3749.01
+TRAB_01627;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;62;23263.02;1661.64
+TRAB_01628;Canarias;Hostelería;Tiempo completo;Mujeres;33;19909.89;1422.13
+TRAB_01629;Galicia;Hostelería;Tiempo completo;Mujeres;49;18273.63;1305.26
+TRAB_01630;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;35;17895.47;1278.25
+TRAB_01631;Cataluña;Hostelería;Tiempo completo;Hombres;54;27693.49;1978.11
+TRAB_01632;País Vasco;Hostelería;Tiempo parcial;Hombres;60;11148.09;796.29
+TRAB_01633;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;40;15130.23;1080.73
+TRAB_01634;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;45;34663.92;2475.99
+TRAB_01635;Cataluña;Hostelería;Tiempo completo;Hombres;26;22829.82;1630.7
+TRAB_01636;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;31591.82;2256.56
+TRAB_01637;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;37;32634.37;2331.03
+TRAB_01638;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;35;36059.58;2575.68
+TRAB_01639;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;37;10500.0;750.0
+TRAB_01640;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;55;50269.18;3590.66
+TRAB_01641;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;28515.87;2036.85
+TRAB_01642;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;55;17639.57;1259.97
+TRAB_01643;Galicia;Hostelería;Tiempo parcial;Mujeres;54;10500.0;750.0
+TRAB_01644;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;35;19534.68;1395.33
+TRAB_01645;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;41;16754.07;1196.72
+TRAB_01646;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;21354.66;1525.33
+TRAB_01647;Cataluña;Hostelería;Tiempo parcial;Hombres;32;12892.4;920.89
+TRAB_01648;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;27;23241.04;1660.07
+TRAB_01649;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;60;17794.48;1271.03
+TRAB_01650;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;62;23847.71;1703.41
+TRAB_01651;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;31572.57;2255.18
+TRAB_01652;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;56;18656.65;1332.62
+TRAB_01653;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;56;37012.05;2643.72
+TRAB_01654;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;58;10500.0;750.0
+TRAB_01655;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;35;35693.63;2549.54
+TRAB_01656;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;38462.08;2747.29
+TRAB_01657;Cataluña;Hostelería;Tiempo completo;Hombres;59;21920.13;1565.72
+TRAB_01658;País Vasco;Hostelería;Tiempo parcial;Mujeres;55;10500.0;750.0
+TRAB_01659;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;40320.53;2880.04
+TRAB_01660;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;40;10500.0;750.0
+TRAB_01661;Cataluña;Hostelería;Tiempo completo;Hombres;38;18462.7;1318.76
+TRAB_01662;País Vasco;Hostelería;Tiempo parcial;Hombres;56;10500.0;750.0
+TRAB_01663;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;26;22917.16;1636.94
+TRAB_01664;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;12495.89;892.56
+TRAB_01665;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;36178.41;2584.17
+TRAB_01666;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;48408.09;3457.72
+TRAB_01667;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;60;18918.51;1351.32
+TRAB_01668;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;19491.98;1392.28
+TRAB_01669;País Vasco;Hostelería;Tiempo completo;Hombres;38;23467.13;1676.22
+TRAB_01670;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;30;35655.85;2546.85
+TRAB_01671;Canarias;Hostelería;Tiempo completo;Hombres;57;18233.89;1302.42
+TRAB_01672;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;62;40403.22;2885.94
+TRAB_01673;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;51;17208.57;1229.18
+TRAB_01674;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;57003.51;4071.68
+TRAB_01675;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;43;10500.0;750.0
+TRAB_01676;Andalucía;Hostelería;Tiempo parcial;Mujeres;49;10500.0;750.0
+TRAB_01677;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;62;42942.95;3067.35
+TRAB_01678;Andalucía;Hostelería;Tiempo completo;Hombres;26;14159.5;1011.39
+TRAB_01679;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;48;33270.82;2376.49
+TRAB_01680;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;45;20580.63;1470.05
+TRAB_01681;Cataluña;Hostelería;Tiempo completo;Hombres;38;19476.38;1391.17
+TRAB_01682;Galicia;Hostelería;Tiempo completo;Mujeres;36;13172.69;940.91
+TRAB_01683;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;30;17373.91;1240.99
+TRAB_01684;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;40746.21;2910.44
+TRAB_01685;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;53360.13;3811.44
+TRAB_01686;Galicia;Hostelería;Tiempo parcial;Hombres;62;10500.0;750.0
+TRAB_01687;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;42;41591.97;2970.86
+TRAB_01688;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;56;21396.9;1528.35
+TRAB_01689;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;27158.19;1939.87
+TRAB_01690;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Hombres;29;19908.9;1422.06
+TRAB_01691;Castilla y León;Hostelería;Tiempo parcial;Mujeres;58;10763.73;768.84
+TRAB_01692;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;32431.28;2316.52
+TRAB_01693;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;32817.12;2344.08
+TRAB_01694;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;40;16538.38;1181.31
+TRAB_01695;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;63;38856.67;2775.48
+TRAB_01696;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;58;14651.57;1046.54
+TRAB_01697;Galicia;Información y comunicaciones (Tech);Tiempo parcial;Hombres;45;17087.86;1220.56
+TRAB_01698;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;32;18041.72;1288.69
+TRAB_01699;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;38602.29;2757.31
+TRAB_01700;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;62;10500.0;750.0
+TRAB_01701;Andalucía;Hostelería;Tiempo parcial;Mujeres;22;10500.0;750.0
+TRAB_01702;Andalucía;Hostelería;Tiempo parcial;Mujeres;54;12530.51;895.04
+TRAB_01703;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;37909.54;2707.82
+TRAB_01704;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;57;32094.91;2292.49
+TRAB_01705;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;32;19189.91;1370.71
+TRAB_01706;Cataluña;Hostelería;Tiempo parcial;Mujeres;52;11383.97;813.14
+TRAB_01707;Cataluña;Hostelería;Tiempo parcial;Hombres;42;10500.0;750.0
+TRAB_01708;Cataluña;Hostelería;Tiempo completo;Hombres;54;15086.54;1077.61
+TRAB_01709;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;26329.56;1880.68
+TRAB_01710;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;51;33392.54;2385.18
+TRAB_01711;Cataluña;Hostelería;Tiempo completo;Hombres;46;17982.31;1284.45
+TRAB_01712;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;18320.96;1308.64
+TRAB_01713;Galicia;Hostelería;Tiempo parcial;Mujeres;35;10500.0;750.0
+TRAB_01714;Andalucía;Hostelería;Tiempo parcial;Hombres;61;11358.71;811.34
+TRAB_01715;Cataluña;Hostelería;Tiempo parcial;Mujeres;61;11577.51;826.97
+TRAB_01716;Castilla y León;Hostelería;Tiempo parcial;Mujeres;54;10500.0;750.0
+TRAB_01717;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;25385.75;1813.27
+TRAB_01718;Andalucía;Hostelería;Tiempo completo;Mujeres;56;22616.16;1615.44
+TRAB_01719;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;35674.7;2548.19
+TRAB_01720;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;42;48250.03;3446.43
+TRAB_01721;Castilla y León;Hostelería;Tiempo parcial;Mujeres;30;10500.0;750.0
+TRAB_01722;Galicia;Hostelería;Tiempo completo;Hombres;61;22992.5;1642.32
+TRAB_01723;Andalucía;Hostelería;Tiempo completo;Hombres;55;22316.68;1594.05
+TRAB_01724;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;60;18414.7;1315.34
+TRAB_01725;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;57;11537.95;824.14
+TRAB_01726;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;56;40746.03;2910.43
+TRAB_01727;Cataluña;Hostelería;Tiempo parcial;Mujeres;60;10500.0;750.0
+TRAB_01728;Cataluña;Hostelería;Tiempo completo;Mujeres;57;28742.92;2053.07
+TRAB_01729;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;55;27726.03;1980.43
+TRAB_01730;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Hombres;43;14136.85;1009.77
+TRAB_01731;Canarias;Hostelería;Tiempo parcial;Mujeres;51;10500.0;750.0
+TRAB_01732;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;23668.81;1690.63
+TRAB_01733;Canarias;Hostelería;Tiempo parcial;Hombres;61;12199.57;871.4
+TRAB_01734;Andalucía;Hostelería;Tiempo parcial;Mujeres;40;10500.0;750.0
+TRAB_01735;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Hombres;40;10500.0;750.0
+TRAB_01736;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;51;30241.09;2160.08
+TRAB_01737;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;34;10500.0;750.0
+TRAB_01738;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;32841.18;2345.8
+TRAB_01739;País Vasco;Hostelería;Tiempo completo;Mujeres;25;21608.18;1543.44
+TRAB_01740;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;26322.61;1880.19
+TRAB_01741;Cataluña;Hostelería;Tiempo completo;Mujeres;22;22454.99;1603.93
+TRAB_01742;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;48;10500.0;750.0
+TRAB_01743;Cataluña;Hostelería;Tiempo completo;Mujeres;24;27006.56;1929.04
+TRAB_01744;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;39;18214.86;1301.06
+TRAB_01745;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;23876.11;1705.44
+TRAB_01746;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;56284.96;4020.35
+TRAB_01747;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;40;29971.44;2140.82
+TRAB_01748;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;33;21302.62;1521.62
+TRAB_01749;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;40304.32;2878.88
+TRAB_01750;Andalucía;Hostelería;Tiempo completo;Hombres;43;20319.94;1451.42
+TRAB_01751;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;29;10500.0;750.0
+TRAB_01752;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Hombres;52;13190.57;942.18
+TRAB_01753;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;27260.38;1947.17
+TRAB_01754;Galicia;Hostelería;Tiempo completo;Mujeres;58;16616.4;1186.89
+TRAB_01755;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;49;24763.43;1768.82
+TRAB_01756;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;23182.8;1655.91
+TRAB_01757;Cataluña;Hostelería;Tiempo completo;Mujeres;35;22973.89;1640.99
+TRAB_01758;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;45;34845.13;2488.94
+TRAB_01759;Balears, Illes;Información y comunicaciones (Tech);Tiempo parcial;Hombres;35;21694.16;1549.58
+TRAB_01760;Canarias;Hostelería;Tiempo parcial;Mujeres;43;10500.0;750.0
+TRAB_01761;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;26696.72;1906.91
+TRAB_01762;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;62;20719.38;1479.96
+TRAB_01763;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;37;12640.39;902.88
+TRAB_01764;Andalucía;Hostelería;Tiempo completo;Mujeres;55;18503.99;1321.71
+TRAB_01765;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;36;10587.05;756.22
+TRAB_01766;Andalucía;Hostelería;Tiempo completo;Mujeres;23;24143.97;1724.57
+TRAB_01767;Cataluña;Hostelería;Tiempo parcial;Hombres;30;10500.0;750.0
+TRAB_01768;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;18754.07;1339.58
+TRAB_01769;Castilla y León;Hostelería;Tiempo parcial;Hombres;28;10500.0;750.0
+TRAB_01770;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;55;22198.28;1585.59
+TRAB_01771;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;63;10500.0;750.0
+TRAB_01772;Castilla y León;Hostelería;Tiempo completo;Hombres;49;15707.67;1121.98
+TRAB_01773;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;55928.12;3994.87
+TRAB_01774;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;48;22493.87;1606.7
+TRAB_01775;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;35;10500.0;750.0
+TRAB_01776;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;34376.49;2455.46
+TRAB_01777;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;61;19050.17;1360.73
+TRAB_01778;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;46;11043.35;788.81
+TRAB_01779;Andalucía;Hostelería;Tiempo parcial;Hombres;38;10500.0;750.0
+TRAB_01780;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;40;18300.29;1307.16
+TRAB_01781;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;23566.29;1683.31
+TRAB_01782;Cataluña;Hostelería;Tiempo parcial;Hombres;40;13569.31;969.24
+TRAB_01783;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;32113.59;2293.83
+TRAB_01784;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;23;39630.21;2830.73
+TRAB_01785;Andalucía;Hostelería;Tiempo parcial;Hombres;33;10500.0;750.0
+TRAB_01786;Galicia;Hostelería;Tiempo completo;Hombres;52;19694.8;1406.77
+TRAB_01787;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;42341.25;3024.38
+TRAB_01788;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;22;26387.97;1884.86
+TRAB_01789;Cataluña;Hostelería;Tiempo completo;Mujeres;43;24041.52;1717.25
+TRAB_01790;Balears, Illes;Información y comunicaciones (Tech);Tiempo parcial;Hombres;33;15393.5;1099.54
+TRAB_01791;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;35729.98;2552.14
+TRAB_01792;País Vasco;Hostelería;Tiempo completo;Mujeres;29;18779.25;1341.38
+TRAB_01793;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;41;19061.11;1361.51
+TRAB_01794;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;40;10500.0;750.0
+TRAB_01795;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;37;40680.64;2905.76
+TRAB_01796;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;22;19382.4;1384.46
+TRAB_01797;Andalucía;Hostelería;Tiempo completo;Hombres;37;21212.06;1515.15
+TRAB_01798;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;26;20833.97;1488.14
+TRAB_01799;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;65976.23;4712.59
+TRAB_01800;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;36938.22;2638.44
+TRAB_01801;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;35;31129.07;2223.51
+TRAB_01802;Canarias;Hostelería;Tiempo parcial;Mujeres;26;12274.52;876.75
+TRAB_01803;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;25;38888.35;2777.74
+TRAB_01804;Cataluña;Hostelería;Tiempo completo;Mujeres;40;16776.76;1198.34
+TRAB_01805;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;51;12894.39;921.03
+TRAB_01806;Andalucía;Hostelería;Tiempo completo;Mujeres;39;19415.84;1386.85
+TRAB_01807;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;44;39763.32;2840.24
+TRAB_01808;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;32;53189.73;3799.27
+TRAB_01809;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;39;46029.11;3287.79
+TRAB_01810;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;23;60308.7;4307.76
+TRAB_01811;Cataluña;Hostelería;Tiempo completo;Mujeres;56;16975.44;1212.53
+TRAB_01812;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;32472.57;2319.47
+TRAB_01813;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;33009.67;2357.83
+TRAB_01814;Balears, Illes;Hostelería;Tiempo parcial;Hombres;36;10906.66;779.05
+TRAB_01815;Cataluña;Hostelería;Tiempo completo;Mujeres;41;18868.09;1347.72
+TRAB_01816;Andalucía;Hostelería;Tiempo parcial;Hombres;26;11941.09;852.94
+TRAB_01817;Cataluña;Hostelería;Tiempo parcial;Hombres;59;10500.0;750.0
+TRAB_01818;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;37053.25;2646.66
+TRAB_01819;Castilla y León;Información y comunicaciones (Tech);Tiempo parcial;Hombres;35;26402.43;1885.89
+TRAB_01820;Castilla y León;Hostelería;Tiempo completo;Hombres;61;20060.5;1432.89
+TRAB_01821;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;27;24483.75;1748.84
+TRAB_01822;Andalucía;Hostelería;Tiempo parcial;Hombres;36;13078.18;934.16
+TRAB_01823;Castilla y León;Hostelería;Tiempo completo;Mujeres;38;10750.88;767.92
+TRAB_01824;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;24;39480.9;2820.06
+TRAB_01825;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;36;24522.37;1751.6
+TRAB_01826;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;44;10767.6;769.11
+TRAB_01827;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;42;10500.0;750.0
+TRAB_01828;Andalucía;Hostelería;Tiempo completo;Hombres;47;17198.81;1228.49
+TRAB_01829;Galicia;Hostelería;Tiempo parcial;Mujeres;41;10500.0;750.0
+TRAB_01830;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;58;36643.05;2617.36
+TRAB_01831;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;50;49910.6;3565.04
+TRAB_01832;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;33065.94;2361.85
+TRAB_01833;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;29319.28;2094.23
+TRAB_01834;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;45796.48;3271.18
+TRAB_01835;Cataluña;Hostelería;Tiempo completo;Hombres;41;20116.25;1436.88
+TRAB_01836;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;36;18816.57;1344.04
+TRAB_01837;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;61;28842.17;2060.15
+TRAB_01838;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;35;10500.0;750.0
+TRAB_01839;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;30800.98;2200.07
+TRAB_01840;Cataluña;Hostelería;Tiempo completo;Mujeres;49;18354.07;1311.0
+TRAB_01841;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;31128.22;2223.44
+TRAB_01842;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;58;37158.16;2654.15
+TRAB_01843;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;34677.9;2476.99
+TRAB_01844;Balears, Illes;Hostelería;Tiempo completo;Hombres;55;23268.71;1662.05
+TRAB_01845;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;25343.28;1810.23
+TRAB_01846;Cataluña;Hostelería;Tiempo parcial;Hombres;49;10500.0;750.0
+TRAB_01847;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Mujeres;55;45545.58;3253.26
+TRAB_01848;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;53;45009.2;3214.94
+TRAB_01849;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;57;24656.81;1761.2
+TRAB_01850;País Vasco;Hostelería;Tiempo completo;Mujeres;38;12885.17;920.37
+TRAB_01851;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;45;26380.96;1884.35
+TRAB_01852;Andalucía;Hostelería;Tiempo completo;Hombres;37;13017.23;929.8
+TRAB_01853;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;60;14879.96;1062.85
+TRAB_01854;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;30;12898.79;921.34
+TRAB_01855;Galicia;Hostelería;Tiempo completo;Hombres;29;15968.73;1140.62
+TRAB_01856;Cataluña;Hostelería;Tiempo completo;Mujeres;41;17575.66;1255.4
+TRAB_01857;Galicia;Hostelería;Tiempo parcial;Mujeres;26;10500.0;750.0
+TRAB_01858;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;41;40619.17;2901.37
+TRAB_01859;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;39098.22;2792.73
+TRAB_01860;Cataluña;Hostelería;Tiempo completo;Hombres;44;17528.75;1252.05
+TRAB_01861;Cataluña;Hostelería;Tiempo completo;Mujeres;40;13723.82;980.27
+TRAB_01862;Galicia;Hostelería;Tiempo completo;Hombres;58;14196.75;1014.05
+TRAB_01863;Castilla y León;Hostelería;Tiempo completo;Hombres;24;28030.32;2002.17
+TRAB_01864;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;32539.99;2324.29
+TRAB_01865;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;62;43048.82;3074.92
+TRAB_01866;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Hombres;29;21364.43;1526.03
+TRAB_01867;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;48;41912.31;2993.74
+TRAB_01868;Andalucía;Hostelería;Tiempo parcial;Mujeres;28;10500.0;750.0
+TRAB_01869;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;36;47169.25;3369.23
+TRAB_01870;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;61;33105.07;2364.65
+TRAB_01871;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;43;42229.05;3016.36
+TRAB_01872;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;62;10630.49;759.32
+TRAB_01873;Cataluña;Hostelería;Tiempo completo;Hombres;35;20887.08;1491.93
+TRAB_01874;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;27553.94;1968.14
+TRAB_01875;Andalucía;Hostelería;Tiempo parcial;Mujeres;58;11004.13;786.01
+TRAB_01876;País Vasco;Hostelería;Tiempo parcial;Hombres;48;10500.0;750.0
+TRAB_01877;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;58;13531.83;966.56
+TRAB_01878;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;50;11841.72;845.84
+TRAB_01879;Cataluña;Hostelería;Tiempo completo;Hombres;55;21133.51;1509.54
+TRAB_01880;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;37715.27;2693.95
+TRAB_01881;Andalucía;Hostelería;Tiempo completo;Hombres;30;18527.13;1323.37
+TRAB_01882;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;29;37943.75;2710.27
+TRAB_01883;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;29;52851.57;3775.11
+TRAB_01884;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;59;44286.27;3163.3
+TRAB_01885;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;37;38627.72;2759.12
+TRAB_01886;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;26262.89;1875.92
+TRAB_01887;Castilla y León;Hostelería;Tiempo completo;Hombres;31;23904.3;1707.45
+TRAB_01888;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;52;40026.57;2859.04
+TRAB_01889;Cataluña;Hostelería;Tiempo parcial;Hombres;43;10500.0;750.0
+TRAB_01890;Cataluña;Hostelería;Tiempo completo;Mujeres;60;21301.81;1521.56
+TRAB_01891;Castilla y León;Hostelería;Tiempo completo;Mujeres;58;16693.37;1192.38
+TRAB_01892;Galicia;Hostelería;Tiempo completo;Mujeres;59;26749.93;1910.71
+TRAB_01893;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;28;56173.09;4012.36
+TRAB_01894;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;27;53773.08;3840.93
+TRAB_01895;Cataluña;Hostelería;Tiempo completo;Mujeres;25;16701.46;1192.96
+TRAB_01896;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;22;13078.93;934.21
+TRAB_01897;Andalucía;Hostelería;Tiempo parcial;Mujeres;58;11478.27;819.88
+TRAB_01898;Cataluña;Hostelería;Tiempo parcial;Hombres;50;15550.56;1110.75
+TRAB_01899;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;35;38463.02;2747.36
+TRAB_01900;Balears, Illes;Información y comunicaciones (Tech);Tiempo parcial;Hombres;49;13176.42;941.17
+TRAB_01901;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;44;47179.48;3369.96
+TRAB_01902;Cataluña;Hostelería;Tiempo parcial;Hombres;62;10500.0;750.0
+TRAB_01903;País Vasco;Información y comunicaciones (Tech);Tiempo completo;Hombres;28;43364.88;3097.49
+TRAB_01904;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;52;52707.12;3764.79
+TRAB_01905;Comunitat Valenciana;Hostelería;Tiempo completo;Mujeres;41;20341.19;1452.94
+TRAB_01906;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;33;39746.49;2839.03
+TRAB_01907;Andalucía;Hostelería;Tiempo completo;Hombres;42;20288.95;1449.21
+TRAB_01908;Cataluña;Hostelería;Tiempo completo;Mujeres;54;18609.9;1329.28
+TRAB_01909;Andalucía;Hostelería;Tiempo parcial;Hombres;23;10500.0;750.0
+TRAB_01910;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;58;21587.85;1541.99
+TRAB_01911;Comunitat Valenciana;Hostelería;Tiempo completo;Hombres;55;13986.69;999.05
+TRAB_01912;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;38;52718.93;3765.64
+TRAB_01913;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;53;10500.0;750.0
+TRAB_01914;Andalucía;Hostelería;Tiempo parcial;Hombres;46;10500.0;750.0
+TRAB_01915;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;46;38134.71;2723.91
+TRAB_01916;Canarias;Hostelería;Tiempo completo;Mujeres;35;17556.43;1254.03
+TRAB_01917;Andalucía;Hostelería;Tiempo completo;Hombres;41;11407.31;814.81
+TRAB_01918;Cataluña;Hostelería;Tiempo parcial;Hombres;24;10500.0;750.0
+TRAB_01919;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;52;10500.0;750.0
+TRAB_01920;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;35;30961.67;2211.55
+TRAB_01921;Andalucía;Hostelería;Tiempo completo;Hombres;26;23091.38;1649.38
+TRAB_01922;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;50720.56;3622.9
+TRAB_01923;Cataluña;Hostelería;Tiempo completo;Mujeres;25;17230.67;1230.76
+TRAB_01924;Cataluña;Hostelería;Tiempo parcial;Hombres;30;10500.0;750.0
+TRAB_01925;Galicia;Hostelería;Tiempo completo;Mujeres;26;18426.27;1316.16
+TRAB_01926;Cataluña;Hostelería;Tiempo completo;Mujeres;51;20994.74;1499.62
+TRAB_01927;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;31197.17;2228.37
+TRAB_01928;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;32;29970.95;2140.78
+TRAB_01929;Madrid, Comunidad de;Hostelería;Tiempo parcial;Mujeres;49;10500.0;750.0
+TRAB_01930;Galicia;Hostelería;Tiempo completo;Mujeres;45;15667.11;1119.08
+TRAB_01931;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;31;40170.62;2869.33
+TRAB_01932;País Vasco;Hostelería;Tiempo completo;Hombres;38;10500.0;750.0
+TRAB_01933;Cataluña;Hostelería;Tiempo completo;Mujeres;42;24373.44;1740.96
+TRAB_01934;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;48;15653.65;1118.12
+TRAB_01935;Balears, Illes;Información y comunicaciones (Tech);Tiempo completo;Hombres;38;15237.03;1088.36
+TRAB_01936;Castilla y León;Información y comunicaciones (Tech);Tiempo completo;Mujeres;42;41722.93;2980.21
+TRAB_01937;Andalucía;Hostelería;Tiempo completo;Mujeres;60;24184.88;1727.49
+TRAB_01938;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;44;20123.36;1437.38
+TRAB_01939;Andalucía;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;51;10500.0;750.0
+TRAB_01940;Andalucía;Hostelería;Tiempo parcial;Hombres;34;15061.74;1075.84
+TRAB_01941;Canarias;Hostelería;Tiempo completo;Mujeres;57;17604.27;1257.45
+TRAB_01942;Cataluña;Hostelería;Tiempo completo;Mujeres;23;18632.11;1330.87
+TRAB_01943;Cataluña;Hostelería;Tiempo completo;Hombres;49;31073.49;2219.54
+TRAB_01944;Cataluña;Hostelería;Tiempo completo;Mujeres;63;18993.79;1356.7
+TRAB_01945;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;42;16112.54;1150.9
+TRAB_01946;Comunitat Valenciana;Hostelería;Tiempo parcial;Mujeres;48;10500.0;750.0
+TRAB_01947;Andalucía;Hostelería;Tiempo completo;Mujeres;61;17848.42;1274.89
+TRAB_01948;País Vasco;Hostelería;Tiempo completo;Hombres;22;13468.86;962.06
+TRAB_01949;Cataluña;Hostelería;Tiempo completo;Mujeres;25;17310.43;1236.46
+TRAB_01950;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;38;21346.0;1524.71
+TRAB_01951;Castilla y León;Hostelería;Tiempo parcial;Mujeres;37;10500.0;750.0
+TRAB_01952;Canarias;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;28196.08;2014.01
+TRAB_01953;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;49;35247.05;2517.65
+TRAB_01954;País Vasco;Hostelería;Tiempo parcial;Hombres;30;10500.0;750.0
+TRAB_01955;Madrid, Comunidad de;Hostelería;Tiempo parcial;Hombres;24;14452.46;1032.32
+TRAB_01956;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;49;16088.28;1149.16
+TRAB_01957;Cataluña;Información y comunicaciones (Tech);Tiempo parcial;Mujeres;50;19777.9;1412.71
+TRAB_01958;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;57;28345.01;2024.64
+TRAB_01959;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;42;37172.92;2655.21
+TRAB_01960;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;51;23287.92;1663.42
+TRAB_01961;País Vasco;Hostelería;Tiempo parcial;Mujeres;47;10500.0;750.0
+TRAB_01962;Cataluña;Hostelería;Tiempo completo;Mujeres;38;23668.17;1690.58
+TRAB_01963;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;41;10770.47;769.32
+TRAB_01964;Balears, Illes;Hostelería;Tiempo parcial;Hombres;35;10500.0;750.0
+TRAB_01965;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;46;30342.86;2167.35
+TRAB_01966;Canarias;Hostelería;Tiempo parcial;Mujeres;50;13720.43;980.03
+TRAB_01967;Comunitat Valenciana;Hostelería;Tiempo parcial;Hombres;58;10500.0;750.0
+TRAB_01968;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo parcial;Hombres;55;21824.69;1558.91
+TRAB_01969;Andalucía;Hostelería;Tiempo completo;Hombres;28;25517.86;1822.7
+TRAB_01970;Cataluña;Hostelería;Tiempo completo;Hombres;30;16780.1;1198.58
+TRAB_01971;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;49;45074.5;3219.61
+TRAB_01972;Andalucía;Hostelería;Tiempo completo;Hombres;40;21236.26;1516.88
+TRAB_01973;País Vasco;Hostelería;Tiempo completo;Hombres;51;21834.17;1559.58
+TRAB_01974;Castilla y León;Hostelería;Tiempo parcial;Hombres;48;10500.0;750.0
+TRAB_01975;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;59;29249.67;2089.26
+TRAB_01976;Cataluña;Hostelería;Tiempo parcial;Hombres;29;10549.54;753.54
+TRAB_01977;Andalucía;Hostelería;Tiempo parcial;Mujeres;45;10500.0;750.0
+TRAB_01978;Galicia;Información y comunicaciones (Tech);Tiempo completo;Hombres;47;22020.97;1572.93
+TRAB_01979;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;41;35443.0;2531.64
+TRAB_01980;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;50;40960.54;2925.75
+TRAB_01981;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Mujeres;26;42308.52;3022.04
+TRAB_01982;Madrid, Comunidad de;Información y comunicaciones (Tech);Tiempo completo;Hombres;54;35359.23;2525.66
+TRAB_01983;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Mujeres;45;39764.79;2840.34
+TRAB_01984;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Hombres;32;32529.37;2323.53
+TRAB_01985;Cataluña;Información y comunicaciones (Tech);Tiempo completo;Mujeres;42;33764.67;2411.76
+TRAB_01986;Andalucía;Información y comunicaciones (Tech);Tiempo completo;Hombres;49;28083.72;2005.98
+TRAB_01987;País Vasco;Hostelería;Tiempo completo;Hombres;60;15973.48;1140.96
+TRAB_01988;Cataluña;Hostelería;Tiempo parcial;Hombres;26;12628.28;902.02
+TRAB_01989;Madrid, Comunidad de;Hostelería;Tiempo completo;Hombres;63;19408.73;1386.34
+TRAB_01990;Canarias;Hostelería;Tiempo completo;Mujeres;39;21783.65;1555.98
+TRAB_01991;Cataluña;Hostelería;Tiempo completo;Hombres;23;19355.93;1382.57
+TRAB_01992;Castilla y León;Hostelería;Tiempo parcial;Hombres;24;10500.0;750.0
+TRAB_01993;Madrid, Comunidad de;Hostelería;Tiempo completo;Mujeres;52;19724.56;1408.9
+TRAB_01994;País Vasco;Hostelería;Tiempo completo;Hombres;53;16901.16;1207.23
+TRAB_01995;Galicia;Información y comunicaciones (Tech);Tiempo completo;Mujeres;53;22075.12;1576.79
+TRAB_01996;Comunitat Valenciana;Información y comunicaciones (Tech);Tiempo completo;Mujeres;30;38617.02;2758.36
+TRAB_01997;Cataluña;Hostelería;Tiempo completo;Hombres;48;22378.79;1598.49
+TRAB_01998;Andalucía;Hostelería;Tiempo parcial;Mujeres;39;10500.0;750.0
+TRAB_01999;Cataluña;Hostelería;Tiempo completo;Mujeres;27;10500.0;750.0
+TRAB_02000;Canarias;Información y comunicaciones (Tech);Tiempo completo;Mujeres;45;22821.79;1630.13

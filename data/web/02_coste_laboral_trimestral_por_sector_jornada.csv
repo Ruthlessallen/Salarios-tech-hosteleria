@@ -1,0 +1,658 @@
+﻿sector;tipo_jornada;periodo;coste_salarial_eur_mes;coste_hora_efectiva_eur;anio;trimestre
+Hostelería;Ambas jornadas;2008T1;1062.62;8.04;2008;1
+Hostelería;Ambas jornadas;2008T2;1130.11;8.29;2008;2
+Hostelería;Ambas jornadas;2008T3;1148.56;8.65;2008;3
+Hostelería;Ambas jornadas;2008T4;1255.09;9.48;2008;4
+Hostelería;Ambas jornadas;2009T1;1086.92;8.14;2009;1
+Hostelería;Ambas jornadas;2009T2;1150.4;8.64;2009;2
+Hostelería;Ambas jornadas;2009T3;1149.89;8.66;2009;3
+Hostelería;Ambas jornadas;2009T4;1227.62;9.42;2009;4
+Hostelería;Ambas jornadas;2010T1;1067.41;8.32;2010;1
+Hostelería;Ambas jornadas;2010T2;1137.34;8.79;2010;2
+Hostelería;Ambas jornadas;2010T3;1138.36;8.8;2010;3
+Hostelería;Ambas jornadas;2010T4;1207.32;9.86;2010;4
+Hostelería;Ambas jornadas;2011T1;1048.38;8.44;2011;1
+Hostelería;Ambas jornadas;2011T2;1134.92;9.09;2011;2
+Hostelería;Ambas jornadas;2011T3;1147.72;9.26;2011;3
+Hostelería;Ambas jornadas;2011T4;1191.56;10.12;2011;4
+Hostelería;Ambas jornadas;2012T1;1039.98;8.56;2012;1
+Hostelería;Ambas jornadas;2012T2;1109.39;9.05;2012;2
+Hostelería;Ambas jornadas;2012T3;1110.24;9.08;2012;3
+Hostelería;Ambas jornadas;2012T4;1154.24;10.15;2012;4
+Hostelería;Ambas jornadas;2013T1;1017.02;8.7;2013;1
+Hostelería;Ambas jornadas;2013T2;1104.64;9.08;2013;2
+Hostelería;Ambas jornadas;2013T3;1132.5;9.24;2013;3
+Hostelería;Ambas jornadas;2013T4;1181.29;10.34;2013;4
+Hostelería;Ambas jornadas;2014T1;1033.33;8.8;2014;1
+Hostelería;Ambas jornadas;2014T2;1113.67;9.34;2014;2
+Hostelería;Ambas jornadas;2014T3;1129.03;9.44;2014;3
+Hostelería;Ambas jornadas;2014T4;1175.12;10.29;2014;4
+Hostelería;Ambas jornadas;2015T1;1051.91;9.05;2015;1
+Hostelería;Ambas jornadas;2015T2;1132.63;9.45;2015;2
+Hostelería;Ambas jornadas;2015T3;1149.32;9.4;2015;3
+Hostelería;Ambas jornadas;2015T4;1178.96;10.27;2015;4
+Hostelería;Ambas jornadas;2016T1;1044.86;9.11;2016;1
+Hostelería;Ambas jornadas;2016T2;1120.62;9.17;2016;2
+Hostelería;Ambas jornadas;2016T3;1139.1;9.3;2016;3
+Hostelería;Ambas jornadas;2016T4;1193.9;10.33;2016;4
+Hostelería;Ambas jornadas;2017T1;1056.27;8.94;2017;1
+Hostelería;Ambas jornadas;2017T2;1146.68;9.41;2017;2
+Hostelería;Ambas jornadas;2017T3;1172.72;9.41;2017;3
+Hostelería;Ambas jornadas;2017T4;1187.7;10.39;2017;4
+Hostelería;Ambas jornadas;2018T1;1070.96;9.32;2018;1
+Hostelería;Ambas jornadas;2018T2;1161.65;9.6;2018;2
+Hostelería;Ambas jornadas;2018T3;1185.11;9.68;2018;3
+Hostelería;Ambas jornadas;2018T4;1211.85;10.54;2018;4
+Hostelería;Ambas jornadas;2019T1;1099.74;9.47;2019;1
+Hostelería;Ambas jornadas;2019T2;1159.13;9.79;2019;2
+Hostelería;Ambas jornadas;2019T3;1214.85;10.06;2019;3
+Hostelería;Ambas jornadas;2019T4;1229.18;10.76;2019;4
+Hostelería;Ambas jornadas;2020T1;1015.41;9.94;2020;1
+Hostelería;Ambas jornadas;2020T2;433.76;9.78;2020;2
+Hostelería;Ambas jornadas;2020T3;892.41;9.67;2020;3
+Hostelería;Ambas jornadas;2020T4;784.15;10.37;2020;4
+Hostelería;Ambas jornadas;2021T1;685.93;9.73;2021;1
+Hostelería;Ambas jornadas;2021T2;885.86;9.47;2021;2
+Hostelería;Ambas jornadas;2021T3;1139.51;9.92;2021;3
+Hostelería;Ambas jornadas;2021T4;1199.94;10.77;2021;4
+Hostelería;Ambas jornadas;2022T1;1150.73;10.01;2022;1
+Hostelería;Ambas jornadas;2022T2;1242.84;10.25;2022;2
+Hostelería;Ambas jornadas;2022T3;1314.59;10.4;2022;3
+Hostelería;Ambas jornadas;2022T4;1351.64;11.65;2022;4
+Hostelería;Ambas jornadas;2023T1;1252.16;10.47;2023;1
+Hostelería;Ambas jornadas;2023T2;1339.04;10.89;2023;2
+Hostelería;Ambas jornadas;2023T3;1368.84;10.99;2023;3
+Hostelería;Ambas jornadas;2023T4;1379.29;12.07;2023;4
+Hostelería;Ambas jornadas;2024T1;1309.45;11.2;2024;1
+Hostelería;Ambas jornadas;2024T2;1404.54;11.31;2024;2
+Hostelería;Ambas jornadas;2024T3;1436.3;11.65;2024;3
+Hostelería;Ambas jornadas;2024T4;1444.21;12.34;2024;4
+Hostelería;Ambas jornadas;2025T1;1342.75;11.41;2025;1
+Hostelería;Ambas jornadas;2025T2;1424.67;11.71;2025;2
+Hostelería;Ambas jornadas;2025T3;1476.74;11.92;2025;3
+Hostelería;Ambas jornadas;2025T4;1488.04;12.68;2025;4
+Hostelería;Ambas jornadas;2026T1;1357.32;11.49;2026;1
+Hostelería;Jornada a tiempo completo;2008T1;1269.43;8.15;2008;1
+Hostelería;Jornada a tiempo completo;2008T2;1344.02;8.44;2008;2
+Hostelería;Jornada a tiempo completo;2008T3;1334.23;8.76;2008;3
+Hostelería;Jornada a tiempo completo;2008T4;1494.56;9.62;2008;4
+Hostelería;Jornada a tiempo completo;2009T1;1304.6;8.24;2009;1
+Hostelería;Jornada a tiempo completo;2009T2;1382.68;8.77;2009;2
+Hostelería;Jornada a tiempo completo;2009T3;1355.85;8.85;2009;3
+Hostelería;Jornada a tiempo completo;2009T4;1484.58;9.59;2009;4
+Hostelería;Jornada a tiempo completo;2010T1;1331.26;8.56;2010;1
+Hostelería;Jornada a tiempo completo;2010T2;1424.15;9.06;2010;2
+Hostelería;Jornada a tiempo completo;2010T3;1391.87;8.97;2010;3
+Hostelería;Jornada a tiempo completo;2010T4;1533.14;10.11;2010;4
+Hostelería;Jornada a tiempo completo;2011T1;1369.45;8.69;2011;1
+Hostelería;Jornada a tiempo completo;2011T2;1479.51;9.4;2011;2
+Hostelería;Jornada a tiempo completo;2011T3;1445.65;9.54;2011;3
+Hostelería;Jornada a tiempo completo;2011T4;1582.54;10.46;2011;4
+Hostelería;Jornada a tiempo completo;2012T1;1393.51;8.85;2012;1
+Hostelería;Jornada a tiempo completo;2012T2;1474.37;9.39;2012;2
+Hostelería;Jornada a tiempo completo;2012T3;1423.74;9.33;2012;3
+Hostelería;Jornada a tiempo completo;2012T4;1583.5;10.51;2012;4
+Hostelería;Jornada a tiempo completo;2013T1;1394.78;8.95;2013;1
+Hostelería;Jornada a tiempo completo;2013T2;1500.3;9.4;2013;2
+Hostelería;Jornada a tiempo completo;2013T3;1464.7;9.52;2013;3
+Hostelería;Jornada a tiempo completo;2013T4;1636.25;10.79;2013;4
+Hostelería;Jornada a tiempo completo;2014T1;1413.78;8.95;2014;1
+Hostelería;Jornada a tiempo completo;2014T2;1513.89;9.62;2014;2
+Hostelería;Jornada a tiempo completo;2014T3;1480.51;9.74;2014;3
+Hostelería;Jornada a tiempo completo;2014T4;1641.84;10.67;2014;4
+Hostelería;Jornada a tiempo completo;2015T1;1455.91;9.21;2015;1
+Hostelería;Jornada a tiempo completo;2015T2;1537.06;9.75;2015;2
+Hostelería;Jornada a tiempo completo;2015T3;1482.65;9.65;2015;3
+Hostelería;Jornada a tiempo completo;2015T4;1631.25;10.6;2015;4
+Hostelería;Jornada a tiempo completo;2016T1;1437.86;9.23;2016;1
+Hostelería;Jornada a tiempo completo;2016T2;1515.91;9.4;2016;2
+Hostelería;Jornada a tiempo completo;2016T3;1474.84;9.49;2016;3
+Hostelería;Jornada a tiempo completo;2016T4;1623.51;10.59;2016;4
+Hostelería;Jornada a tiempo completo;2017T1;1456.37;9.21;2017;1
+Hostelería;Jornada a tiempo completo;2017T2;1533.19;9.64;2017;2
+Hostelería;Jornada a tiempo completo;2017T3;1487.71;9.61;2017;3
+Hostelería;Jornada a tiempo completo;2017T4;1617.01;10.65;2017;4
+Hostelería;Jornada a tiempo completo;2018T1;1485.62;9.49;2018;1
+Hostelería;Jornada a tiempo completo;2018T2;1575.28;9.9;2018;2
+Hostelería;Jornada a tiempo completo;2018T3;1508.17;9.84;2018;3
+Hostelería;Jornada a tiempo completo;2018T4;1653.17;10.81;2018;4
+Hostelería;Jornada a tiempo completo;2019T1;1516.17;9.66;2019;1
+Hostelería;Jornada a tiempo completo;2019T2;1568.77;9.98;2019;2
+Hostelería;Jornada a tiempo completo;2019T3;1563.91;10.18;2019;3
+Hostelería;Jornada a tiempo completo;2019T4;1689.49;11.0;2019;4
+Hostelería;Jornada a tiempo completo;2020T1;1419.95;10.11;2020;1
+Hostelería;Jornada a tiempo completo;2020T2;569.95;9.99;2020;2
+Hostelería;Jornada a tiempo completo;2020T3;1122.65;9.66;2020;3
+Hostelería;Jornada a tiempo completo;2020T4;1007.39;10.64;2020;4
+Hostelería;Jornada a tiempo completo;2021T1;850.64;9.7;2021;1
+Hostelería;Jornada a tiempo completo;2021T2;1136.82;9.47;2021;2
+Hostelería;Jornada a tiempo completo;2021T3;1420.94;10.01;2021;3
+Hostelería;Jornada a tiempo completo;2021T4;1607.05;10.93;2021;4
+Hostelería;Jornada a tiempo completo;2022T1;1502.49;10.01;2022;1
+Hostelería;Jornada a tiempo completo;2022T2;1621.85;10.44;2022;2
+Hostelería;Jornada a tiempo completo;2022T3;1592.87;10.51;2022;3
+Hostelería;Jornada a tiempo completo;2022T4;1736.04;11.66;2022;4
+Hostelería;Jornada a tiempo completo;2023T1;1673.77;10.76;2023;1
+Hostelería;Jornada a tiempo completo;2023T2;1733.23;11.14;2023;2
+Hostelería;Jornada a tiempo completo;2023T3;1657.11;11.1;2023;3
+Hostelería;Jornada a tiempo completo;2023T4;1782.3;12.12;2023;4
+Hostelería;Jornada a tiempo completo;2024T1;1737.64;11.44;2024;1
+Hostelería;Jornada a tiempo completo;2024T2;1808.23;11.55;2024;2
+Hostelería;Jornada a tiempo completo;2024T3;1743.07;11.86;2024;3
+Hostelería;Jornada a tiempo completo;2024T4;1864.26;12.5;2024;4
+Hostelería;Jornada a tiempo completo;2025T1;1766.74;11.67;2025;1
+Hostelería;Jornada a tiempo completo;2025T2;1808.38;11.84;2025;2
+Hostelería;Jornada a tiempo completo;2025T3;1795.59;12.04;2025;3
+Hostelería;Jornada a tiempo completo;2025T4;1896.87;12.68;2025;4
+Hostelería;Jornada a tiempo completo;2026T1;1777.7;11.65;2026;1
+Hostelería;Jornada a tiempo parcial;2008T1;562.97;7.46;2008;1
+Hostelería;Jornada a tiempo parcial;2008T2;621.88;7.59;2008;2
+Hostelería;Jornada a tiempo parcial;2008T3;659.68;8.15;2008;3
+Hostelería;Jornada a tiempo parcial;2008T4;679.19;8.77;2008;4
+Hostelería;Jornada a tiempo parcial;2009T1;588.88;7.68;2009;1
+Hostelería;Jornada a tiempo parcial;2009T2;625.66;8.01;2009;2
+Hostelería;Jornada a tiempo parcial;2009T3;657.6;7.81;2009;3
+Hostelería;Jornada a tiempo parcial;2009T4;680.68;8.73;2009;4
+Hostelería;Jornada a tiempo parcial;2010T1;574.06;7.42;2010;1
+Hostelería;Jornada a tiempo parcial;2010T2;636.95;7.87;2010;2
+Hostelería;Jornada a tiempo parcial;2010T3;684.01;8.2;2010;3
+Hostelería;Jornada a tiempo parcial;2010T4;687.47;9.07;2010;4
+Hostelería;Jornada a tiempo parcial;2011T1;590.73;7.69;2011;1
+Hostelería;Jornada a tiempo parcial;2011T2;660.53;8.26;2011;2
+Hostelería;Jornada a tiempo parcial;2011T3;693.94;8.47;2011;3
+Hostelería;Jornada a tiempo parcial;2011T4;697.55;9.26;2011;4
+Hostelería;Jornada a tiempo parcial;2012T1;596.61;7.79;2012;1
+Hostelería;Jornada a tiempo parcial;2012T2;653.54;8.23;2012;2
+Hostelería;Jornada a tiempo parcial;2012T3;677.47;8.44;2012;3
+Hostelería;Jornada a tiempo parcial;2012T4;673.92;9.33;2012;4
+Hostelería;Jornada a tiempo parcial;2013T1;590.31;8.11;2013;1
+Hostelería;Jornada a tiempo parcial;2013T2;669.81;8.39;2013;2
+Hostelería;Jornada a tiempo parcial;2013T3;725.08;8.62;2013;3
+Hostelería;Jornada a tiempo parcial;2013T4;701.66;9.37;2013;4
+Hostelería;Jornada a tiempo parcial;2014T1;612.27;8.43;2014;1
+Hostelería;Jornada a tiempo parcial;2014T2;678.46;8.72;2014;2
+Hostelería;Jornada a tiempo parcial;2014T3;722.57;8.8;2014;3
+Hostelería;Jornada a tiempo parcial;2014T4;713.79;9.52;2014;4
+Hostelería;Jornada a tiempo parcial;2015T1;633.6;8.67;2015;1
+Hostelería;Jornada a tiempo parcial;2015T2;715.87;8.84;2015;2
+Hostelería;Jornada a tiempo parcial;2015T3;769.7;8.9;2015;3
+Hostelería;Jornada a tiempo parcial;2015T4;737.19;9.64;2015;4
+Hostelería;Jornada a tiempo parcial;2016T1;641.77;8.85;2016;1
+Hostelería;Jornada a tiempo parcial;2016T2;706.74;8.69;2016;2
+Hostelería;Jornada a tiempo parcial;2016T3;752.84;8.91;2016;3
+Hostelería;Jornada a tiempo parcial;2016T4;742.83;9.76;2016;4
+Hostelería;Jornada a tiempo parcial;2017T1;627.73;8.33;2017;1
+Hostelería;Jornada a tiempo parcial;2017T2;727.6;8.92;2017;2
+Hostelería;Jornada a tiempo parcial;2017T3;779.7;8.95;2017;3
+Hostelería;Jornada a tiempo parcial;2017T4;741.61;9.85;2017;4
+Hostelería;Jornada a tiempo parcial;2018T1;664.37;8.98;2018;1
+Hostelería;Jornada a tiempo parcial;2018T2;743.58;9.0;2018;2
+Hostelería;Jornada a tiempo parcial;2018T3;807.56;9.33;2018;3
+Hostelería;Jornada a tiempo parcial;2018T4;766.58;9.98;2018;4
+Hostelería;Jornada a tiempo parcial;2019T1;694.45;9.11;2019;1
+Hostelería;Jornada a tiempo parcial;2019T2;768.58;9.44;2019;2
+Hostelería;Jornada a tiempo parcial;2019T3;827.31;9.81;2019;3
+Hostelería;Jornada a tiempo parcial;2019T4;792.11;10.3;2019;4
+Hostelería;Jornada a tiempo parcial;2020T1;637.17;9.6;2020;1
+Hostelería;Jornada a tiempo parcial;2020T2;298.26;9.4;2020;2
+Hostelería;Jornada a tiempo parcial;2020T3;644.56;9.69;2020;3
+Hostelería;Jornada a tiempo parcial;2020T4;558.87;9.92;2020;4
+Hostelería;Jornada a tiempo parcial;2021T1;506.71;9.78;2021;1
+Hostelería;Jornada a tiempo parcial;2021T2;642.13;9.48;2021;2
+Hostelería;Jornada a tiempo parcial;2021T3;805.13;9.72;2021;3
+Hostelería;Jornada a tiempo parcial;2021T4;793.56;10.48;2021;4
+Hostelería;Jornada a tiempo parcial;2022T1;765.62;10.02;2022;1
+Hostelería;Jornada a tiempo parcial;2022T2;843.45;9.89;2022;2
+Hostelería;Jornada a tiempo parcial;2022T3;976.35;10.17;2022;3
+Hostelería;Jornada a tiempo parcial;2022T4;927.29;11.64;2022;4
+Hostelería;Jornada a tiempo parcial;2023T1;788.86;9.86;2023;1
+Hostelería;Jornada a tiempo parcial;2023T2;935.02;10.46;2023;2
+Hostelería;Jornada a tiempo parcial;2023T3;1040.79;10.79;2023;3
+Hostelería;Jornada a tiempo parcial;2023T4;944.19;11.97;2023;4
+Hostelería;Jornada a tiempo parcial;2024T1;822.29;10.64;2024;1
+Hostelería;Jornada a tiempo parcial;2024T2;981.86;10.87;2024;2
+Hostelería;Jornada a tiempo parcial;2024T3;1082.59;11.29;2024;3
+Hostelería;Jornada a tiempo parcial;2024T4;967.17;12.01;2024;4
+Hostelería;Jornada a tiempo parcial;2025T1;851.11;10.83;2025;1
+Hostelería;Jornada a tiempo parcial;2025T2;1037.01;11.49;2025;2
+Hostelería;Jornada a tiempo parcial;2025T3;1144.31;11.72;2025;3
+Hostelería;Jornada a tiempo parcial;2025T4;1038.09;12.67;2025;4
+Hostelería;Jornada a tiempo parcial;2026T1;875.44;11.14;2026;1
+Información y comunicaciones;Ambas jornadas;2008T1;2560.53;17.47;2008;1
+Información y comunicaciones;Ambas jornadas;2008T2;2582.69;17.31;2008;2
+Información y comunicaciones;Ambas jornadas;2008T3;2413.36;19.4;2008;3
+Información y comunicaciones;Ambas jornadas;2008T4;2694.56;18.54;2008;4
+Información y comunicaciones;Ambas jornadas;2009T1;2602.59;17.49;2009;1
+Información y comunicaciones;Ambas jornadas;2009T2;2591.26;18.03;2009;2
+Información y comunicaciones;Ambas jornadas;2009T3;2536.77;20.19;2009;3
+Información y comunicaciones;Ambas jornadas;2009T4;2773.74;19.28;2009;4
+Información y comunicaciones;Ambas jornadas;2010T1;2662.79;17.94;2010;1
+Información y comunicaciones;Ambas jornadas;2010T2;2639.22;18.12;2010;2
+Información y comunicaciones;Ambas jornadas;2010T3;2597.3;20.0;2010;3
+Información y comunicaciones;Ambas jornadas;2010T4;2824.2;19.85;2010;4
+Información y comunicaciones;Ambas jornadas;2011T1;2727.08;18.1;2011;1
+Información y comunicaciones;Ambas jornadas;2011T2;2618.8;18.05;2011;2
+Información y comunicaciones;Ambas jornadas;2011T3;2624.25;20.72;2011;3
+Información y comunicaciones;Ambas jornadas;2011T4;2840.4;20.06;2011;4
+Información y comunicaciones;Ambas jornadas;2012T1;2699.8;17.96;2012;1
+Información y comunicaciones;Ambas jornadas;2012T2;2709.39;18.77;2012;2
+Información y comunicaciones;Ambas jornadas;2012T3;2635.95;20.51;2012;3
+Información y comunicaciones;Ambas jornadas;2012T4;2791.45;19.77;2012;4
+Información y comunicaciones;Ambas jornadas;2013T1;2694.03;18.57;2013;1
+Información y comunicaciones;Ambas jornadas;2013T2;2783.49;18.67;2013;2
+Información y comunicaciones;Ambas jornadas;2013T3;2687.33;20.74;2013;3
+Información y comunicaciones;Ambas jornadas;2013T4;2831.46;19.94;2013;4
+Información y comunicaciones;Ambas jornadas;2014T1;2754.57;18.3;2014;1
+Información y comunicaciones;Ambas jornadas;2014T2;2765.42;19.31;2014;2
+Información y comunicaciones;Ambas jornadas;2014T3;2674.07;21.07;2014;3
+Información y comunicaciones;Ambas jornadas;2014T4;2855.89;19.62;2014;4
+Información y comunicaciones;Ambas jornadas;2015T1;2808.88;18.86;2015;1
+Información y comunicaciones;Ambas jornadas;2015T2;2679.82;18.45;2015;2
+Información y comunicaciones;Ambas jornadas;2015T3;2676.29;20.71;2015;3
+Información y comunicaciones;Ambas jornadas;2015T4;2899.33;20.13;2015;4
+Información y comunicaciones;Ambas jornadas;2016T1;2806.62;19.36;2016;1
+Información y comunicaciones;Ambas jornadas;2016T2;2699.05;17.69;2016;2
+Información y comunicaciones;Ambas jornadas;2016T3;2673.3;20.9;2016;3
+Información y comunicaciones;Ambas jornadas;2016T4;2817.68;20.1;2016;4
+Información y comunicaciones;Ambas jornadas;2017T1;2687.33;17.73;2017;1
+Información y comunicaciones;Ambas jornadas;2017T2;2669.74;18.29;2017;2
+Información y comunicaciones;Ambas jornadas;2017T3;2672.06;20.78;2017;3
+Información y comunicaciones;Ambas jornadas;2017T4;2902.72;21.02;2017;4
+Información y comunicaciones;Ambas jornadas;2018T1;2841.27;19.45;2018;1
+Información y comunicaciones;Ambas jornadas;2018T2;2797.02;18.73;2018;2
+Información y comunicaciones;Ambas jornadas;2018T3;2801.53;21.63;2018;3
+Información y comunicaciones;Ambas jornadas;2018T4;3045.04;21.71;2018;4
+Información y comunicaciones;Ambas jornadas;2019T1;2827.55;18.91;2019;1
+Información y comunicaciones;Ambas jornadas;2019T2;2872.14;19.94;2019;2
+Información y comunicaciones;Ambas jornadas;2019T3;2884.07;21.96;2019;3
+Información y comunicaciones;Ambas jornadas;2019T4;3135.52;22.05;2019;4
+Información y comunicaciones;Ambas jornadas;2020T1;2976.73;20.07;2020;1
+Información y comunicaciones;Ambas jornadas;2020T2;2884.56;20.94;2020;2
+Información y comunicaciones;Ambas jornadas;2020T3;2872.13;22.38;2020;3
+Información y comunicaciones;Ambas jornadas;2020T4;3158.69;22.5;2020;4
+Información y comunicaciones;Ambas jornadas;2021T1;3132.59;21.27;2021;1
+Información y comunicaciones;Ambas jornadas;2021T2;3111.74;21.32;2021;2
+Información y comunicaciones;Ambas jornadas;2021T3;3045.98;23.22;2021;3
+Información y comunicaciones;Ambas jornadas;2021T4;3361.33;23.65;2021;4
+Información y comunicaciones;Ambas jornadas;2022T1;3132.44;20.76;2022;1
+Información y comunicaciones;Ambas jornadas;2022T2;3187.06;21.61;2022;2
+Información y comunicaciones;Ambas jornadas;2022T3;3059.01;23.23;2022;3
+Información y comunicaciones;Ambas jornadas;2022T4;3317.78;23.38;2022;4
+Información y comunicaciones;Ambas jornadas;2023T1;3355.1;22.13;2023;1
+Información y comunicaciones;Ambas jornadas;2023T2;3267.94;22.4;2023;2
+Información y comunicaciones;Ambas jornadas;2023T3;3327.73;25.18;2023;3
+Información y comunicaciones;Ambas jornadas;2023T4;3539.91;25.46;2023;4
+Información y comunicaciones;Ambas jornadas;2024T1;3607.79;24.58;2024;1
+Información y comunicaciones;Ambas jornadas;2024T2;3489.78;23.47;2024;2
+Información y comunicaciones;Ambas jornadas;2024T3;3483.94;26.63;2024;3
+Información y comunicaciones;Ambas jornadas;2024T4;3680.25;26.05;2024;4
+Información y comunicaciones;Ambas jornadas;2025T1;3832.05;25.59;2025;1
+Información y comunicaciones;Ambas jornadas;2025T2;3593.18;24.68;2025;2
+Información y comunicaciones;Ambas jornadas;2025T3;3684.9;27.83;2025;3
+Información y comunicaciones;Ambas jornadas;2025T4;3870.23;27.16;2025;4
+Información y comunicaciones;Ambas jornadas;2026T1;3961.96;26.66;2026;1
+Información y comunicaciones;Jornada a tiempo completo;2008T1;2714.75;17.83;2008;1
+Información y comunicaciones;Jornada a tiempo completo;2008T2;2737.43;17.67;2008;2
+Información y comunicaciones;Jornada a tiempo completo;2008T3;2546.98;19.81;2008;3
+Información y comunicaciones;Jornada a tiempo completo;2008T4;2858.01;18.92;2008;4
+Información y comunicaciones;Jornada a tiempo completo;2009T1;2737.39;17.79;2009;1
+Información y comunicaciones;Jornada a tiempo completo;2009T2;2729.8;18.36;2009;2
+Información y comunicaciones;Jornada a tiempo completo;2009T3;2667.88;20.61;2009;3
+Información y comunicaciones;Jornada a tiempo completo;2009T4;2914.95;19.61;2009;4
+Información y comunicaciones;Jornada a tiempo completo;2010T1;2813.17;18.32;2010;1
+Información y comunicaciones;Jornada a tiempo completo;2010T2;2786.97;18.5;2010;2
+Información y comunicaciones;Jornada a tiempo completo;2010T3;2729.13;20.42;2010;3
+Información y comunicaciones;Jornada a tiempo completo;2010T4;2977.89;20.25;2010;4
+Información y comunicaciones;Jornada a tiempo completo;2011T1;2899.74;18.54;2011;1
+Información y comunicaciones;Jornada a tiempo completo;2011T2;2777.99;18.48;2011;2
+Información y comunicaciones;Jornada a tiempo completo;2011T3;2782.44;21.27;2011;3
+Información y comunicaciones;Jornada a tiempo completo;2011T4;3011.29;20.54;2011;4
+Información y comunicaciones;Jornada a tiempo completo;2012T1;2874.64;18.45;2012;1
+Información y comunicaciones;Jornada a tiempo completo;2012T2;2885.14;19.27;2012;2
+Información y comunicaciones;Jornada a tiempo completo;2012T3;2809.24;21.11;2012;3
+Información y comunicaciones;Jornada a tiempo completo;2012T4;2978.61;20.28;2012;4
+Información y comunicaciones;Jornada a tiempo completo;2013T1;2874.56;19.03;2013;1
+Información y comunicaciones;Jornada a tiempo completo;2013T2;2965.02;19.12;2013;2
+Información y comunicaciones;Jornada a tiempo completo;2013T3;2853.25;21.27;2013;3
+Información y comunicaciones;Jornada a tiempo completo;2013T4;3007.5;20.39;2013;4
+Información y comunicaciones;Jornada a tiempo completo;2014T1;2932.15;18.71;2014;1
+Información y comunicaciones;Jornada a tiempo completo;2014T2;2955.42;19.8;2014;2
+Información y comunicaciones;Jornada a tiempo completo;2014T3;2845.53;21.61;2014;3
+Información y comunicaciones;Jornada a tiempo completo;2014T4;3050.01;20.12;2014;4
+Información y comunicaciones;Jornada a tiempo completo;2015T1;3012.08;19.38;2015;1
+Información y comunicaciones;Jornada a tiempo completo;2015T2;2861.81;18.93;2015;2
+Información y comunicaciones;Jornada a tiempo completo;2015T3;2850.19;21.36;2015;3
+Información y comunicaciones;Jornada a tiempo completo;2015T4;3094.46;20.66;2015;4
+Información y comunicaciones;Jornada a tiempo completo;2016T1;2983.45;19.83;2016;1
+Información y comunicaciones;Jornada a tiempo completo;2016T2;2869.32;18.11;2016;2
+Información y comunicaciones;Jornada a tiempo completo;2016T3;2838.76;21.5;2016;3
+Información y comunicaciones;Jornada a tiempo completo;2016T4;3006.78;20.63;2016;4
+Información y comunicaciones;Jornada a tiempo completo;2017T1;2851.72;18.12;2017;1
+Información y comunicaciones;Jornada a tiempo completo;2017T2;2829.58;18.69;2017;2
+Información y comunicaciones;Jornada a tiempo completo;2017T3;2819.29;21.22;2017;3
+Información y comunicaciones;Jornada a tiempo completo;2017T4;3085.64;21.5;2017;4
+Información y comunicaciones;Jornada a tiempo completo;2018T1;3021.7;19.87;2018;1
+Información y comunicaciones;Jornada a tiempo completo;2018T2;2953.65;19.03;2018;2
+Información y comunicaciones;Jornada a tiempo completo;2018T3;2973.44;22.14;2018;3
+Información y comunicaciones;Jornada a tiempo completo;2018T4;3236.57;22.22;2018;4
+Información y comunicaciones;Jornada a tiempo completo;2019T1;2998.37;19.34;2019;1
+Información y comunicaciones;Jornada a tiempo completo;2019T2;3046.68;20.39;2019;2
+Información y comunicaciones;Jornada a tiempo completo;2019T3;3053.31;22.52;2019;3
+Información y comunicaciones;Jornada a tiempo completo;2019T4;3325.49;22.55;2019;4
+Información y comunicaciones;Jornada a tiempo completo;2020T1;3147.6;20.49;2020;1
+Información y comunicaciones;Jornada a tiempo completo;2020T2;3038.12;21.25;2020;2
+Información y comunicaciones;Jornada a tiempo completo;2020T3;3014.58;22.8;2020;3
+Información y comunicaciones;Jornada a tiempo completo;2020T4;3327.4;22.93;2020;4
+Información y comunicaciones;Jornada a tiempo completo;2021T1;3290.46;21.65;2021;1
+Información y comunicaciones;Jornada a tiempo completo;2021T2;3263.04;21.7;2021;2
+Información y comunicaciones;Jornada a tiempo completo;2021T3;3183.98;23.68;2021;3
+Información y comunicaciones;Jornada a tiempo completo;2021T4;3520.61;24.11;2021;4
+Información y comunicaciones;Jornada a tiempo completo;2022T1;3277.16;21.13;2022;1
+Información y comunicaciones;Jornada a tiempo completo;2022T2;3331.08;21.99;2022;2
+Información y comunicaciones;Jornada a tiempo completo;2022T3;3191.77;23.67;2022;3
+Información y comunicaciones;Jornada a tiempo completo;2022T4;3469.87;23.78;2022;4
+Información y comunicaciones;Jornada a tiempo completo;2023T1;3494.49;22.48;2023;1
+Información y comunicaciones;Jornada a tiempo completo;2023T2;3408.1;22.77;2023;2
+Información y comunicaciones;Jornada a tiempo completo;2023T3;3461.92;25.62;2023;3
+Información y comunicaciones;Jornada a tiempo completo;2023T4;3690.38;25.87;2023;4
+Información y comunicaciones;Jornada a tiempo completo;2024T1;3765.26;24.99;2024;1
+Información y comunicaciones;Jornada a tiempo completo;2024T2;3632.91;23.85;2024;2
+Información y comunicaciones;Jornada a tiempo completo;2024T3;3623.64;27.11;2024;3
+Información y comunicaciones;Jornada a tiempo completo;2024T4;3831.91;26.46;2024;4
+Información y comunicaciones;Jornada a tiempo completo;2025T1;3995.25;26.03;2025;1
+Información y comunicaciones;Jornada a tiempo completo;2025T2;3756.85;25.1;2025;2
+Información y comunicaciones;Jornada a tiempo completo;2025T3;3820.6;28.31;2025;3
+Información y comunicaciones;Jornada a tiempo completo;2025T4;4021.44;27.6;2025;4
+Información y comunicaciones;Jornada a tiempo completo;2026T1;4130.74;27.13;2026;1
+Información y comunicaciones;Jornada a tiempo parcial;2008T1;922.44;10.67;2008;1
+Información y comunicaciones;Jornada a tiempo parcial;2008T2;951.54;10.63;2008;2
+Información y comunicaciones;Jornada a tiempo parcial;2008T3;910.06;11.79;2008;3
+Información y comunicaciones;Jornada a tiempo parcial;2008T4;952.81;11.28;2008;4
+Información y comunicaciones;Jornada a tiempo parcial;2009T1;875.8;10.4;2009;1
+Información y comunicaciones;Jornada a tiempo parcial;2009T2;920.0;10.98;2009;2
+Información y comunicaciones;Jornada a tiempo parcial;2009T3;899.41;11.51;2009;3
+Información y comunicaciones;Jornada a tiempo parcial;2009T4;1004.51;11.91;2009;4
+Información y comunicaciones;Jornada a tiempo parcial;2010T1;920.39;10.32;2010;1
+Información y comunicaciones;Jornada a tiempo parcial;2010T2;944.41;10.66;2010;2
+Información y comunicaciones;Jornada a tiempo parcial;2010T3;946.79;11.44;2010;3
+Información y comunicaciones;Jornada a tiempo parcial;2010T4;1049.57;12.07;2010;4
+Información y comunicaciones;Jornada a tiempo parcial;2011T1;906.44;10.0;2011;1
+Información y comunicaciones;Jornada a tiempo parcial;2011T2;959.84;10.6;2011;2
+Información y comunicaciones;Jornada a tiempo parcial;2011T3;965.76;11.62;2011;3
+Información y comunicaciones;Jornada a tiempo parcial;2011T4;1032.66;11.66;2011;4
+Información y comunicaciones;Jornada a tiempo parcial;2012T1;951.42;9.99;2012;1
+Información y comunicaciones;Jornada a tiempo parcial;2012T2;984.54;10.78;2012;2
+Información y comunicaciones;Jornada a tiempo parcial;2012T3;963.59;11.4;2012;3
+Información y comunicaciones;Jornada a tiempo parcial;2012T4;999.38;11.52;2012;4
+Información y comunicaciones;Jornada a tiempo parcial;2013T1;901.69;10.57;2013;1
+Información y comunicaciones;Jornada a tiempo parcial;2013T2;946.76;10.63;2013;2
+Información y comunicaciones;Jornada a tiempo parcial;2013T3;960.08;11.76;2013;3
+Información y comunicaciones;Jornada a tiempo parcial;2013T4;989.9;11.65;2013;4
+Información y comunicaciones;Jornada a tiempo parcial;2014T1;940.1;10.75;2014;1
+Información y comunicaciones;Jornada a tiempo parcial;2014T2;921.21;10.96;2014;2
+Información y comunicaciones;Jornada a tiempo parcial;2014T3;978.22;12.29;2014;3
+Información y comunicaciones;Jornada a tiempo parcial;2014T4;975.03;11.22;2014;4
+Información y comunicaciones;Jornada a tiempo parcial;2015T1;936.69;10.49;2015;1
+Información y comunicaciones;Jornada a tiempo parcial;2015T2;950.32;10.69;2015;2
+Información y comunicaciones;Jornada a tiempo parcial;2015T3;1000.84;11.32;2015;3
+Información y comunicaciones;Jornada a tiempo parcial;2015T4;1025.04;11.58;2015;4
+Información y comunicaciones;Jornada a tiempo parcial;2016T1;976.18;11.14;2016;1
+Información y comunicaciones;Jornada a tiempo parcial;2016T2;991.59;10.57;2016;2
+Información y comunicaciones;Jornada a tiempo parcial;2016T3;1008.98;11.65;2016;3
+Información y comunicaciones;Jornada a tiempo parcial;2016T4;1008.37;11.59;2016;4
+Información y comunicaciones;Jornada a tiempo parcial;2017T1;957.92;10.56;2017;1
+Información y comunicaciones;Jornada a tiempo parcial;2017T2;987.03;11.15;2017;2
+Información y comunicaciones;Jornada a tiempo parcial;2017T3;1111.17;13.28;2017;3
+Información y comunicaciones;Jornada a tiempo parcial;2017T4;1028.95;12.44;2017;4
+Información y comunicaciones;Jornada a tiempo parcial;2018T1;959.42;11.43;2018;1
+Información y comunicaciones;Jornada a tiempo parcial;2018T2;1223.93;13.6;2018;2
+Información y comunicaciones;Jornada a tiempo parcial;2018T3;1024.21;12.79;2018;3
+Información y comunicaciones;Jornada a tiempo parcial;2018T4;1077.8;12.72;2018;4
+Información y comunicaciones;Jornada a tiempo parcial;2019T1;1046.39;11.32;2019;1
+Información y comunicaciones;Jornada a tiempo parcial;2019T2;1087.88;12.22;2019;2
+Información y comunicaciones;Jornada a tiempo parcial;2019T3;1058.35;12.39;2019;3
+Información y comunicaciones;Jornada a tiempo parcial;2019T4;1143.38;13.1;2019;4
+Información y comunicaciones;Jornada a tiempo parcial;2020T1;1062.97;11.94;2020;1
+Información y comunicaciones;Jornada a tiempo parcial;2020T2;998.81;13.67;2020;2
+Información y comunicaciones;Jornada a tiempo parcial;2020T3;1077.27;13.62;2020;3
+Información y comunicaciones;Jornada a tiempo parcial;2020T4;1117.98;13.4;2020;4
+Información y comunicaciones;Jornada a tiempo parcial;2021T1;1022.27;12.13;2021;1
+Información y comunicaciones;Jornada a tiempo parcial;2021T2;1093.09;12.65;2021;2
+Información y comunicaciones;Jornada a tiempo parcial;2021T3;1103.05;12.99;2021;3
+Información y comunicaciones;Jornada a tiempo parcial;2021T4;1208.3;13.48;2021;4
+Información y comunicaciones;Jornada a tiempo parcial;2022T1;1135.3;12.27;2022;1
+Información y comunicaciones;Jornada a tiempo parcial;2022T2;1188.63;12.95;2022;2
+Información y comunicaciones;Jornada a tiempo parcial;2022T3;1175.87;13.51;2022;3
+Información y comunicaciones;Jornada a tiempo parcial;2022T4;1238.86;14.22;2022;4
+Información y comunicaciones;Jornada a tiempo parcial;2023T1;1233.39;13.23;2023;1
+Información y comunicaciones;Jornada a tiempo parcial;2023T2;1234.16;13.52;2023;2
+Información y comunicaciones;Jornada a tiempo parcial;2023T3;1274.92;14.7;2023;3
+Información y comunicaciones;Jornada a tiempo parcial;2023T4;1306.78;15.29;2023;4
+Información y comunicaciones;Jornada a tiempo parcial;2024T1;1279.32;14.32;2024;1
+Información y comunicaciones;Jornada a tiempo parcial;2024T2;1323.95;14.05;2024;2
+Información y comunicaciones;Jornada a tiempo parcial;2024T3;1336.6;15.27;2024;3
+Información y comunicaciones;Jornada a tiempo parcial;2024T4;1415.24;16.06;2024;4
+Información y comunicaciones;Jornada a tiempo parcial;2025T1;1331.65;14.42;2025;1
+Información y comunicaciones;Jornada a tiempo parcial;2025T2;1258.27;14.37;2025;2
+Información y comunicaciones;Jornada a tiempo parcial;2025T3;1419.61;15.69;2025;3
+Información y comunicaciones;Jornada a tiempo parcial;2025T4;1414.04;15.57;2025;4
+Información y comunicaciones;Jornada a tiempo parcial;2026T1;1351.08;14.7;2026;1
+Total (todos los sectores);Ambas jornadas;2008T1;1719.02;12.5;2008;1
+Total (todos los sectores);Ambas jornadas;2008T2;1818.35;12.79;2008;2
+Total (todos los sectores);Ambas jornadas;2008T3;1722.45;13.76;2008;3
+Total (todos los sectores);Ambas jornadas;2008T4;1940.29;14.27;2008;4
+Total (todos los sectores);Ambas jornadas;2009T1;1768.87;12.8;2009;1
+Total (todos los sectores);Ambas jornadas;2009T2;1893.28;14.04;2009;2
+Total (todos los sectores);Ambas jornadas;2009T3;1776.61;14.3;2009;3
+Total (todos los sectores);Ambas jornadas;2009T4;1993.15;15.02;2009;4
+Total (todos los sectores);Ambas jornadas;2010T1;1802.0;13.17;2010;1
+Total (todos los sectores);Ambas jornadas;2010T2;1926.75;14.24;2010;2
+Total (todos los sectores);Ambas jornadas;2010T3;1779.27;14.17;2010;3
+Total (todos los sectores);Ambas jornadas;2010T4;1992.9;15.22;2010;4
+Total (todos los sectores);Ambas jornadas;2011T1;1819.62;13.19;2011;1
+Total (todos los sectores);Ambas jornadas;2011T2;1938.78;14.42;2011;2
+Total (todos los sectores);Ambas jornadas;2011T3;1800.84;14.81;2011;3
+Total (todos los sectores);Ambas jornadas;2011T4;2020.13;15.56;2011;4
+Total (todos los sectores);Ambas jornadas;2012T1;1841.89;13.39;2012;1
+Total (todos los sectores);Ambas jornadas;2012T2;1939.73;14.57;2012;2
+Total (todos los sectores);Ambas jornadas;2012T3;1805.63;14.85;2012;3
+Total (todos los sectores);Ambas jornadas;2012T4;1946.91;15.14;2012;4
+Total (todos los sectores);Ambas jornadas;2013T1;1809.22;13.63;2013;1
+Total (todos los sectores);Ambas jornadas;2013T2;1928.72;14.19;2013;2
+Total (todos los sectores);Ambas jornadas;2013T3;1801.42;14.86;2013;3
+Total (todos los sectores);Ambas jornadas;2013T4;1995.68;15.48;2013;4
+Total (todos los sectores);Ambas jornadas;2014T1;1805.76;13.39;2014;1
+Total (todos los sectores);Ambas jornadas;2014T2;1929.58;14.71;2014;2
+Total (todos los sectores);Ambas jornadas;2014T3;1800.46;14.9;2014;3
+Total (todos los sectores);Ambas jornadas;2014T4;1991.84;15.35;2014;4
+Total (todos los sectores);Ambas jornadas;2015T1;1831.7;13.67;2015;1
+Total (todos los sectores);Ambas jornadas;2015T2;1941.74;14.77;2015;2
+Total (todos los sectores);Ambas jornadas;2015T3;1809.88;14.87;2015;3
+Total (todos los sectores);Ambas jornadas;2015T4;2026.14;15.67;2015;4
+Total (todos los sectores);Ambas jornadas;2016T1;1832.26;14.13;2016;1
+Total (todos los sectores);Ambas jornadas;2016T2;1943.01;14.22;2016;2
+Total (todos los sectores);Ambas jornadas;2016T3;1804.01;14.9;2016;3
+Total (todos los sectores);Ambas jornadas;2016T4;2010.73;15.78;2016;4
+Total (todos los sectores);Ambas jornadas;2017T1;1829.13;13.5;2017;1
+Total (todos los sectores);Ambas jornadas;2017T2;1942.01;14.78;2017;2
+Total (todos los sectores);Ambas jornadas;2017T3;1809.12;14.83;2017;3
+Total (todos los sectores);Ambas jornadas;2017T4;2020.14;15.93;2017;4
+Total (todos los sectores);Ambas jornadas;2018T1;1844.24;14.04;2018;1
+Total (todos los sectores);Ambas jornadas;2018T2;1951.81;14.47;2018;2
+Total (todos los sectores);Ambas jornadas;2018T3;1842.62;15.2;2018;3
+Total (todos los sectores);Ambas jornadas;2018T4;2039.01;16.01;2018;4
+Total (todos los sectores);Ambas jornadas;2019T1;1876.19;13.99;2019;1
+Total (todos los sectores);Ambas jornadas;2019T2;1992.18;15.27;2019;2
+Total (todos los sectores);Ambas jornadas;2019T3;1876.95;15.52;2019;3
+Total (todos los sectores);Ambas jornadas;2019T4;2075.43;16.24;2019;4
+Total (todos los sectores);Ambas jornadas;2020T1;1889.78;14.65;2020;1
+Total (todos los sectores);Ambas jornadas;2020T2;1804.08;16.88;2020;2
+Total (todos los sectores);Ambas jornadas;2020T3;1859.12;16.16;2020;3
+Total (todos los sectores);Ambas jornadas;2020T4;2061.32;16.97;2020;4
+Total (todos los sectores);Ambas jornadas;2021T1;1907.82;15.11;2021;1
+Total (todos los sectores);Ambas jornadas;2021T2;2064.37;16.18;2021;2
+Total (todos los sectores);Ambas jornadas;2021T3;1952.37;16.13;2021;3
+Total (todos los sectores);Ambas jornadas;2021T4;2165.79;17.12;2021;4
+Total (todos los sectores);Ambas jornadas;2022T1;2006.61;15.17;2022;1
+Total (todos los sectores);Ambas jornadas;2022T2;2153.88;16.35;2022;2
+Total (todos los sectores);Ambas jornadas;2022T3;2032.05;16.63;2022;3
+Total (todos los sectores);Ambas jornadas;2022T4;2268.0;17.83;2022;4
+Total (todos los sectores);Ambas jornadas;2023T1;2126.63;15.79;2023;1
+Total (todos los sectores);Ambas jornadas;2023T2;2262.63;17.3;2023;2
+Total (todos los sectores);Ambas jornadas;2023T3;2117.8;17.42;2023;3
+Total (todos los sectores);Ambas jornadas;2023T4;2359.38;18.74;2023;4
+Total (todos los sectores);Ambas jornadas;2024T1;2206.06;16.93;2024;1
+Total (todos los sectores);Ambas jornadas;2024T2;2353.59;17.63;2024;2
+Total (todos los sectores);Ambas jornadas;2024T3;2205.43;18.31;2024;3
+Total (todos los sectores);Ambas jornadas;2024T4;2442.32;19.21;2024;4
+Total (todos los sectores);Ambas jornadas;2025T1;2290.46;17.3;2025;1
+Total (todos los sectores);Ambas jornadas;2025T2;2416.5;18.54;2025;2
+Total (todos los sectores);Ambas jornadas;2025T3;2268.0;18.75;2025;3
+Total (todos los sectores);Ambas jornadas;2025T4;2531.22;19.84;2025;4
+Total (todos los sectores);Ambas jornadas;2026T1;2403.8;18.24;2026;1
+Total (todos los sectores);Jornada a tiempo completo;2008T1;1899.36;12.79;2008;1
+Total (todos los sectores);Jornada a tiempo completo;2008T2;2013.65;13.12;2008;2
+Total (todos los sectores);Jornada a tiempo completo;2008T3;1890.24;14.1;2008;3
+Total (todos los sectores);Jornada a tiempo completo;2008T4;2155.27;14.66;2008;4
+Total (todos los sectores);Jornada a tiempo completo;2009T1;1974.15;13.13;2009;1
+Total (todos los sectores);Jornada a tiempo completo;2009T2;2112.65;14.42;2009;2
+Total (todos los sectores);Jornada a tiempo completo;2009T3;1967.63;14.73;2009;3
+Total (todos los sectores);Jornada a tiempo completo;2009T4;2239.7;15.48;2009;4
+Total (todos los sectores);Jornada a tiempo completo;2010T1;2038.3;13.58;2010;1
+Total (todos los sectores);Jornada a tiempo completo;2010T2;2183.98;14.72;2010;2
+Total (todos los sectores);Jornada a tiempo completo;2010T3;1993.17;14.65;2010;3
+Total (todos los sectores);Jornada a tiempo completo;2010T4;2265.86;15.77;2010;4
+Total (todos los sectores);Jornada a tiempo completo;2011T1;2079.63;13.66;2011;1
+Total (todos los sectores);Jornada a tiempo completo;2011T2;2215.89;14.95;2011;2
+Total (todos los sectores);Jornada a tiempo completo;2011T3;2039.7;15.4;2011;3
+Total (todos los sectores);Jornada a tiempo completo;2011T4;2320.93;16.17;2011;4
+Total (todos los sectores);Jornada a tiempo completo;2012T1;2125.61;13.93;2012;1
+Total (todos los sectores);Jornada a tiempo completo;2012T2;2243.28;15.18;2012;2
+Total (todos los sectores);Jornada a tiempo completo;2012T3;2065.28;15.5;2012;3
+Total (todos los sectores);Jornada a tiempo completo;2012T4;2256.62;15.75;2012;4
+Total (todos los sectores);Jornada a tiempo completo;2013T1;2108.21;14.17;2013;1
+Total (todos los sectores);Jornada a tiempo completo;2013T2;2254.04;14.81;2013;2
+Total (todos los sectores);Jornada a tiempo completo;2013T3;2080.41;15.58;2013;3
+Total (todos los sectores);Jornada a tiempo completo;2013T4;2340.36;16.2;2013;4
+Total (todos los sectores);Jornada a tiempo completo;2014T1;2123.34;13.96;2014;1
+Total (todos los sectores);Jornada a tiempo completo;2014T2;2276.95;15.43;2014;2
+Total (todos los sectores);Jornada a tiempo completo;2014T3;2096.05;15.67;2014;3
+Total (todos los sectores);Jornada a tiempo completo;2014T4;2353.14;16.11;2014;4
+Total (todos los sectores);Jornada a tiempo completo;2015T1;2160.76;14.29;2015;1
+Total (todos los sectores);Jornada a tiempo completo;2015T2;2295.61;15.52;2015;2
+Total (todos los sectores);Jornada a tiempo completo;2015T3;2104.84;15.67;2015;3
+Total (todos los sectores);Jornada a tiempo completo;2015T4;2395.62;16.48;2015;4
+Total (todos los sectores);Jornada a tiempo completo;2016T1;2171.44;14.79;2016;1
+Total (todos los sectores);Jornada a tiempo completo;2016T2;2305.0;14.95;2016;2
+Total (todos los sectores);Jornada a tiempo completo;2016T3;2104.7;15.72;2016;3
+Total (todos los sectores);Jornada a tiempo completo;2016T4;2380.32;16.56;2016;4
+Total (todos los sectores);Jornada a tiempo completo;2017T1;2168.86;14.14;2017;1
+Total (todos los sectores);Jornada a tiempo completo;2017T2;2298.35;15.52;2017;2
+Total (todos los sectores);Jornada a tiempo completo;2017T3;2103.23;15.59;2017;3
+Total (todos los sectores);Jornada a tiempo completo;2017T4;2390.29;16.71;2017;4
+Total (todos los sectores);Jornada a tiempo completo;2018T1;2186.86;14.68;2018;1
+Total (todos los sectores);Jornada a tiempo completo;2018T2;2314.06;15.19;2018;2
+Total (todos los sectores);Jornada a tiempo completo;2018T3;2144.72;15.98;2018;3
+Total (todos los sectores);Jornada a tiempo completo;2018T4;2417.48;16.81;2018;4
+Total (todos los sectores);Jornada a tiempo completo;2019T1;2219.97;14.62;2019;1
+Total (todos los sectores);Jornada a tiempo completo;2019T2;2358.96;16.02;2019;2
+Total (todos los sectores);Jornada a tiempo completo;2019T3;2178.1;16.29;2019;3
+Total (todos los sectores);Jornada a tiempo completo;2019T4;2449.83;17.03;2019;4
+Total (todos los sectores);Jornada a tiempo completo;2020T1;2233.42;15.27;2020;1
+Total (todos los sectores);Jornada a tiempo completo;2020T2;2141.7;17.53;2020;2
+Total (todos los sectores);Jornada a tiempo completo;2020T3;2152.19;16.89;2020;3
+Total (todos los sectores);Jornada a tiempo completo;2020T4;2411.79;17.71;2020;4
+Total (todos los sectores);Jornada a tiempo completo;2021T1;2223.33;15.69;2021;1
+Total (todos los sectores);Jornada a tiempo completo;2021T2;2409.74;16.91;2021;2
+Total (todos los sectores);Jornada a tiempo completo;2021T3;2236.05;16.87;2021;3
+Total (todos los sectores);Jornada a tiempo completo;2021T4;2522.31;17.91;2021;4
+Total (todos los sectores);Jornada a tiempo completo;2022T1;2335.08;15.82;2022;1
+Total (todos los sectores);Jornada a tiempo completo;2022T2;2509.45;17.12;2022;2
+Total (todos los sectores);Jornada a tiempo completo;2022T3;2318.12;17.43;2022;3
+Total (todos los sectores);Jornada a tiempo completo;2022T4;2634.94;18.64;2022;4
+Total (todos los sectores);Jornada a tiempo completo;2023T1;2474.22;16.48;2023;1
+Total (todos los sectores);Jornada a tiempo completo;2023T2;2630.87;18.12;2023;2
+Total (todos los sectores);Jornada a tiempo completo;2023T3;2416.38;18.27;2023;3
+Total (todos los sectores);Jornada a tiempo completo;2023T4;2739.27;19.6;2023;4
+Total (todos los sectores);Jornada a tiempo completo;2024T1;2564.49;17.65;2024;1
+Total (todos los sectores);Jornada a tiempo completo;2024T2;2738.23;18.48;2024;2
+Total (todos los sectores);Jornada a tiempo completo;2024T3;2518.6;19.2;2024;3
+Total (todos los sectores);Jornada a tiempo completo;2024T4;2833.51;20.12;2024;4
+Total (todos los sectores);Jornada a tiempo completo;2025T1;2653.66;18.02;2025;1
+Total (todos los sectores);Jornada a tiempo completo;2025T2;2805.25;19.42;2025;2
+Total (todos los sectores);Jornada a tiempo completo;2025T3;2590.89;19.69;2025;3
+Total (todos los sectores);Jornada a tiempo completo;2025T4;2929.5;20.76;2025;4
+Total (todos los sectores);Jornada a tiempo completo;2026T1;2783.4;19.03;2026;1
+Total (todos los sectores);Jornada a tiempo parcial;2008T1;693.36;9.2;2008;1
+Total (todos los sectores);Jornada a tiempo parcial;2008T2;739.34;9.27;2008;2
+Total (todos los sectores);Jornada a tiempo parcial;2008T3;737.58;10.04;2008;3
+Total (todos los sectores);Jornada a tiempo parcial;2008T4;785.1;10.24;2008;4
+Total (todos los sectores);Jornada a tiempo parcial;2009T1;696.55;9.33;2009;1
+Total (todos los sectores);Jornada a tiempo parcial;2009T2;754.42;10.16;2009;2
+Total (todos los sectores);Jornada a tiempo parcial;2009T3;747.39;10.13;2009;3
+Total (todos los sectores);Jornada a tiempo parcial;2009T4;794.68;10.66;2009;4
+Total (todos los sectores);Jornada a tiempo parcial;2010T1;713.87;9.41;2010;1
+Total (todos los sectores);Jornada a tiempo parcial;2010T2;767.7;10.02;2010;2
+Total (todos los sectores);Jornada a tiempo parcial;2010T3;760.89;10.02;2010;3
+Total (todos los sectores);Jornada a tiempo parcial;2010T4;804.33;10.69;2010;4
+Total (todos los sectores);Jornada a tiempo parcial;2011T1;722.6;9.31;2011;1
+Total (todos los sectores);Jornada a tiempo parcial;2011T2;791.19;10.24;2011;2
+Total (todos los sectores);Jornada a tiempo parcial;2011T3;770.74;10.29;2011;3
+Total (todos los sectores);Jornada a tiempo parcial;2011T4;822.3;10.93;2011;4
+Total (todos los sectores);Jornada a tiempo parcial;2012T1;735.28;9.32;2012;1
+Total (todos los sectores);Jornada a tiempo parcial;2012T2;782.43;10.15;2012;2
+Total (todos los sectores);Jornada a tiempo parcial;2012T3;769.46;10.28;2012;3
+Total (todos los sectores);Jornada a tiempo parcial;2012T4;802.96;10.84;2012;4
+Total (todos los sectores);Jornada a tiempo parcial;2013T1;740.24;9.78;2013;1
+Total (todos los sectores);Jornada a tiempo parcial;2013T2;796.25;10.02;2013;2
+Total (todos los sectores);Jornada a tiempo parcial;2013T3;782.33;10.26;2013;3
+Total (todos los sectores);Jornada a tiempo parcial;2013T4;817.58;10.81;2013;4
+Total (todos los sectores);Jornada a tiempo parcial;2014T1;740.25;9.61;2014;1
+Total (todos los sectores);Jornada a tiempo parcial;2014T2;794.2;10.23;2014;2
+Total (todos los sectores);Jornada a tiempo parcial;2014T3;788.57;10.33;2014;3
+Total (todos los sectores);Jornada a tiempo parcial;2014T4;821.71;10.68;2014;4
+Total (todos los sectores);Jornada a tiempo parcial;2015T1;749.64;9.67;2015;1
+Total (todos los sectores);Jornada a tiempo parcial;2015T2;801.63;10.21;2015;2
+Total (todos los sectores);Jornada a tiempo parcial;2015T3;810.07;10.29;2015;3
+Total (todos los sectores);Jornada a tiempo parcial;2015T4;837.52;10.8;2015;4
+Total (todos los sectores);Jornada a tiempo parcial;2016T1;753.41;10.01;2016;1
+Total (todos los sectores);Jornada a tiempo parcial;2016T2;805.13;9.88;2016;2
+Total (todos los sectores);Jornada a tiempo parcial;2016T3;803.65;10.26;2016;3
+Total (todos los sectores);Jornada a tiempo parcial;2016T4;841.38;11.09;2016;4
+Total (todos los sectores);Jornada a tiempo parcial;2017T1;754.71;9.56;2017;1
+Total (todos los sectores);Jornada a tiempo parcial;2017T2;820.68;10.4;2017;2
+Total (todos los sectores);Jornada a tiempo parcial;2017T3;819.13;10.44;2017;3
+Total (todos los sectores);Jornada a tiempo parcial;2017T4;847.56;11.25;2017;4
+Total (todos los sectores);Jornada a tiempo parcial;2018T1;775.43;10.13;2018;1
+Total (todos los sectores);Jornada a tiempo parcial;2018T2;831.79;10.3;2018;2
+Total (todos los sectores);Jornada a tiempo parcial;2018T3;836.47;10.72;2018;3
+Total (todos los sectores);Jornada a tiempo parcial;2018T4;861.19;11.29;2018;4
+Total (todos los sectores);Jornada a tiempo parcial;2019T1;797.99;10.16;2019;1
+Total (todos los sectores);Jornada a tiempo parcial;2019T2;862.08;10.97;2019;2
+Total (todos los sectores);Jornada a tiempo parcial;2019T3;865.18;11.08;2019;3
+Total (todos los sectores);Jornada a tiempo parcial;2019T4;897.94;11.63;2019;4
+Total (todos los sectores);Jornada a tiempo parcial;2020T1;785.41;10.7;2020;1
+Total (todos los sectores);Jornada a tiempo parcial;2020T2;659.21;11.98;2020;2
+Total (todos los sectores);Jornada a tiempo parcial;2020T3;813.22;11.49;2020;3
+Total (todos los sectores);Jornada a tiempo parcial;2020T4;858.81;12.11;2020;4
+Total (todos los sectores);Jornada a tiempo parcial;2021T1;785.49;11.01;2021;1
+Total (todos los sectores);Jornada a tiempo parcial;2021T2;857.13;11.36;2021;2
+Total (todos los sectores);Jornada a tiempo parcial;2021T3;888.69;11.41;2021;3
+Total (todos los sectores);Jornada a tiempo parcial;2021T4;925.41;12.06;2021;4
+Total (todos los sectores);Jornada a tiempo parcial;2022T1;862.09;10.95;2022;1
+Total (todos los sectores);Jornada a tiempo parcial;2022T2;935.92;11.56;2022;2
+Total (todos los sectores);Jornada a tiempo parcial;2022T3;972.46;11.82;2022;3
+Total (todos los sectores);Jornada a tiempo parcial;2022T4;998.75;12.73;2022;4
+Total (todos los sectores);Jornada a tiempo parcial;2023T1;924.33;11.34;2023;1
+Total (todos los sectores);Jornada a tiempo parcial;2023T2;1003.02;12.28;2023;2
+Total (todos los sectores);Jornada a tiempo parcial;2023T3;1028.16;12.49;2023;3
+Total (todos los sectores);Jornada a tiempo parcial;2023T4;1045.66;13.38;2023;4
+Total (todos los sectores);Jornada a tiempo parcial;2024T1;964.16;12.31;2024;1
+Total (todos los sectores);Jornada a tiempo parcial;2024T2;1047.05;12.52;2024;2
+Total (todos los sectores);Jornada a tiempo parcial;2024T3;1071.86;13.13;2024;3
+Total (todos los sectores);Jornada a tiempo parcial;2024T4;1089.66;13.65;2024;4
+Total (todos los sectores);Jornada a tiempo parcial;2025T1;996.04;12.56;2025;1
+Total (todos los sectores);Jornada a tiempo parcial;2025T2;1088.4;13.28;2025;2
+Total (todos los sectores);Jornada a tiempo parcial;2025T3;1111.92;13.41;2025;3
+Total (todos los sectores);Jornada a tiempo parcial;2025T4;1133.38;14.16;2025;4
+Total (todos los sectores);Jornada a tiempo parcial;2026T1;1064.34;13.21;2026;1

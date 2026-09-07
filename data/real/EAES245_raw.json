@@ -1,0 +1,19 @@
+{"COD":"EAES245", "Nombre":"Hombres. Hostelería. Dato base. Total Nacional. Salario medio bruto. ", "FK_Unidad":7, "FK_Escala":1, "Data":[{"Fecha":1199142000000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2008, "Valor":15885.32, "Secreto":false}
+,{"Fecha":1230764400000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2009, "Valor":15940.32, "Secreto":false}
+,{"Fecha":1262300400000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2010, "Valor":16891.74, "Secreto":false}
+,{"Fecha":1293836400000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2011, "Valor":16216.7, "Secreto":false}
+,{"Fecha":1325372400000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2012, "Valor":15518.31, "Secreto":false}
+,{"Fecha":1356994800000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2013, "Valor":15552.49, "Secreto":false}
+,{"Fecha":1388530800000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2014, "Valor":15368.45, "Secreto":false}
+,{"Fecha":1420066800000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2015, "Valor":15751.27, "Secreto":false}
+,{"Fecha":1451602800000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2016, "Valor":15907.9, "Secreto":false}
+,{"Fecha":1483225200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2017, "Valor":16138.88, "Secreto":false}
+,{"Fecha":1514761200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2018, "Valor":16271.82, "Secreto":false}
+,{"Fecha":1546297200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2019, "Valor":16134.55, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":15767.95, "Secreto":false}
+,{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":16229.88, "Secreto":false}
+,{"Fecha":1640991600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2022, "Valor":17921.24, "Secreto":false}
+,{"Fecha":1672527600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2023, "Valor":18701.7, "Secreto":false}
+,{"Fecha":1704063600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2024, "Valor":19526.77, "Secreto":false}
+]
+}

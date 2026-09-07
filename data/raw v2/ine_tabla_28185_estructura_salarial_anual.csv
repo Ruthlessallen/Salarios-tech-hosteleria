@@ -1,0 +1,970 @@
+﻿codigo_cnae,descripcion_cnae,sexo,anio,periodo,salario_medio_anual_bruto_eur
+B_S,Todas las secciones,Ambos sexos,2024,2024,29540.26
+B_S,Todas las secciones,Ambos sexos,2023,2023,28049.94
+B_S,Todas las secciones,Ambos sexos,2022,2022,26948.87
+B_S,Todas las secciones,Ambos sexos,2021,2021,25896.82
+B_S,Todas las secciones,Ambos sexos,2020,2020,25165.51
+B_S,Todas las secciones,Ambos sexos,2019,2019,24395.98
+B_S,Todas las secciones,Ambos sexos,2018,2018,24009.12
+B_S,Todas las secciones,Ambos sexos,2017,2017,23646.5
+B_S,Todas las secciones,Ambos sexos,2016,2016,23156.34
+B_S,Todas las secciones,Ambos sexos,2015,2015,23106.3
+B_S,Todas las secciones,Ambos sexos,2014,2014,22858.17
+B_S,Todas las secciones,Ambos sexos,2013,2013,22697.86
+B_S,Todas las secciones,Ambos sexos,2012,2012,22726.44
+B_S,Todas las secciones,Ambos sexos,2011,2011,22899.35
+B_S,Todas las secciones,Ambos sexos,2010,2010,22790.2
+B_S,Todas las secciones,Ambos sexos,2009,2009,22511.47
+B_S,Todas las secciones,Ambos sexos,2008,2008,21883.42
+B_S,Todas las secciones,Mujeres,2024,2024,26904.9
+B_S,Todas las secciones,Mujeres,2023,2023,25591.31
+B_S,Todas las secciones,Mujeres,2022,2022,24359.82
+B_S,Todas las secciones,Mujeres,2021,2021,23175.95
+B_S,Todas las secciones,Mujeres,2020,2020,22467.48
+B_S,Todas las secciones,Mujeres,2019,2019,21682.02
+B_S,Todas las secciones,Mujeres,2018,2018,21011.89
+B_S,Todas las secciones,Mujeres,2017,2017,20607.85
+B_S,Todas las secciones,Mujeres,2016,2016,20131.41
+B_S,Todas las secciones,Mujeres,2015,2015,20051.58
+B_S,Todas las secciones,Mujeres,2014,2014,19744.82
+B_S,Todas las secciones,Mujeres,2013,2013,19514.58
+B_S,Todas las secciones,Mujeres,2012,2012,19537.33
+B_S,Todas las secciones,Mujeres,2011,2011,19767.59
+B_S,Todas las secciones,Mujeres,2010,2010,19735.22
+B_S,Todas las secciones,Mujeres,2009,2009,19502.02
+B_S,Todas las secciones,Mujeres,2008,2008,18910.62
+B_S,Todas las secciones,Hombres,2024,2024,32057.55
+B_S,Todas las secciones,Hombres,2023,2023,30372.49
+B_S,Todas las secciones,Hombres,2022,2022,29381.84
+B_S,Todas las secciones,Hombres,2021,2021,28388.69
+B_S,Todas las secciones,Hombres,2020,2020,27642.52
+B_S,Todas las secciones,Hombres,2019,2019,26934.38
+B_S,Todas las secciones,Hombres,2018,2018,26738.19
+B_S,Todas las secciones,Hombres,2017,2017,26391.84
+B_S,Todas las secciones,Hombres,2016,2016,25924.43
+B_S,Todas las secciones,Hombres,2015,2015,25992.76
+B_S,Todas las secciones,Hombres,2014,2014,25727.24
+B_S,Todas las secciones,Hombres,2013,2013,25675.17
+B_S,Todas las secciones,Hombres,2012,2012,25682.05
+B_S,Todas las secciones,Hombres,2011,2011,25667.89
+B_S,Todas las secciones,Hombres,2010,2010,25479.74
+B_S,Todas las secciones,Hombres,2009,2009,25001.05
+B_S,Todas las secciones,Hombres,2008,2008,24203.33
+B,Industrias extractivas,Ambos sexos,2024,2024,41951.74
+B,Industrias extractivas,Ambos sexos,2023,2023,38869.23
+B,Industrias extractivas,Ambos sexos,2022,2022,36308.58
+B,Industrias extractivas,Ambos sexos,2021,2021,34866.39
+B,Industrias extractivas,Ambos sexos,2020,2020,34424.68
+B,Industrias extractivas,Ambos sexos,2019,2019,34159.42
+B,Industrias extractivas,Ambos sexos,2018,2018,33990.57
+B,Industrias extractivas,Ambos sexos,2017,2017,32555.75
+B,Industrias extractivas,Ambos sexos,2016,2016,32400.69
+B,Industrias extractivas,Ambos sexos,2015,2015,32494.07
+B,Industrias extractivas,Ambos sexos,2014,2014,32971.21
+B,Industrias extractivas,Ambos sexos,2013,2013,31389.5
+B,Industrias extractivas,Ambos sexos,2012,2012,30236.84
+B,Industrias extractivas,Ambos sexos,2011,2011,29223.47
+B,Industrias extractivas,Ambos sexos,2010,2010,28373.35
+B,Industrias extractivas,Ambos sexos,2009,2009,27051.36
+B,Industrias extractivas,Ambos sexos,2008,2008,26647.03
+B,Industrias extractivas,Mujeres,2024,2024,-51101.45
+B,Industrias extractivas,Mujeres,2023,2023,-45189.94
+B,Industrias extractivas,Mujeres,2022,2022,-42851.51
+B,Industrias extractivas,Mujeres,2021,2021,-41919.95
+B,Industrias extractivas,Mujeres,2020,2020,-40804.11
+B,Industrias extractivas,Mujeres,2019,2019,-39732.29
+B,Industrias extractivas,Mujeres,2018,2018,-38900.71
+B,Industrias extractivas,Mujeres,2017,2017,-35259.06
+B,Industrias extractivas,Mujeres,2016,2016,-35133.36
+B,Industrias extractivas,Mujeres,2015,2015,-36885.69
+B,Industrias extractivas,Mujeres,2014,2014,-38303.3
+B,Industrias extractivas,Mujeres,2013,2013,-29485.44
+B,Industrias extractivas,Mujeres,2012,2012,-27562.19
+B,Industrias extractivas,Mujeres,2011,2011,-25943.52
+B,Industrias extractivas,Mujeres,2010,2010,-24728.07
+B,Industrias extractivas,Mujeres,2009,2009,-26213.08
+B,Industrias extractivas,Mujeres,2008,2008,-23057.4
+B,Industrias extractivas,Hombres,2024,2024,40224.17
+B,Industrias extractivas,Hombres,2023,2023,37724.88
+B,Industrias extractivas,Hombres,2022,2022,35064.02
+B,Industrias extractivas,Hombres,2021,2021,33557.99
+B,Industrias extractivas,Hombres,2020,2020,33198.8
+B,Industrias extractivas,Hombres,2019,2019,33116.69
+B,Industrias extractivas,Hombres,2018,2018,33095.45
+B,Industrias extractivas,Hombres,2017,2017,32127.49
+B,Industrias extractivas,Hombres,2016,2016,31968.68
+B,Industrias extractivas,Hombres,2015,2015,31770.89
+B,Industrias extractivas,Hombres,2014,2014,32130.12
+B,Industrias extractivas,Hombres,2013,2013,31714.85
+B,Industrias extractivas,Hombres,2012,2012,30628.55
+B,Industrias extractivas,Hombres,2011,2011,29602.06
+B,Industrias extractivas,Hombres,2010,2010,28713.18
+B,Industrias extractivas,Hombres,2009,2009,27123.0
+B,Industrias extractivas,Hombres,2008,2008,26981.1
+C,Industria manufacturera,Ambos sexos,2024,2024,32881.61
+C,Industria manufacturera,Ambos sexos,2023,2023,31064.13
+C,Industria manufacturera,Ambos sexos,2022,2022,30000.69
+C,Industria manufacturera,Ambos sexos,2021,2021,28585.65
+C,Industria manufacturera,Ambos sexos,2020,2020,27875.98
+C,Industria manufacturera,Ambos sexos,2019,2019,27604.74
+C,Industria manufacturera,Ambos sexos,2018,2018,27640.12
+C,Industria manufacturera,Ambos sexos,2017,2017,27214.3
+C,Industria manufacturera,Ambos sexos,2016,2016,26698.42
+C,Industria manufacturera,Ambos sexos,2015,2015,26543.77
+C,Industria manufacturera,Ambos sexos,2014,2014,26476.73
+C,Industria manufacturera,Ambos sexos,2013,2013,26042.43
+C,Industria manufacturera,Ambos sexos,2012,2012,25510.48
+C,Industria manufacturera,Ambos sexos,2011,2011,25308.11
+C,Industria manufacturera,Ambos sexos,2010,2010,24863.7
+C,Industria manufacturera,Ambos sexos,2009,2009,23907.49
+C,Industria manufacturera,Ambos sexos,2008,2008,23615.61
+C,Industria manufacturera,Mujeres,2024,2024,29118.1
+C,Industria manufacturera,Mujeres,2023,2023,27028.65
+C,Industria manufacturera,Mujeres,2022,2022,25932.76
+C,Industria manufacturera,Mujeres,2021,2021,24456.75
+C,Industria manufacturera,Mujeres,2020,2020,23765.8
+C,Industria manufacturera,Mujeres,2019,2019,23339.25
+C,Industria manufacturera,Mujeres,2018,2018,23091.83
+C,Industria manufacturera,Mujeres,2017,2017,22857.78
+C,Industria manufacturera,Mujeres,2016,2016,22261.93
+C,Industria manufacturera,Mujeres,2015,2015,22001.02
+C,Industria manufacturera,Mujeres,2014,2014,21923.13
+C,Industria manufacturera,Mujeres,2013,2013,21464.92
+C,Industria manufacturera,Mujeres,2012,2012,20975.22
+C,Industria manufacturera,Mujeres,2011,2011,20683.04
+C,Industria manufacturera,Mujeres,2010,2010,20584.23
+C,Industria manufacturera,Mujeres,2009,2009,19727.98
+C,Industria manufacturera,Mujeres,2008,2008,19072.72
+C,Industria manufacturera,Hombres,2024,2024,34336.38
+C,Industria manufacturera,Hombres,2023,2023,32604.23
+C,Industria manufacturera,Hombres,2022,2022,31544.67
+C,Industria manufacturera,Hombres,2021,2021,30102.28
+C,Industria manufacturera,Hombres,2020,2020,29383.74
+C,Industria manufacturera,Hombres,2019,2019,29188.87
+C,Industria manufacturera,Hombres,2018,2018,29288.25
+C,Industria manufacturera,Hombres,2017,2017,28741.18
+C,Industria manufacturera,Hombres,2016,2016,28256.2
+C,Industria manufacturera,Hombres,2015,2015,28129.88
+C,Industria manufacturera,Hombres,2014,2014,28086.91
+C,Industria manufacturera,Hombres,2013,2013,27657.92
+C,Industria manufacturera,Hombres,2012,2012,27110.11
+C,Industria manufacturera,Hombres,2011,2011,26923.02
+C,Industria manufacturera,Hombres,2010,2010,26355.18
+C,Industria manufacturera,Hombres,2009,2009,25341.93
+C,Industria manufacturera,Hombres,2008,2008,25233.51
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2024,2024,57931.81
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2023,2023,54447.96
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2022,2022,55470.69
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2021,2021,52985.83
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2020,2020,53775.71
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2019,2019,52162.53
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2018,2018,51237.33
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2017,2017,52014.79
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2016,2016,50992.09
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2015,2015,51919.72
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2014,2014,51034.67
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2013,2013,52827.56
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2012,2012,52324.67
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2011,2011,50371.41
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2010,2010,48803.35
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2009,2009,50536.7
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Ambos sexos,2008,2008,48578.65
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2024,2024,50357.48
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2023,2023,-47681.37
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2022,2022,49546.23
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2021,2021,-45462.89
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2020,2020,-45975.8
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2019,2019,-45012.17
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2018,2018,-44395.92
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2017,2017,-44656.93
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2016,2016,-44147.19
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2015,2015,-43674.19
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2014,2014,-43473.8
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2013,2013,-44341.93
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2012,2012,-44634.43
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2011,2011,-44662.78
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2010,2010,-41782.57
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2009,2009,-42200.77
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Mujeres,2008,2008,-41504.03
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2024,2024,61154.83
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2023,2023,57221.12
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2022,2022,57488.36
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2021,2021,55829.66
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2020,2020,56481.61
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2019,2019,54357.93
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2018,2018,53379.93
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2017,2017,54199.45
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2016,2016,52959.98
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2015,2015,54024.87
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2014,2014,53084.89
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2013,2013,55348.54
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2012,2012,54195.64
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2011,2011,51612.34
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2010,2010,50426.25
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2009,2009,52190.69
+D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Hombres,2008,2008,50177.13
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2024,2024,32362.61
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2023,2023,30957.29
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2022,2022,30444.93
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2021,2021,29277.93
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2020,2020,27854.25
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2019,2019,27486.42
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2018,2018,27289.63
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2017,2017,26937.32
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2016,2016,26319.91
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2015,2015,26340.27
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2014,2014,25959.23
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2013,2013,25291.38
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2012,2012,25188.51
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2011,2011,25570.26
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2010,2010,24972.27
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2009,2009,23617.24
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Ambos sexos,2008,2008,22590.49
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2024,2024,30047.33
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2023,2023,28399.96
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2022,2022,28501.84
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2021,2021,26520.12
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2020,2020,25020.33
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2019,2019,24622.26
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2018,2018,24302.84
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2017,2017,24010.74
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2016,2016,23184.64
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2015,2015,22616.21
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2014,2014,22345.48
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2013,2013,21693.7
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2012,2012,21670.86
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2011,2011,21065.6
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2010,2010,20981.76
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2009,2009,19280.18
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Mujeres,2008,2008,18508.17
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2024,2024,32944.02
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2023,2023,31618.62
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2022,2022,30972.7
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2021,2021,29983.61
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2020,2020,28548.11
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2019,2019,28214.35
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2018,2018,28074.77
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2017,2017,27628.19
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2016,2016,27154.16
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2015,2015,27340.59
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2014,2014,26846.4
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2013,2013,26208.7
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2012,2012,26070.16
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2011,2011,26724.73
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2010,2010,26020.4
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2009,2009,24745.68
+E,"Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",Hombres,2008,2008,23720.73
+F,Construcción,Ambos sexos,2024,2024,26965.09
+F,Construcción,Ambos sexos,2023,2023,25469.87
+F,Construcción,Ambos sexos,2022,2022,25149.41
+F,Construcción,Ambos sexos,2021,2021,24136.94
+F,Construcción,Ambos sexos,2020,2020,23104.64
+F,Construcción,Ambos sexos,2019,2019,22789.3
+F,Construcción,Ambos sexos,2018,2018,22971.05
+F,Construcción,Ambos sexos,2017,2017,22607.96
+F,Construcción,Ambos sexos,2016,2016,22163.46
+F,Construcción,Ambos sexos,2015,2015,22660.82
+F,Construcción,Ambos sexos,2014,2014,22608.41
+F,Construcción,Ambos sexos,2013,2013,22720.53
+F,Construcción,Ambos sexos,2012,2012,22686.24
+F,Construcción,Ambos sexos,2011,2011,22541.0
+F,Construcción,Ambos sexos,2010,2010,21962.13
+F,Construcción,Ambos sexos,2009,2009,21774.7
+F,Construcción,Ambos sexos,2008,2008,20706.74
+F,Construcción,Mujeres,2024,2024,25817.08
+F,Construcción,Mujeres,2023,2023,25326.53
+F,Construcción,Mujeres,2022,2022,26258.91
+F,Construcción,Mujeres,2021,2021,22640.24
+F,Construcción,Mujeres,2020,2020,21188.0
+F,Construcción,Mujeres,2019,2019,21388.78
+F,Construcción,Mujeres,2018,2018,21919.0
+F,Construcción,Mujeres,2017,2017,20588.67
+F,Construcción,Mujeres,2016,2016,20361.67
+F,Construcción,Mujeres,2015,2015,20060.54
+F,Construcción,Mujeres,2014,2014,21483.17
+F,Construcción,Mujeres,2013,2013,20636.21
+F,Construcción,Mujeres,2012,2012,21441.66
+F,Construcción,Mujeres,2011,2011,21029.69
+F,Construcción,Mujeres,2010,2010,20189.84
+F,Construcción,Mujeres,2009,2009,20011.47
+F,Construcción,Mujeres,2008,2008,19873.24
+F,Construcción,Hombres,2024,2024,27131.83
+F,Construcción,Hombres,2023,2023,25489.41
+F,Construcción,Hombres,2022,2022,25001.32
+F,Construcción,Hombres,2021,2021,24361.97
+F,Construcción,Hombres,2020,2020,23402.34
+F,Construcción,Hombres,2019,2019,22997.41
+F,Construcción,Hombres,2018,2018,23118.32
+F,Construcción,Hombres,2017,2017,22927.3
+F,Construcción,Hombres,2016,2016,22460.86
+F,Construcción,Hombres,2015,2015,23113.93
+F,Construcción,Hombres,2014,2014,22783.0
+F,Construcción,Hombres,2013,2013,23067.15
+F,Construcción,Hombres,2012,2012,22910.95
+F,Construcción,Hombres,2011,2011,22783.96
+F,Construcción,Hombres,2010,2010,22239.83
+F,Construcción,Hombres,2009,2009,22067.19
+F,Construcción,Hombres,2008,2008,20844.73
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2024,2024,25778.97
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2023,2023,24137.4
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2022,2022,23209.55
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2021,2021,22215.28
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2020,2020,21393.49
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2019,2019,21120.76
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2018,2018,21006.17
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2017,2017,20608.77
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2016,2016,19781.4
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2015,2015,19651.05
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2014,2014,19771.86
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2013,2013,19069.16
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2012,2012,19473.68
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2011,2011,19444.62
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2010,2010,19008.19
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2009,2009,19498.77
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Ambos sexos,2008,2008,18545.85
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2024,2024,22673.6
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2023,2023,21130.85
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2022,2022,20084.02
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2021,2021,19026.11
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2020,2020,18243.62
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2019,2019,17981.78
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2018,2018,17741.19
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2017,2017,17377.72
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2016,2016,16726.51
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2015,2015,16481.34
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2014,2014,16528.98
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2013,2013,16297.15
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2012,2012,16446.74
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2011,2011,16140.67
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2010,2010,15964.03
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2009,2009,16074.16
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Mujeres,2008,2008,15253.79
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2024,2024,28938.65
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2023,2023,27243.61
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2022,2022,26378.32
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2021,2021,25298.04
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2020,2020,24411.89
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2019,2019,24237.93
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2018,2018,24277.23
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2017,2017,23829.7
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2016,2016,22826.01
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2015,2015,22903.7
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2014,2014,22987.94
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2013,2013,22043.76
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2012,2012,22702.32
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2011,2011,22924.26
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2010,2010,22386.69
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2009,2009,22843.08
+G,"Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas",Hombres,2008,2008,21673.4
+H,Transporte y almacenamiento,Ambos sexos,2024,2024,28910.3
+H,Transporte y almacenamiento,Ambos sexos,2023,2023,27687.67
+H,Transporte y almacenamiento,Ambos sexos,2022,2022,27354.39
+H,Transporte y almacenamiento,Ambos sexos,2021,2021,25545.48
+H,Transporte y almacenamiento,Ambos sexos,2020,2020,25033.4
+H,Transporte y almacenamiento,Ambos sexos,2019,2019,24368.8
+H,Transporte y almacenamiento,Ambos sexos,2018,2018,24653.86
+H,Transporte y almacenamiento,Ambos sexos,2017,2017,24079.84
+H,Transporte y almacenamiento,Ambos sexos,2016,2016,23611.32
+H,Transporte y almacenamiento,Ambos sexos,2015,2015,23937.81
+H,Transporte y almacenamiento,Ambos sexos,2014,2014,23604.85
+H,Transporte y almacenamiento,Ambos sexos,2013,2013,23525.42
+H,Transporte y almacenamiento,Ambos sexos,2012,2012,23454.25
+H,Transporte y almacenamiento,Ambos sexos,2011,2011,23346.59
+H,Transporte y almacenamiento,Ambos sexos,2010,2010,22990.76
+H,Transporte y almacenamiento,Ambos sexos,2009,2009,22196.86
+H,Transporte y almacenamiento,Ambos sexos,2008,2008,21823.95
+H,Transporte y almacenamiento,Mujeres,2024,2024,28972.27
+H,Transporte y almacenamiento,Mujeres,2023,2023,28081.06
+H,Transporte y almacenamiento,Mujeres,2022,2022,26569.15
+H,Transporte y almacenamiento,Mujeres,2021,2021,24286.3
+H,Transporte y almacenamiento,Mujeres,2020,2020,24082.98
+H,Transporte y almacenamiento,Mujeres,2019,2019,22868.25
+H,Transporte y almacenamiento,Mujeres,2018,2018,22595.67
+H,Transporte y almacenamiento,Mujeres,2017,2017,22210.81
+H,Transporte y almacenamiento,Mujeres,2016,2016,22176.39
+H,Transporte y almacenamiento,Mujeres,2015,2015,22039.75
+H,Transporte y almacenamiento,Mujeres,2014,2014,21991.84
+H,Transporte y almacenamiento,Mujeres,2013,2013,21844.42
+H,Transporte y almacenamiento,Mujeres,2012,2012,21580.65
+H,Transporte y almacenamiento,Mujeres,2011,2011,21663.87
+H,Transporte y almacenamiento,Mujeres,2010,2010,20835.77
+H,Transporte y almacenamiento,Mujeres,2009,2009,19262.12
+H,Transporte y almacenamiento,Mujeres,2008,2008,18506.62
+H,Transporte y almacenamiento,Hombres,2024,2024,28889.39
+H,Transporte y almacenamiento,Hombres,2023,2023,27560.34
+H,Transporte y almacenamiento,Hombres,2022,2022,27598.32
+H,Transporte y almacenamiento,Hombres,2021,2021,25939.1
+H,Transporte y almacenamiento,Hombres,2020,2020,25336.12
+H,Transporte y almacenamiento,Hombres,2019,2019,24852.57
+H,Transporte y almacenamiento,Hombres,2018,2018,25274.9
+H,Transporte y almacenamiento,Hombres,2017,2017,24618.8
+H,Transporte y almacenamiento,Hombres,2016,2016,24010.1
+H,Transporte y almacenamiento,Hombres,2015,2015,24497.46
+H,Transporte y almacenamiento,Hombres,2014,2014,24069.79
+H,Transporte y almacenamiento,Hombres,2013,2013,24022.66
+H,Transporte y almacenamiento,Hombres,2012,2012,23998.5
+H,Transporte y almacenamiento,Hombres,2011,2011,23820.98
+H,Transporte y almacenamiento,Hombres,2010,2010,23616.48
+H,Transporte y almacenamiento,Hombres,2009,2009,23073.94
+H,Transporte y almacenamiento,Hombres,2008,2008,22873.71
+I,Hostelería,Ambos sexos,2024,2024,17653.42
+I,Hostelería,Ambos sexos,2023,2023,16985.78
+I,Hostelería,Ambos sexos,2022,2022,16274.71
+I,Hostelería,Ambos sexos,2021,2021,14632.81
+I,Hostelería,Ambos sexos,2020,2020,14136.95
+I,Hostelería,Ambos sexos,2019,2019,14561.75
+I,Hostelería,Ambos sexos,2018,2018,14345.3
+I,Hostelería,Ambos sexos,2017,2017,14540.14
+I,Hostelería,Ambos sexos,2016,2016,14125.34
+I,Hostelería,Ambos sexos,2015,2015,13977.06
+I,Hostelería,Ambos sexos,2014,2014,13636.04
+I,Hostelería,Ambos sexos,2013,2013,13851.08
+I,Hostelería,Ambos sexos,2012,2012,13867.02
+I,Hostelería,Ambos sexos,2011,2011,14234.54
+I,Hostelería,Ambos sexos,2010,2010,14629.55
+I,Hostelería,Ambos sexos,2009,2009,13996.7
+I,Hostelería,Ambos sexos,2008,2008,13957.49
+I,Hostelería,Mujeres,2024,2024,16222.08
+I,Hostelería,Mujeres,2023,2023,15676.28
+I,Hostelería,Mujeres,2022,2022,15022.32
+I,Hostelería,Mujeres,2021,2021,13388.55
+I,Hostelería,Mujeres,2020,2020,12874.08
+I,Hostelería,Mujeres,2019,2019,13410.37
+I,Hostelería,Mujeres,2018,2018,12808.88
+I,Hostelería,Mujeres,2017,2017,13161.33
+I,Hostelería,Mujeres,2016,2016,12608.92
+I,Hostelería,Mujeres,2015,2015,12563.08
+I,Hostelería,Mujeres,2014,2014,12311.78
+I,Hostelería,Mujeres,2013,2013,12536.29
+I,Hostelería,Mujeres,2012,2012,12694.16
+I,Hostelería,Mujeres,2011,2011,12645.88
+I,Hostelería,Mujeres,2010,2010,12825.48
+I,Hostelería,Mujeres,2009,2009,12518.34
+I,Hostelería,Mujeres,2008,2008,12404.49
+I,Hostelería,Hombres,2024,2024,19526.77
+I,Hostelería,Hombres,2023,2023,18701.7
+I,Hostelería,Hombres,2022,2022,17921.24
+I,Hostelería,Hombres,2021,2021,16229.88
+I,Hostelería,Hombres,2020,2020,15767.95
+I,Hostelería,Hombres,2019,2019,16134.55
+I,Hostelería,Hombres,2018,2018,16271.82
+I,Hostelería,Hombres,2017,2017,16138.88
+I,Hostelería,Hombres,2016,2016,15907.9
+I,Hostelería,Hombres,2015,2015,15751.27
+I,Hostelería,Hombres,2014,2014,15368.45
+I,Hostelería,Hombres,2013,2013,15552.49
+I,Hostelería,Hombres,2012,2012,15518.31
+I,Hostelería,Hombres,2011,2011,16216.7
+I,Hostelería,Hombres,2010,2010,16891.74
+I,Hostelería,Hombres,2009,2009,15940.32
+I,Hostelería,Hombres,2008,2008,15885.32
+J,Información y comunicaciones,Ambos sexos,2024,2024,42741.94
+J,Información y comunicaciones,Ambos sexos,2023,2023,39674.43
+J,Información y comunicaciones,Ambos sexos,2022,2022,37438.55
+J,Información y comunicaciones,Ambos sexos,2021,2021,36630.48
+J,Información y comunicaciones,Ambos sexos,2020,2020,35663.8
+J,Información y comunicaciones,Ambos sexos,2019,2019,34641.28
+J,Información y comunicaciones,Ambos sexos,2018,2018,33117.64
+J,Información y comunicaciones,Ambos sexos,2017,2017,33664.26
+J,Información y comunicaciones,Ambos sexos,2016,2016,32448.31
+J,Información y comunicaciones,Ambos sexos,2015,2015,33046.23
+J,Información y comunicaciones,Ambos sexos,2014,2014,32754.21
+J,Información y comunicaciones,Ambos sexos,2013,2013,33137.17
+J,Información y comunicaciones,Ambos sexos,2012,2012,32522.11
+J,Información y comunicaciones,Ambos sexos,2011,2011,32491.04
+J,Información y comunicaciones,Ambos sexos,2010,2010,32425.68
+J,Información y comunicaciones,Ambos sexos,2009,2009,31551.65
+J,Información y comunicaciones,Ambos sexos,2008,2008,30628.48
+J,Información y comunicaciones,Mujeres,2024,2024,38807.08
+J,Información y comunicaciones,Mujeres,2023,2023,36392.76
+J,Información y comunicaciones,Mujeres,2022,2022,34306.95
+J,Información y comunicaciones,Mujeres,2021,2021,33225.56
+J,Información y comunicaciones,Mujeres,2020,2020,32227.73
+J,Información y comunicaciones,Mujeres,2019,2019,30898.57
+J,Información y comunicaciones,Mujeres,2018,2018,29099.47
+J,Información y comunicaciones,Mujeres,2017,2017,30015.53
+J,Información y comunicaciones,Mujeres,2016,2016,28834.47
+J,Información y comunicaciones,Mujeres,2015,2015,28935.74
+J,Información y comunicaciones,Mujeres,2014,2014,29223.97
+J,Información y comunicaciones,Mujeres,2013,2013,28651.29
+J,Información y comunicaciones,Mujeres,2012,2012,28166.28
+J,Información y comunicaciones,Mujeres,2011,2011,28464.25
+J,Información y comunicaciones,Mujeres,2010,2010,28610.13
+J,Información y comunicaciones,Mujeres,2009,2009,26716.32
+J,Información y comunicaciones,Mujeres,2008,2008,26573.64
+J,Información y comunicaciones,Hombres,2024,2024,45054.3
+J,Información y comunicaciones,Hombres,2023,2023,41536.56
+J,Información y comunicaciones,Hombres,2022,2022,39135.1
+J,Información y comunicaciones,Hombres,2021,2021,38514.17
+J,Información y comunicaciones,Hombres,2020,2020,37580.51
+J,Información y comunicaciones,Hombres,2019,2019,36746.41
+J,Información y comunicaciones,Hombres,2018,2018,35411.23
+J,Información y comunicaciones,Hombres,2017,2017,35768.78
+J,Información y comunicaciones,Hombres,2016,2016,34475.06
+J,Información y comunicaciones,Hombres,2015,2015,35417.86
+J,Información y comunicaciones,Hombres,2014,2014,34740.6
+J,Información y comunicaciones,Hombres,2013,2013,35756.26
+J,Información y comunicaciones,Hombres,2012,2012,35196.03
+J,Información y comunicaciones,Hombres,2011,2011,34990.87
+J,Información y comunicaciones,Hombres,2010,2010,34726.99
+J,Información y comunicaciones,Hombres,2009,2009,34513.44
+J,Información y comunicaciones,Hombres,2008,2008,33090.09
+K,Actividades financieras y de seguros,Ambos sexos,2024,2024,51862.9
+K,Actividades financieras y de seguros,Ambos sexos,2023,2023,48922.8
+K,Actividades financieras y de seguros,Ambos sexos,2022,2022,47239.53
+K,Actividades financieras y de seguros,Ambos sexos,2021,2021,46122.24
+K,Actividades financieras y de seguros,Ambos sexos,2020,2020,45921.78
+K,Actividades financieras y de seguros,Ambos sexos,2019,2019,44302.71
+K,Actividades financieras y de seguros,Ambos sexos,2018,2018,45034.53
+K,Actividades financieras y de seguros,Ambos sexos,2017,2017,43773.58
+K,Actividades financieras y de seguros,Ambos sexos,2016,2016,42684.65
+K,Actividades financieras y de seguros,Ambos sexos,2015,2015,41547.07
+K,Actividades financieras y de seguros,Ambos sexos,2014,2014,40696.06
+K,Actividades financieras y de seguros,Ambos sexos,2013,2013,39607.49
+K,Actividades financieras y de seguros,Ambos sexos,2012,2012,41905.6
+K,Actividades financieras y de seguros,Ambos sexos,2011,2011,41124.22
+K,Actividades financieras y de seguros,Ambos sexos,2010,2010,41638.7
+K,Actividades financieras y de seguros,Ambos sexos,2009,2009,41863.11
+K,Actividades financieras y de seguros,Ambos sexos,2008,2008,41619.07
+K,Actividades financieras y de seguros,Mujeres,2024,2024,46725.49
+K,Actividades financieras y de seguros,Mujeres,2023,2023,44032.07
+K,Actividades financieras y de seguros,Mujeres,2022,2022,42214.85
+K,Actividades financieras y de seguros,Mujeres,2021,2021,40990.22
+K,Actividades financieras y de seguros,Mujeres,2020,2020,40159.77
+K,Actividades financieras y de seguros,Mujeres,2019,2019,39100.52
+K,Actividades financieras y de seguros,Mujeres,2018,2018,39662.45
+K,Actividades financieras y de seguros,Mujeres,2017,2017,38521.06
+K,Actividades financieras y de seguros,Mujeres,2016,2016,36939.55
+K,Actividades financieras y de seguros,Mujeres,2015,2015,36455.79
+K,Actividades financieras y de seguros,Mujeres,2014,2014,35829.24
+K,Actividades financieras y de seguros,Mujeres,2013,2013,33941.56
+K,Actividades financieras y de seguros,Mujeres,2012,2012,36421.03
+K,Actividades financieras y de seguros,Mujeres,2011,2011,35428.15
+K,Actividades financieras y de seguros,Mujeres,2010,2010,35922.39
+K,Actividades financieras y de seguros,Mujeres,2009,2009,34772.53
+K,Actividades financieras y de seguros,Mujeres,2008,2008,34946.34
+K,Actividades financieras y de seguros,Hombres,2024,2024,58783.66
+K,Actividades financieras y de seguros,Hombres,2023,2023,55401.96
+K,Actividades financieras y de seguros,Hombres,2022,2022,53969.55
+K,Actividades financieras y de seguros,Hombres,2021,2021,52714.92
+K,Actividades financieras y de seguros,Hombres,2020,2020,52920.77
+K,Actividades financieras y de seguros,Hombres,2019,2019,50830.71
+K,Actividades financieras y de seguros,Hombres,2018,2018,51843.11
+K,Actividades financieras y de seguros,Hombres,2017,2017,50049.17
+K,Actividades financieras y de seguros,Hombres,2016,2016,49257.63
+K,Actividades financieras y de seguros,Hombres,2015,2015,47533.67
+K,Actividades financieras y de seguros,Hombres,2014,2014,46260.67
+K,Actividades financieras y de seguros,Hombres,2013,2013,45963.58
+K,Actividades financieras y de seguros,Hombres,2012,2012,47464.8
+K,Actividades financieras y de seguros,Hombres,2011,2011,46858.52
+K,Actividades financieras y de seguros,Hombres,2010,2010,47081.23
+K,Actividades financieras y de seguros,Hombres,2009,2009,48054.65
+K,Actividades financieras y de seguros,Hombres,2008,2008,47725.32
+L,Actividades inmobiliarias,Ambos sexos,2024,2024,28854.03
+L,Actividades inmobiliarias,Ambos sexos,2023,2023,27443.78
+L,Actividades inmobiliarias,Ambos sexos,2022,2022,26172.9
+L,Actividades inmobiliarias,Ambos sexos,2021,2021,24835.23
+L,Actividades inmobiliarias,Ambos sexos,2020,2020,23354.7
+L,Actividades inmobiliarias,Ambos sexos,2019,2019,23333.16
+L,Actividades inmobiliarias,Ambos sexos,2018,2018,21249.15
+L,Actividades inmobiliarias,Ambos sexos,2017,2017,21299.08
+L,Actividades inmobiliarias,Ambos sexos,2016,2016,20899.35
+L,Actividades inmobiliarias,Ambos sexos,2015,2015,20540.02
+L,Actividades inmobiliarias,Ambos sexos,2014,2014,20619.89
+L,Actividades inmobiliarias,Ambos sexos,2013,2013,19156.0
+L,Actividades inmobiliarias,Ambos sexos,2012,2012,19806.64
+L,Actividades inmobiliarias,Ambos sexos,2011,2011,20349.1
+L,Actividades inmobiliarias,Ambos sexos,2010,2010,19879.3
+L,Actividades inmobiliarias,Ambos sexos,2009,2009,19770.52
+L,Actividades inmobiliarias,Ambos sexos,2008,2008,19533.83
+L,Actividades inmobiliarias,Mujeres,2024,2024,26324.26
+L,Actividades inmobiliarias,Mujeres,2023,2023,24867.95
+L,Actividades inmobiliarias,Mujeres,2022,2022,23538.96
+L,Actividades inmobiliarias,Mujeres,2021,2021,21787.72
+L,Actividades inmobiliarias,Mujeres,2020,2020,20142.44
+L,Actividades inmobiliarias,Mujeres,2019,2019,19981.82
+L,Actividades inmobiliarias,Mujeres,2018,2018,18744.33
+L,Actividades inmobiliarias,Mujeres,2017,2017,18488.32
+L,Actividades inmobiliarias,Mujeres,2016,2016,17809.07
+L,Actividades inmobiliarias,Mujeres,2015,2015,17330.11
+L,Actividades inmobiliarias,Mujeres,2014,2014,17775.63
+L,Actividades inmobiliarias,Mujeres,2013,2013,16700.49
+L,Actividades inmobiliarias,Mujeres,2012,2012,17538.33
+L,Actividades inmobiliarias,Mujeres,2011,2011,17988.21
+L,Actividades inmobiliarias,Mujeres,2010,2010,17089.82
+L,Actividades inmobiliarias,Mujeres,2009,2009,17103.63
+L,Actividades inmobiliarias,Mujeres,2008,2008,16850.02
+L,Actividades inmobiliarias,Hombres,2024,2024,32499.74
+L,Actividades inmobiliarias,Hombres,2023,2023,31040.51
+L,Actividades inmobiliarias,Hombres,2022,2022,30649.13
+L,Actividades inmobiliarias,Hombres,2021,2021,29120.96
+L,Actividades inmobiliarias,Hombres,2020,2020,28191.02
+L,Actividades inmobiliarias,Hombres,2019,2019,28296.98
+L,Actividades inmobiliarias,Hombres,2018,2018,25083.49
+L,Actividades inmobiliarias,Hombres,2017,2017,25392.77
+L,Actividades inmobiliarias,Hombres,2016,2016,25172.74
+L,Actividades inmobiliarias,Hombres,2015,2015,25763.32
+L,Actividades inmobiliarias,Hombres,2014,2014,24909.19
+L,Actividades inmobiliarias,Hombres,2013,2013,22821.1
+L,Actividades inmobiliarias,Hombres,2012,2012,23419.14
+L,Actividades inmobiliarias,Hombres,2011,2011,24150.05
+L,Actividades inmobiliarias,Hombres,2010,2010,23993.28
+L,Actividades inmobiliarias,Hombres,2009,2009,24134.65
+L,Actividades inmobiliarias,Hombres,2008,2008,23815.81
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2024,2024,35165.11
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2023,2023,32547.76
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2022,2022,30947.87
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2021,2021,29926.53
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2020,2020,28918.19
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2019,2019,28150.21
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2018,2018,28058.48
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2017,2017,27450.26
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2016,2016,26520.32
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2015,2015,26347.37
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2014,2014,26275.51
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2013,2013,25472.07
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2012,2012,25098.86
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2011,2011,25350.42
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2010,2010,25531.08
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2009,2009,25516.94
+M,"Actividades profesionales, científicas y técnicas",Ambos sexos,2008,2008,24733.75
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2024,2024,31047.52
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2023,2023,28661.79
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2022,2022,26804.95
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2021,2021,25741.8
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2020,2020,24433.23
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2019,2019,23592.72
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2018,2018,23409.52
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2017,2017,22708.98
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2016,2016,21942.88
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2015,2015,21980.57
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2014,2014,21964.47
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2013,2013,21226.6
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2012,2012,20753.36
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2011,2011,21157.99
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2010,2010,21309.65
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2009,2009,20598.86
+M,"Actividades profesionales, científicas y técnicas",Mujeres,2008,2008,19829.67
+M,"Actividades profesionales, científicas y técnicas",Hombres,2024,2024,40070.08
+M,"Actividades profesionales, científicas y técnicas",Hombres,2023,2023,37139.77
+M,"Actividades profesionales, científicas y técnicas",Hombres,2022,2022,36259.18
+M,"Actividades profesionales, científicas y técnicas",Hombres,2021,2021,34926.19
+M,"Actividades profesionales, científicas y técnicas",Hombres,2020,2020,34161.9
+M,"Actividades profesionales, científicas y técnicas",Hombres,2019,2019,33541.11
+M,"Actividades profesionales, científicas y técnicas",Hombres,2018,2018,33778.27
+M,"Actividades profesionales, científicas y técnicas",Hombres,2017,2017,33020.51
+M,"Actividades profesionales, científicas y técnicas",Hombres,2016,2016,31967.2
+M,"Actividades profesionales, científicas y técnicas",Hombres,2015,2015,31586.27
+M,"Actividades profesionales, científicas y técnicas",Hombres,2014,2014,31673.25
+M,"Actividades profesionales, científicas y técnicas",Hombres,2013,2013,30643.51
+M,"Actividades profesionales, científicas y técnicas",Hombres,2012,2012,30381.47
+M,"Actividades profesionales, científicas y técnicas",Hombres,2011,2011,30460.83
+M,"Actividades profesionales, científicas y técnicas",Hombres,2010,2010,30649.18
+M,"Actividades profesionales, científicas y técnicas",Hombres,2009,2009,31325.34
+M,"Actividades profesionales, científicas y técnicas",Hombres,2008,2008,30329.05
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2024,2024,21096.87
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2023,2023,19891.91
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2022,2022,18995.66
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2021,2021,18118.66
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2020,2020,17808.53
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2019,2019,17107.54
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2018,2018,17176.75
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2017,2017,16519.76
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2016,2016,16139.11
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2015,2015,15948.63
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2014,2014,15766.08
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2013,2013,15809.74
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2012,2012,16130.55
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2011,2011,16199.14
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2010,2010,15682.32
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2009,2009,15855.38
+N,Actividades administrativas y servicios auxiliares,Ambos sexos,2008,2008,15818.18
+N,Actividades administrativas y servicios auxiliares,Mujeres,2024,2024,17611.54
+N,Actividades administrativas y servicios auxiliares,Mujeres,2023,2023,16766.78
+N,Actividades administrativas y servicios auxiliares,Mujeres,2022,2022,16391.55
+N,Actividades administrativas y servicios auxiliares,Mujeres,2021,2021,15248.42
+N,Actividades administrativas y servicios auxiliares,Mujeres,2020,2020,14835.74
+N,Actividades administrativas y servicios auxiliares,Mujeres,2019,2019,14322.39
+N,Actividades administrativas y servicios auxiliares,Mujeres,2018,2018,14101.23
+N,Actividades administrativas y servicios auxiliares,Mujeres,2017,2017,13604.08
+N,Actividades administrativas y servicios auxiliares,Mujeres,2016,2016,13309.47
+N,Actividades administrativas y servicios auxiliares,Mujeres,2015,2015,13085.14
+N,Actividades administrativas y servicios auxiliares,Mujeres,2014,2014,12922.01
+N,Actividades administrativas y servicios auxiliares,Mujeres,2013,2013,13028.72
+N,Actividades administrativas y servicios auxiliares,Mujeres,2012,2012,13273.88
+N,Actividades administrativas y servicios auxiliares,Mujeres,2011,2011,13246.21
+N,Actividades administrativas y servicios auxiliares,Mujeres,2010,2010,12864.94
+N,Actividades administrativas y servicios auxiliares,Mujeres,2009,2009,13056.08
+N,Actividades administrativas y servicios auxiliares,Mujeres,2008,2008,13303.46
+N,Actividades administrativas y servicios auxiliares,Hombres,2024,2024,25450.66
+N,Actividades administrativas y servicios auxiliares,Hombres,2023,2023,23799.31
+N,Actividades administrativas y servicios auxiliares,Hombres,2022,2022,22360.55
+N,Actividades administrativas y servicios auxiliares,Hombres,2021,2021,21648.58
+N,Actividades administrativas y servicios auxiliares,Hombres,2020,2020,21522.75
+N,Actividades administrativas y servicios auxiliares,Hombres,2019,2019,20661.14
+N,Actividades administrativas y servicios auxiliares,Hombres,2018,2018,20793.89
+N,Actividades administrativas y servicios auxiliares,Hombres,2017,2017,20174.91
+N,Actividades administrativas y servicios auxiliares,Hombres,2016,2016,19749.55
+N,Actividades administrativas y servicios auxiliares,Hombres,2015,2015,19823.51
+N,Actividades administrativas y servicios auxiliares,Hombres,2014,2014,19623.29
+N,Actividades administrativas y servicios auxiliares,Hombres,2013,2013,19466.1
+N,Actividades administrativas y servicios auxiliares,Hombres,2012,2012,19875.18
+N,Actividades administrativas y servicios auxiliares,Hombres,2011,2011,19762.5
+N,Actividades administrativas y servicios auxiliares,Hombres,2010,2010,19705.22
+N,Actividades administrativas y servicios auxiliares,Hombres,2009,2009,19132.9
+N,Actividades administrativas y servicios auxiliares,Hombres,2008,2008,18666.16
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2024,2024,37517.88
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2023,2023,36383.99
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2022,2022,34036.02
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2021,2021,34010.01
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2020,2020,32581.96
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2019,2019,31090.95
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2018,2018,29824.04
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2017,2017,29015.05
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2016,2016,29134.91
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2015,2015,28559.79
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2014,2014,27568.54
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2013,2013,27707.13
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2012,2012,26878.73
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2011,2011,27816.09
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2010,2010,28001.68
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2009,2009,27590.9
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Ambos sexos,2008,2008,26927.57
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2024,2024,35694.12
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2023,2023,34584.95
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2022,2022,32272.17
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2021,2021,32137.79
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2020,2020,31268.62
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2019,2019,29992.17
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2018,2018,28095.08
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2017,2017,27391.38
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2016,2016,27547.36
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2015,2015,27305.84
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2014,2014,26267.91
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2013,2013,25583.73
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2012,2012,25092.34
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2011,2011,25850.93
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2010,2010,26224.16
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2009,2009,25830.1
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Mujeres,2008,2008,24860.38
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2024,2024,39489.64
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2023,2023,38237.83
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2022,2022,35813.05
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2021,2021,35908.23
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2020,2020,33931.79
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2019,2019,32213.06
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2018,2018,31469.33
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2017,2017,30581.96
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2016,2016,30712.29
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2015,2015,29827.97
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2014,2014,28772.03
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2013,2013,29827.25
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2012,2012,28632.29
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2011,2011,29877.61
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2010,2010,29872.45
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2009,2009,29382.33
+O,"Administración Pública y defensa, Seguridad Social obligatoria",Hombres,2008,2008,29023.9
+P,Educación,Ambos sexos,2024,2024,32210.11
+P,Educación,Ambos sexos,2023,2023,30913.75
+P,Educación,Ambos sexos,2022,2022,29263.89
+P,Educación,Ambos sexos,2021,2021,28272.76
+P,Educación,Ambos sexos,2020,2020,27076.32
+P,Educación,Ambos sexos,2019,2019,25913.06
+P,Educación,Ambos sexos,2018,2018,23679.17
+P,Educación,Ambos sexos,2017,2017,23559.77
+P,Educación,Ambos sexos,2016,2016,22289.73
+P,Educación,Ambos sexos,2015,2015,21667.33
+P,Educación,Ambos sexos,2014,2014,20925.83
+P,Educación,Ambos sexos,2013,2013,21946.95
+P,Educación,Ambos sexos,2012,2012,21596.16
+P,Educación,Ambos sexos,2011,2011,21564.58
+P,Educación,Ambos sexos,2010,2010,21751.87
+P,Educación,Ambos sexos,2009,2009,21703.1
+P,Educación,Ambos sexos,2008,2008,20883.28
+P,Educación,Mujeres,2024,2024,31350.59
+P,Educación,Mujeres,2023,2023,30342.13
+P,Educación,Mujeres,2022,2022,28258.5
+P,Educación,Mujeres,2021,2021,27453.63
+P,Educación,Mujeres,2020,2020,26349.55
+P,Educación,Mujeres,2019,2019,25220.98
+P,Educación,Mujeres,2018,2018,23225.84
+P,Educación,Mujeres,2017,2017,22784.01
+P,Educación,Mujeres,2016,2016,21622.53
+P,Educación,Mujeres,2015,2015,20981.61
+P,Educación,Mujeres,2014,2014,20347.91
+P,Educación,Mujeres,2013,2013,20974.85
+P,Educación,Mujeres,2012,2012,20700.46
+P,Educación,Mujeres,2011,2011,20797.76
+P,Educación,Mujeres,2010,2010,20872.37
+P,Educación,Mujeres,2009,2009,21459.46
+P,Educación,Mujeres,2008,2008,20591.85
+P,Educación,Hombres,2024,2024,33953.98
+P,Educación,Hombres,2023,2023,32129.3
+P,Educación,Hombres,2022,2022,31290.07
+P,Educación,Hombres,2021,2021,29804.04
+P,Educación,Hombres,2020,2020,28469.49
+P,Educación,Hombres,2019,2019,27292.76
+P,Educación,Hombres,2018,2018,24532.37
+P,Educación,Hombres,2017,2017,25093.05
+P,Educación,Hombres,2016,2016,23662.96
+P,Educación,Hombres,2015,2015,23143.33
+P,Educación,Hombres,2014,2014,22079.28
+P,Educación,Hombres,2013,2013,23890.76
+P,Educación,Hombres,2012,2012,23477.45
+P,Educación,Hombres,2011,2011,23271.51
+P,Educación,Hombres,2010,2010,23453.74
+P,Educación,Hombres,2009,2009,22237.76
+P,Educación,Hombres,2008,2008,21489.54
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2024,2024,32224.93
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2023,2023,31211.67
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2022,2022,30381.25
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2021,2021,28891.41
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2020,2020,28313.74
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2019,2019,27557.2
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2018,2018,26851.1
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2017,2017,26076.47
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2016,2016,25955.32
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2015,2015,25823.88
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2014,2014,24826.42
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2013,2013,24804.42
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2012,2012,25103.59
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2011,2011,26058.28
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2010,2010,26331.24
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2009,2009,25622.97
+Q,Actividades sanitarias y de servicios sociales,Ambos sexos,2008,2008,24837.68
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2024,2024,30197.1
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2023,2023,29198.31
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2022,2022,28312.57
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2021,2021,26403.18
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2020,2020,25957.39
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2019,2019,25432.12
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2018,2018,24599.63
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2017,2017,23839.44
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2016,2016,23655.12
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2015,2015,23889.48
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2014,2014,22864.48
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2013,2013,22691.89
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2012,2012,22843.58
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2011,2011,23893.28
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2010,2010,24173.67
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2009,2009,23850.5
+Q,Actividades sanitarias y de servicios sociales,Mujeres,2008,2008,23088.89
+Q,Actividades sanitarias y de servicios sociales,Hombres,2024,2024,39246.0
+Q,Actividades sanitarias y de servicios sociales,Hombres,2023,2023,38317.12
+Q,Actividades sanitarias y de servicios sociales,Hombres,2022,2022,37097.58
+Q,Actividades sanitarias y de servicios sociales,Hombres,2021,2021,37270.15
+Q,Actividades sanitarias y de servicios sociales,Hombres,2020,2020,36248.27
+Q,Actividades sanitarias y de servicios sociales,Hombres,2019,2019,34771.18
+Q,Actividades sanitarias y de servicios sociales,Hombres,2018,2018,34173.79
+Q,Actividades sanitarias y de servicios sociales,Hombres,2017,2017,33735.05
+Q,Actividades sanitarias y de servicios sociales,Hombres,2016,2016,33723.1
+Q,Actividades sanitarias y de servicios sociales,Hombres,2015,2015,32830.89
+Q,Actividades sanitarias y de servicios sociales,Hombres,2014,2014,30865.19
+Q,Actividades sanitarias y de servicios sociales,Hombres,2013,2013,32175.94
+Q,Actividades sanitarias y de servicios sociales,Hombres,2012,2012,32786.85
+Q,Actividades sanitarias y de servicios sociales,Hombres,2011,2011,33198.3
+Q,Actividades sanitarias y de servicios sociales,Hombres,2010,2010,33556.49
+Q,Actividades sanitarias y de servicios sociales,Hombres,2009,2009,31757.12
+Q,Actividades sanitarias y de servicios sociales,Hombres,2008,2008,30503.04
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2024,2024,20383.16
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2023,2023,20634.29
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2022,2022,19360.67
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2021,2021,18380.69
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2020,2020,18638.95
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2019,2019,18088.1
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2018,2018,18517.55
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2017,2017,17703.25
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2016,2016,17525.18
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2015,2015,17375.02
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2014,2014,16912.45
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2013,2013,18101.83
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2012,2012,17222.25
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2011,2011,18106.28
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2010,2010,18044.67
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2009,2009,16857.96
+R,"Actividades artísticas, recreativas y de entretenimiento",Ambos sexos,2008,2008,16763.31
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2024,2024,18551.36
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2023,2023,18846.49
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2022,2022,17268.37
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2021,2021,16753.59
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2020,2020,16822.41
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2019,2019,16253.15
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2018,2018,16365.6
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2017,2017,15526.43
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2016,2016,15209.43
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2015,2015,14741.49
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2014,2014,13824.19
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2013,2013,15960.79
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2012,2012,14784.54
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2011,2011,15840.54
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2010,2010,15131.16
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2009,2009,15058.31
+R,"Actividades artísticas, recreativas y de entretenimiento",Mujeres,2008,2008,14538.66
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2024,2024,21884.96
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2023,2023,21941.85
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2022,2022,20892.08
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2021,2021,19600.5
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2020,2020,19934.49
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2019,2019,19402.36
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2018,2018,20139.56
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2017,2017,19406.65
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2016,2016,19367.34
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2015,2015,19571.39
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2014,2014,19512.34
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2013,2013,19938.5
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2012,2012,19139.23
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2011,2011,19872.84
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2010,2010,20345.08
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2009,2009,18371.52
+R,"Actividades artísticas, recreativas y de entretenimiento",Hombres,2008,2008,18667.22
+S,Otros servicios,Ambos sexos,2024,2024,20951.43
+S,Otros servicios,Ambos sexos,2023,2023,19751.59
+S,Otros servicios,Ambos sexos,2022,2022,18269.96
+S,Otros servicios,Ambos sexos,2021,2021,18220.77
+S,Otros servicios,Ambos sexos,2020,2020,17468.15
+S,Otros servicios,Ambos sexos,2019,2019,17066.82
+S,Otros servicios,Ambos sexos,2018,2018,16374.23
+S,Otros servicios,Ambos sexos,2017,2017,16202.92
+S,Otros servicios,Ambos sexos,2016,2016,15782.15
+S,Otros servicios,Ambos sexos,2015,2015,16033.97
+S,Otros servicios,Ambos sexos,2014,2014,16225.41
+S,Otros servicios,Ambos sexos,2013,2013,16734.95
+S,Otros servicios,Ambos sexos,2012,2012,16918.36
+S,Otros servicios,Ambos sexos,2011,2011,17035.17
+S,Otros servicios,Ambos sexos,2010,2010,16544.57
+S,Otros servicios,Ambos sexos,2009,2009,15868.73
+S,Otros servicios,Ambos sexos,2008,2008,15412.44
+S,Otros servicios,Mujeres,2024,2024,18913.05
+S,Otros servicios,Mujeres,2023,2023,17807.08
+S,Otros servicios,Mujeres,2022,2022,16590.01
+S,Otros servicios,Mujeres,2021,2021,16367.77
+S,Otros servicios,Mujeres,2020,2020,15319.56
+S,Otros servicios,Mujeres,2019,2019,14952.83
+S,Otros servicios,Mujeres,2018,2018,14266.89
+S,Otros servicios,Mujeres,2017,2017,14000.99
+S,Otros servicios,Mujeres,2016,2016,13687.57
+S,Otros servicios,Mujeres,2015,2015,13772.86
+S,Otros servicios,Mujeres,2014,2014,13960.86
+S,Otros servicios,Mujeres,2013,2013,14190.29
+S,Otros servicios,Mujeres,2012,2012,14254.29
+S,Otros servicios,Mujeres,2011,2011,14315.37
+S,Otros servicios,Mujeres,2010,2010,14040.56
+S,Otros servicios,Mujeres,2009,2009,13721.92
+S,Otros servicios,Mujeres,2008,2008,13066.14
+S,Otros servicios,Hombres,2024,2024,24903.68
+S,Otros servicios,Hombres,2023,2023,23507.51
+S,Otros servicios,Hombres,2022,2022,22151.54
+S,Otros servicios,Hombres,2021,2021,21823.47
+S,Otros servicios,Hombres,2020,2020,21780.54
+S,Otros servicios,Hombres,2019,2019,21425.62
+S,Otros servicios,Hombres,2018,2018,20798.04
+S,Otros servicios,Hombres,2017,2017,20752.34
+S,Otros servicios,Hombres,2016,2016,20195.94
+S,Otros servicios,Hombres,2015,2015,20781.89
+S,Otros servicios,Hombres,2014,2014,21003.6
+S,Otros servicios,Hombres,2013,2013,21893.63
+S,Otros servicios,Hombres,2012,2012,22308.37
+S,Otros servicios,Hombres,2011,2011,22304.83
+S,Otros servicios,Hombres,2010,2010,21759.21
+S,Otros servicios,Hombres,2009,2009,20085.94
+S,Otros servicios,Hombres,2008,2008,19826.09

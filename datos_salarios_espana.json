@@ -1,0 +1,578 @@
+{
+  "fuente_principal": "Instituto Nacional de Estadística (INE)",
+  "operaciones": [
+    "Encuesta Anual de Estructura Salarial (EAES - Operación 140)",
+    "Encuesta Trimestral de Coste Laboral (ETCL - Operación 303)"
+  ],
+  "metodologia": "Clasificación Nacional de Actividades Económicas (CNAE-2009). Sección J (Información y comunicaciones) y Sección I (Hostelería).",
+  "analisis_comparativo": {
+    "comparativa_anual": {
+      "anio_referencia": 2024,
+      "salario_medio_bruto_anual": {
+        "sector_tecnologico_eur": 42741.94,
+        "hosteleria_eur": 17653.42,
+        "total_nacional_eur": 29540.26
+      },
+      "multiplo_tech_vs_hosteleria": 2.42,
+      "diferencia_absoluta_tech_hosteleria_eur": 25088.52,
+      "porcentaje_sobre_media_nacional": {
+        "sector_tecnologico": 44.69,
+        "hosteleria": -40.24
+      },
+      "brecha_genero": {
+        "sector_tecnologico": {
+          "hombres_eur": 45054.3,
+          "mujeres_eur": 38807.08,
+          "diferencia_porcentual": 13.87
+        },
+        "hosteleria": {
+          "hombres_eur": 19526.77,
+          "mujeres_eur": 16222.08,
+          "diferencia_porcentual": 16.92
+        }
+      }
+    },
+    "comparativa_trimestral": {
+      "periodo_referencia": "2026-T1",
+      "coste_salarial_mensual_eur": {
+        "sector_tecnologico": 3961.96,
+        "hosteleria": 1357.32,
+        "total_nacional": 2403.8
+      },
+      "multiplo_tech_vs_hosteleria": 2.92,
+      "diferencia_mensual_eur": 2604.64
+    },
+    "comparativa_hora": {
+      "periodo_referencia": "2026-T1",
+      "coste_hora_eur": {
+        "sector_tecnologico": 26.66,
+        "hosteleria": 11.49,
+        "total_nacional": 18.24
+      },
+      "multiplo_tech_vs_hosteleria": 2.32,
+      "diferencia_hora_eur": 15.17
+    }
+  },
+  "series_anuales_eaes": {
+    "total_nacional": {
+      "ambos": {
+        "codigo_ine": "EAES291",
+        "descripcion": "Total nacional (ambos sexos)",
+        "historico": {
+          "2019": 24395.98,
+          "2020": 25165.51,
+          "2021": 25896.82,
+          "2022": 26948.87,
+          "2023": 28049.94,
+          "2024": 29540.26
+        }
+      },
+      "hombres": {
+        "codigo_ine": "EAES253",
+        "descripcion": "Total nacional (hombres)",
+        "historico": {
+          "2019": 26934.38,
+          "2020": 27642.52,
+          "2021": 28388.69,
+          "2022": 29381.84,
+          "2023": 30372.49,
+          "2024": 32057.55
+        }
+      },
+      "mujeres": {
+        "codigo_ine": "EAES272",
+        "descripcion": "Total nacional (mujeres)",
+        "historico": {
+          "2019": 21682.02,
+          "2020": 22467.48,
+          "2021": 23175.95,
+          "2022": 24359.82,
+          "2023": 25591.31,
+          "2024": 26904.9
+        }
+      }
+    },
+    "sector_tecnologico": {
+      "ambos": {
+        "codigo_ine": "EAES282",
+        "descripcion": "Información y comunicaciones (ambos sexos)",
+        "historico": {
+          "2019": 34641.28,
+          "2020": 35663.8,
+          "2021": 36630.48,
+          "2022": 37438.55,
+          "2023": 39674.43,
+          "2024": 42741.94
+        }
+      },
+      "hombres": {
+        "codigo_ine": "EAES244",
+        "descripcion": "Información y comunicaciones (hombres)",
+        "historico": {
+          "2019": 36746.41,
+          "2020": 37580.51,
+          "2021": 38514.17,
+          "2022": 39135.1,
+          "2023": 41536.56,
+          "2024": 45054.3
+        }
+      },
+      "mujeres": {
+        "codigo_ine": "EAES263",
+        "descripcion": "Información y comunicaciones (mujeres)",
+        "historico": {
+          "2019": 30898.57,
+          "2020": 32227.73,
+          "2021": 33225.56,
+          "2022": 34306.95,
+          "2023": 36392.76,
+          "2024": 38807.08
+        }
+      }
+    },
+    "hosteleria": {
+      "ambos": {
+        "codigo_ine": "EAES283",
+        "descripcion": "Hostelería (ambos sexos)",
+        "historico": {
+          "2019": 14561.75,
+          "2020": 14136.95,
+          "2021": 14632.81,
+          "2022": 16274.71,
+          "2023": 16985.78,
+          "2024": 17653.42
+        }
+      },
+      "hombres": {
+        "codigo_ine": "EAES245",
+        "descripcion": "Hostelería (hombres)",
+        "historico": {
+          "2019": 16134.55,
+          "2020": 15767.95,
+          "2021": 16229.88,
+          "2022": 17921.24,
+          "2023": 18701.7,
+          "2024": 19526.77
+        }
+      },
+      "mujeres": {
+        "codigo_ine": "EAES264",
+        "descripcion": "Hostelería (mujeres)",
+        "historico": {
+          "2019": 13410.37,
+          "2020": 12874.08,
+          "2021": 13388.55,
+          "2022": 15022.32,
+          "2023": 15676.28,
+          "2024": 16222.08
+        }
+      }
+    }
+  },
+  "series_trimestrales_etcl": {
+    "total_nacional": {
+      "codigo_ine": "ETCL1527",
+      "descripcion": "Media nacional (industria, construcción y servicios)",
+      "unidad": "Euros por trabajador y mes",
+      "datos": [
+        {
+          "anio": 2023,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2023-T2",
+          "coste_salarial_mes_eur": 2262.63
+        },
+        {
+          "anio": 2023,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2023-T3",
+          "coste_salarial_mes_eur": 2117.8
+        },
+        {
+          "anio": 2023,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2023-T4",
+          "coste_salarial_mes_eur": 2359.38
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2024-T1",
+          "coste_salarial_mes_eur": 2206.06
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2024-T2",
+          "coste_salarial_mes_eur": 2353.59
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2024-T3",
+          "coste_salarial_mes_eur": 2205.43
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2024-T4",
+          "coste_salarial_mes_eur": 2442.32
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2025-T1",
+          "coste_salarial_mes_eur": 2290.46
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2025-T2",
+          "coste_salarial_mes_eur": 2416.5
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2025-T3",
+          "coste_salarial_mes_eur": 2268.0
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2025-T4",
+          "coste_salarial_mes_eur": 2531.22
+        },
+        {
+          "anio": 2026,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2026-T1",
+          "coste_salarial_mes_eur": 2403.8
+        }
+      ]
+    },
+    "sector_tecnologico": {
+      "codigo_ine": "ETCL1711",
+      "descripcion": "Información y comunicaciones",
+      "unidad": "Euros por trabajador y mes",
+      "datos": [
+        {
+          "anio": 2023,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2023-T2",
+          "coste_salarial_mes_eur": 3267.94
+        },
+        {
+          "anio": 2023,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2023-T3",
+          "coste_salarial_mes_eur": 3327.73
+        },
+        {
+          "anio": 2023,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2023-T4",
+          "coste_salarial_mes_eur": 3539.91
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2024-T1",
+          "coste_salarial_mes_eur": 3607.79
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2024-T2",
+          "coste_salarial_mes_eur": 3489.78
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2024-T3",
+          "coste_salarial_mes_eur": 3483.94
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2024-T4",
+          "coste_salarial_mes_eur": 3680.25
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2025-T1",
+          "coste_salarial_mes_eur": 3832.05
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2025-T2",
+          "coste_salarial_mes_eur": 3593.18
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2025-T3",
+          "coste_salarial_mes_eur": 3684.9
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2025-T4",
+          "coste_salarial_mes_eur": 3870.23
+        },
+        {
+          "anio": 2026,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2026-T1",
+          "coste_salarial_mes_eur": 3961.96
+        }
+      ]
+    },
+    "hosteleria": {
+      "codigo_ine": "ETCL1715",
+      "descripcion": "Hostelería",
+      "unidad": "Euros por trabajador y mes",
+      "datos": [
+        {
+          "anio": 2023,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2023-T2",
+          "coste_salarial_mes_eur": 1339.04
+        },
+        {
+          "anio": 2023,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2023-T3",
+          "coste_salarial_mes_eur": 1368.84
+        },
+        {
+          "anio": 2023,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2023-T4",
+          "coste_salarial_mes_eur": 1379.29
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2024-T1",
+          "coste_salarial_mes_eur": 1309.45
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2024-T2",
+          "coste_salarial_mes_eur": 1404.54
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2024-T3",
+          "coste_salarial_mes_eur": 1436.3
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2024-T4",
+          "coste_salarial_mes_eur": 1444.21
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2025-T1",
+          "coste_salarial_mes_eur": 1342.75
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2025-T2",
+          "coste_salarial_mes_eur": 1424.67
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2025-T3",
+          "coste_salarial_mes_eur": 1476.74
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2025-T4",
+          "coste_salarial_mes_eur": 1488.04
+        },
+        {
+          "anio": 2026,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2026-T1",
+          "coste_salarial_mes_eur": 1357.32
+        }
+      ]
+    }
+  },
+  "series_coste_hora": {
+    "total_nacional": {
+      "codigo_ine": "ETCL1767",
+      "descripcion": "Media nacional por hora",
+      "unidad": "Euros por hora efectiva",
+      "datos": [
+        {
+          "anio": 2024,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2024-T2",
+          "coste_hora_eur": 17.63
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2024-T3",
+          "coste_hora_eur": 18.31
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2024-T4",
+          "coste_hora_eur": 19.21
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2025-T1",
+          "coste_hora_eur": 17.3
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2025-T2",
+          "coste_hora_eur": 18.54
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2025-T3",
+          "coste_hora_eur": 18.75
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2025-T4",
+          "coste_hora_eur": 19.84
+        },
+        {
+          "anio": 2026,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2026-T1",
+          "coste_hora_eur": 18.24
+        }
+      ]
+    },
+    "sector_tecnologico": {
+      "codigo_ine": "ETCL1867",
+      "descripcion": "Información y comunicaciones por hora",
+      "unidad": "Euros por hora efectiva",
+      "datos": [
+        {
+          "anio": 2024,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2024-T2",
+          "coste_hora_eur": 23.47
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2024-T3",
+          "coste_hora_eur": 26.63
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2024-T4",
+          "coste_hora_eur": 26.05
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2025-T1",
+          "coste_hora_eur": 25.59
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2025-T2",
+          "coste_hora_eur": 24.68
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2025-T3",
+          "coste_hora_eur": 27.83
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2025-T4",
+          "coste_hora_eur": 27.16
+        },
+        {
+          "anio": 2026,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2026-T1",
+          "coste_hora_eur": 26.66
+        }
+      ]
+    },
+    "hosteleria": {
+      "codigo_ine": "ETCL1868",
+      "descripcion": "Hostelería por hora",
+      "unidad": "Euros por hora efectiva",
+      "datos": [
+        {
+          "anio": 2024,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2024-T2",
+          "coste_hora_eur": 11.31
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2024-T3",
+          "coste_hora_eur": 11.65
+        },
+        {
+          "anio": 2024,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2024-T4",
+          "coste_hora_eur": 12.34
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2025-T1",
+          "coste_hora_eur": 11.41
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T2",
+          "periodo_etiqueta": "2025-T2",
+          "coste_hora_eur": 11.71
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T3",
+          "periodo_etiqueta": "2025-T3",
+          "coste_hora_eur": 11.92
+        },
+        {
+          "anio": 2025,
+          "trimestre": "T4",
+          "periodo_etiqueta": "2025-T4",
+          "coste_hora_eur": 12.68
+        },
+        {
+          "anio": 2026,
+          "trimestre": "T1",
+          "periodo_etiqueta": "2026-T1",
+          "coste_hora_eur": 11.49
+        }
+      ]
+    }
+  }
+}

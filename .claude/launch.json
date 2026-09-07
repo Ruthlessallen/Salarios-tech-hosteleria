@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Jupyter",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "jupyter", "notebook", "--no-browser", "--NotebookApp.allow_root=true"],
+      "port": 8888
+    }
+  ]
+}

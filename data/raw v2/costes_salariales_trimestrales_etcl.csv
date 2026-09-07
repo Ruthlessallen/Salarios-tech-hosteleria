@@ -1,0 +1,37 @@
+﻿anio,trimestre,periodo,sector,codigo_serie_ine,coste_salarial_mensual_eur
+2023,T2,2023-T2,Total nacional,ETCL1527,2262.63
+2023,T3,2023-T3,Total nacional,ETCL1527,2117.8
+2023,T4,2023-T4,Total nacional,ETCL1527,2359.38
+2024,T1,2024-T1,Total nacional,ETCL1527,2206.06
+2024,T2,2024-T2,Total nacional,ETCL1527,2353.59
+2024,T3,2024-T3,Total nacional,ETCL1527,2205.43
+2024,T4,2024-T4,Total nacional,ETCL1527,2442.32
+2025,T1,2025-T1,Total nacional,ETCL1527,2290.46
+2025,T2,2025-T2,Total nacional,ETCL1527,2416.5
+2025,T3,2025-T3,Total nacional,ETCL1527,2268.0
+2025,T4,2025-T4,Total nacional,ETCL1527,2531.22
+2026,T1,2026-T1,Total nacional,ETCL1527,2403.8
+2023,T2,2023-T2,Información y comunicaciones (Tech),ETCL1711,3267.94
+2023,T3,2023-T3,Información y comunicaciones (Tech),ETCL1711,3327.73
+2023,T4,2023-T4,Información y comunicaciones (Tech),ETCL1711,3539.91
+2024,T1,2024-T1,Información y comunicaciones (Tech),ETCL1711,3607.79
+2024,T2,2024-T2,Información y comunicaciones (Tech),ETCL1711,3489.78
+2024,T3,2024-T3,Información y comunicaciones (Tech),ETCL1711,3483.94
+2024,T4,2024-T4,Información y comunicaciones (Tech),ETCL1711,3680.25
+2025,T1,2025-T1,Información y comunicaciones (Tech),ETCL1711,3832.05
+2025,T2,2025-T2,Información y comunicaciones (Tech),ETCL1711,3593.18
+2025,T3,2025-T3,Información y comunicaciones (Tech),ETCL1711,3684.9
+2025,T4,2025-T4,Información y comunicaciones (Tech),ETCL1711,3870.23
+2026,T1,2026-T1,Información y comunicaciones (Tech),ETCL1711,3961.96
+2023,T2,2023-T2,Hostelería,ETCL1715,1339.04
+2023,T3,2023-T3,Hostelería,ETCL1715,1368.84
+2023,T4,2023-T4,Hostelería,ETCL1715,1379.29
+2024,T1,2024-T1,Hostelería,ETCL1715,1309.45
+2024,T2,2024-T2,Hostelería,ETCL1715,1404.54
+2024,T3,2024-T3,Hostelería,ETCL1715,1436.3
+2024,T4,2024-T4,Hostelería,ETCL1715,1444.21
+2025,T1,2025-T1,Hostelería,ETCL1715,1342.75
+2025,T2,2025-T2,Hostelería,ETCL1715,1424.67
+2025,T3,2025-T3,Hostelería,ETCL1715,1476.74
+2025,T4,2025-T4,Hostelería,ETCL1715,1488.04
+2026,T1,2026-T1,Hostelería,ETCL1715,1357.32

@@ -1,0 +1,151 @@
+﻿tipo_salario;sexo_brecha;anio;valor_eur
+Salario a tiempo completo;Mujeres;2023;31243.64
+Salario a tiempo completo;Mujeres;2022;29931.18
+Salario a tiempo completo;Mujeres;2021;28185.85
+Salario a tiempo completo;Mujeres;2020;27466.76
+Salario a tiempo completo;Mujeres;2019;26939.88
+Salario a tiempo completo;Mujeres;2018;26274.06
+Salario a tiempo completo;Mujeres;2017;25416.75
+Salario a tiempo completo;Mujeres;2016;24813.73
+Salario a tiempo completo;Mujeres;2015;25045.91
+Salario a tiempo completo;Mujeres;2014;25041.55
+Salario a tiempo completo;Mujeres;2013;23994.34
+Salario a tiempo completo;Mujeres;2012;23674.19
+Salario a tiempo completo;Mujeres;2011;23692.76
+Salario a tiempo completo;Mujeres;2010;23932.01
+Salario a tiempo completo;Mujeres;2009;22898.25
+Salario a tiempo completo;Hombres;2023;32863.37
+Salario a tiempo completo;Hombres;2022;31785.41
+Salario a tiempo completo;Hombres;2021;30740.07
+Salario a tiempo completo;Hombres;2020;29918.94
+Salario a tiempo completo;Hombres;2019;29501.75
+Salario a tiempo completo;Hombres;2018;29354.53
+Salario a tiempo completo;Hombres;2017;28716.71
+Salario a tiempo completo;Hombres;2016;28363.24
+Salario a tiempo completo;Hombres;2015;28509.14
+Salario a tiempo completo;Hombres;2014;28318.14
+Salario a tiempo completo;Hombres;2013;28095.6
+Salario a tiempo completo;Hombres;2012;27898.06
+Salario a tiempo completo;Hombres;2011;27595.54
+Salario a tiempo completo;Hombres;2010;27335.23
+Salario a tiempo completo;Hombres;2009;26523.55
+Salario medio bruto;Mujeres;2023;25591.31
+Salario medio bruto;Mujeres;2022;24359.82
+Salario medio bruto;Mujeres;2021;23175.95
+Salario medio bruto;Mujeres;2020;22467.48
+Salario medio bruto;Mujeres;2019;21682.02
+Salario medio bruto;Mujeres;2018;21011.89
+Salario medio bruto;Mujeres;2017;20607.85
+Salario medio bruto;Mujeres;2016;20131.41
+Salario medio bruto;Mujeres;2015;20051.58
+Salario medio bruto;Mujeres;2014;19744.82
+Salario medio bruto;Mujeres;2013;19514.58
+Salario medio bruto;Mujeres;2012;19537.33
+Salario medio bruto;Mujeres;2011;19767.59
+Salario medio bruto;Mujeres;2010;19735.22
+Salario medio bruto;Mujeres;2009;19502.02
+Salario medio bruto;Hombres;2023;30372.49
+Salario medio bruto;Hombres;2022;29381.84
+Salario medio bruto;Hombres;2021;28388.69
+Salario medio bruto;Hombres;2020;27642.52
+Salario medio bruto;Hombres;2019;26934.38
+Salario medio bruto;Hombres;2018;26738.19
+Salario medio bruto;Hombres;2017;26391.84
+Salario medio bruto;Hombres;2016;25924.43
+Salario medio bruto;Hombres;2015;25992.76
+Salario medio bruto;Hombres;2014;25727.24
+Salario medio bruto;Hombres;2013;25675.17
+Salario medio bruto;Hombres;2012;25682.05
+Salario medio bruto;Hombres;2011;25667.89
+Salario medio bruto;Hombres;2010;25479.74
+Salario medio bruto;Hombres;2009;25001.05
+Salario mediano;Mujeres;2023;21177.99
+Salario mediano;Mujeres;2022;20045.68
+Salario mediano;Mujeres;2021;19162.47
+Salario mediano;Mujeres;2020;18556.68
+Salario mediano;Mujeres;2019;17961.93
+Salario mediano;Mujeres;2018;17467.43
+Salario mediano;Mujeres;2017;17214.6
+Salario mediano;Mujeres;2016;16831.58
+Salario mediano;Mujeres;2015;16825.11
+Salario mediano;Mujeres;2014;16771.32
+Salario mediano;Mujeres;2013;16452.43
+Salario mediano;Mujeres;2012;16524.51
+Salario mediano;Mujeres;2011;16796.41
+Salario mediano;Mujeres;2010;16536.1
+Salario mediano;Mujeres;2009;16433.14
+Salario mediano;Hombres;2023;25088.03
+Salario mediano;Hombres;2022;24238.23
+Salario mediano;Hombres;2021;23490.62
+Salario mediano;Hombres;2020;22774.1
+Salario mediano;Hombres;2019;22368.07
+Salario mediano;Hombres;2018;22241.88
+Salario mediano;Hombres;2017;21970.34
+Salario mediano;Hombres;2016;21626.0
+Salario mediano;Hombres;2015;21740.88
+Salario mediano;Hombres;2014;21528.5
+Salario mediano;Hombres;2013;21371.13
+Salario mediano;Hombres;2012;21425.14
+Salario mediano;Hombres;2011;21487.99
+Salario mediano;Hombres;2010;21206.99
+Salario mediano;Hombres;2009;20730.71
+Salario más frecuente;Mujeres;2023;15549.4
+Salario más frecuente;Mujeres;2022;14564.21
+Salario más frecuente;Mujeres;2021;14481.56
+Salario más frecuente;Mujeres;2020;13531.73
+Salario más frecuente;Mujeres;2019;13514.82
+Salario más frecuente;Mujeres;2018;15484.45
+Salario más frecuente;Mujeres;2017;13518.63
+Salario más frecuente;Mujeres;2016;13500.44
+Salario más frecuente;Mujeres;2015;14487.75
+Salario más frecuente;Mujeres;2014;14497.92
+Salario más frecuente;Mujeres;2013;14501.84
+Salario más frecuente;Mujeres;2012;14514.6
+Salario más frecuente;Mujeres;2011;14468.5
+Salario más frecuente;Mujeres;2010;12540.31
+Salario más frecuente;Mujeres;2009;14490.32
+Salario más frecuente;Hombres;2023;20499.66
+Salario más frecuente;Hombres;2022;19499.59
+Salario más frecuente;Hombres;2021;19487.6
+Salario más frecuente;Hombres;2020;18491.68
+Salario más frecuente;Hombres;2019;18506.79
+Salario más frecuente;Hombres;2018;18470.75
+Salario más frecuente;Hombres;2017;17501.52
+Salario más frecuente;Hombres;2016;17509.37
+Salario más frecuente;Hombres;2015;17502.37
+Salario más frecuente;Hombres;2014;16515.73
+Salario más frecuente;Hombres;2013;17498.69
+Salario más frecuente;Hombres;2012;16510.1
+Salario más frecuente;Hombres;2011;18465.22
+Salario más frecuente;Hombres;2010;16505.27
+Salario más frecuente;Hombres;2009;16492.86
+Salario a tiempo parcial;Mujeres;2023;13255.61
+Salario a tiempo parcial;Mujeres;2022;12554.44
+Salario a tiempo parcial;Mujeres;2021;11650.36
+Salario a tiempo parcial;Mujeres;2020;11152.67
+Salario a tiempo parcial;Mujeres;2019;10892.24
+Salario a tiempo parcial;Mujeres;2018;10580.42
+Salario a tiempo parcial;Mujeres;2017;10409.96
+Salario a tiempo parcial;Mujeres;2016;10023.72
+Salario a tiempo parcial;Mujeres;2015;9851.64
+Salario a tiempo parcial;Mujeres;2014;9690.5
+Salario a tiempo parcial;Mujeres;2013;9766.17
+Salario a tiempo parcial;Mujeres;2012;9988.41
+Salario a tiempo parcial;Mujeres;2011;10077.81
+Salario a tiempo parcial;Mujeres;2010;10133.18
+Salario a tiempo parcial;Mujeres;2009;9872.39
+Salario a tiempo parcial;Hombres;2023;14886.71
+Salario a tiempo parcial;Hombres;2022;13956.58
+Salario a tiempo parcial;Hombres;2021;12888.85
+Salario a tiempo parcial;Hombres;2020;12685.74
+Salario a tiempo parcial;Hombres;2019;12421.5
+Salario a tiempo parcial;Hombres;2018;12344.73
+Salario a tiempo parcial;Hombres;2017;11279.92
+Salario a tiempo parcial;Hombres;2016;10737.52
+Salario a tiempo parcial;Hombres;2015;10538.84
+Salario a tiempo parcial;Hombres;2014;10028.85
+Salario a tiempo parcial;Hombres;2013;10670.74
+Salario a tiempo parcial;Hombres;2012;11032.1
+Salario a tiempo parcial;Hombres;2011;11232.73
+Salario a tiempo parcial;Hombres;2010;10960.91
+Salario a tiempo parcial;Hombres;2009;11247.94

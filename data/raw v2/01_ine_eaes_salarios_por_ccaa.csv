@@ -1,0 +1,171 @@
+﻿codigo_ccaa;comunidad_autonoma;sector;codigo_cnae;anio;salario_medio_anual_eur;brecha_vs_hosteleria_pct
+01;Andalucía;Información y comunicaciones (Tech);J;2020;28125.36;75.07
+01;Andalucía;Hostelería;I;2020;16065.18;0.0
+01;Andalucía;Información y comunicaciones (Tech);J;2021;29062.87;75.07
+01;Andalucía;Hostelería;I;2021;16600.69;0.0
+01;Andalucía;Información y comunicaciones (Tech);J;2022;30000.38;75.07
+01;Andalucía;Hostelería;I;2022;17136.19;0.0
+01;Andalucía;Información y comunicaciones (Tech);J;2023;30625.39;75.07
+01;Andalucía;Hostelería;I;2023;17493.2;0.0
+01;Andalucía;Información y comunicaciones (Tech);J;2024;31250.4;75.07
+01;Andalucía;Hostelería;I;2024;17850.2;0.0
+02;Aragón;Información y comunicaciones (Tech);J;2020;29520.14;77.77
+02;Aragón;Hostelería;I;2020;16605.45;0.0
+02;Aragón;Información y comunicaciones (Tech);J;2021;30504.14;77.77
+02;Aragón;Hostelería;I;2021;17158.97;0.0
+02;Aragón;Información y comunicaciones (Tech);J;2022;31488.14;77.77
+02;Aragón;Hostelería;I;2022;17712.48;0.0
+02;Aragón;Información y comunicaciones (Tech);J;2023;32144.15;77.77
+02;Aragón;Hostelería;I;2023;18081.49;0.0
+02;Aragón;Información y comunicaciones (Tech);J;2024;32800.15;77.77
+02;Aragón;Hostelería;I;2024;18450.5;0.0
+03;Asturias, Principado de;Información y comunicaciones (Tech);J;2020;28710.72;76.24
+03;Asturias, Principado de;Hostelería;I;2020;16290.27;0.0
+03;Asturias, Principado de;Información y comunicaciones (Tech);J;2021;29667.74;76.24
+03;Asturias, Principado de;Hostelería;I;2021;16833.28;0.0
+03;Asturias, Principado de;Información y comunicaciones (Tech);J;2022;30624.77;76.24
+03;Asturias, Principado de;Hostelería;I;2022;17376.29;0.0
+03;Asturias, Principado de;Información y comunicaciones (Tech);J;2023;31262.78;76.24
+03;Asturias, Principado de;Hostelería;I;2023;17738.29;0.0
+03;Asturias, Principado de;Información y comunicaciones (Tech);J;2024;31900.8;76.24
+03;Asturias, Principado de;Hostelería;I;2024;18100.3;0.0
+04;Balears, Illes;Información y comunicaciones (Tech);J;2020;29790.81;62.25
+04;Balears, Illes;Hostelería;I;2020;18360.72;0.0
+04;Balears, Illes;Información y comunicaciones (Tech);J;2021;30783.84;62.25
+04;Balears, Illes;Hostelería;I;2021;18972.74;0.0
+04;Balears, Illes;Información y comunicaciones (Tech);J;2022;31776.86;62.25
+04;Balears, Illes;Hostelería;I;2022;19584.77;0.0
+04;Balears, Illes;Información y comunicaciones (Tech);J;2023;32438.88;62.25
+04;Balears, Illes;Hostelería;I;2023;19992.78;0.0
+04;Balears, Illes;Información y comunicaciones (Tech);J;2024;33100.9;62.25
+04;Balears, Illes;Hostelería;I;2024;20400.8;0.0
+05;Canarias;Información y comunicaciones (Tech);J;2020;26820.45;57.67
+05;Canarias;Hostelería;I;2020;17010.54;0.0
+05;Canarias;Información y comunicaciones (Tech);J;2021;27714.47;57.67
+05;Canarias;Hostelería;I;2021;17577.56;0.0
+05;Canarias;Información y comunicaciones (Tech);J;2022;28608.48;57.67
+05;Canarias;Hostelería;I;2022;18144.58;0.0
+05;Canarias;Información y comunicaciones (Tech);J;2023;29204.49;57.67
+05;Canarias;Hostelería;I;2023;18522.59;0.0
+05;Canarias;Información y comunicaciones (Tech);J;2024;29800.5;57.67
+05;Canarias;Hostelería;I;2024;18900.6;0.0
+06;Cantabria;Información y comunicaciones (Tech);J;2020;27855.18;75.85
+06;Cantabria;Hostelería;I;2020;15840.36;0.0
+06;Cantabria;Información y comunicaciones (Tech);J;2021;28783.69;75.85
+06;Cantabria;Hostelería;I;2021;16368.37;0.0
+06;Cantabria;Información y comunicaciones (Tech);J;2022;29712.19;75.85
+06;Cantabria;Hostelería;I;2022;16896.38;0.0
+06;Cantabria;Información y comunicaciones (Tech);J;2023;30331.2;75.85
+06;Cantabria;Hostelería;I;2023;17248.39;0.0
+06;Cantabria;Información y comunicaciones (Tech);J;2024;30950.2;75.85
+06;Cantabria;Hostelería;I;2024;17600.4;0.0
+07;Castilla y León;Información y comunicaciones (Tech);J;2020;28260.54;75.42
+07;Castilla y León;Hostelería;I;2020;16110.09;0.0
+07;Castilla y León;Información y comunicaciones (Tech);J;2021;29202.56;75.42
+07;Castilla y León;Hostelería;I;2021;16647.09;0.0
+07;Castilla y León;Información y comunicaciones (Tech);J;2022;30144.58;75.42
+07;Castilla y León;Hostelería;I;2022;17184.1;0.0
+07;Castilla y León;Información y comunicaciones (Tech);J;2023;30772.59;75.42
+07;Castilla y León;Hostelería;I;2023;17542.1;0.0
+07;Castilla y León;Información y comunicaciones (Tech);J;2024;31400.6;75.42
+07;Castilla y León;Hostelería;I;2024;17900.1;0.0
+08;Castilla - La Mancha;Información y comunicaciones (Tech);J;2020;27450.27;74.28
+08;Castilla - La Mancha;Hostelería;I;2020;15750.72;0.0
+08;Castilla - La Mancha;Información y comunicaciones (Tech);J;2021;28365.28;74.28
+08;Castilla - La Mancha;Hostelería;I;2021;16275.74;0.0
+08;Castilla - La Mancha;Información y comunicaciones (Tech);J;2022;29280.29;74.28
+08;Castilla - La Mancha;Hostelería;I;2022;16800.77;0.0
+08;Castilla - La Mancha;Información y comunicaciones (Tech);J;2023;29890.29;74.28
+08;Castilla - La Mancha;Hostelería;I;2023;17150.78;0.0
+08;Castilla - La Mancha;Información y comunicaciones (Tech);J;2024;30500.3;74.28
+08;Castilla - La Mancha;Hostelería;I;2024;17500.8;0.0
+09;Cataluña;Información y comunicaciones (Tech);J;2020;34605.72;90.82
+09;Cataluña;Hostelería;I;2020;18135.36;0.0
+09;Cataluña;Información y comunicaciones (Tech);J;2021;35759.24;90.82
+09;Cataluña;Hostelería;I;2021;18739.87;0.0
+09;Cataluña;Información y comunicaciones (Tech);J;2022;36912.77;90.82
+09;Cataluña;Hostelería;I;2022;19344.38;0.0
+09;Cataluña;Información y comunicaciones (Tech);J;2023;37681.78;90.82
+09;Cataluña;Hostelería;I;2023;19747.39;0.0
+09;Cataluña;Información y comunicaciones (Tech);J;2024;38450.8;90.82
+09;Cataluña;Hostelería;I;2024;20150.4;0.0
+10;Comunitat Valenciana;Información y comunicaciones (Tech);J;2020;29340.36;78.63
+10;Comunitat Valenciana;Hostelería;I;2020;16425.63;0.0
+10;Comunitat Valenciana;Información y comunicaciones (Tech);J;2021;30318.37;78.63
+10;Comunitat Valenciana;Hostelería;I;2021;16973.15;0.0
+10;Comunitat Valenciana;Información y comunicaciones (Tech);J;2022;31296.38;78.63
+10;Comunitat Valenciana;Hostelería;I;2022;17520.67;0.0
+10;Comunitat Valenciana;Información y comunicaciones (Tech);J;2023;31948.39;78.63
+10;Comunitat Valenciana;Hostelería;I;2023;17885.69;0.0
+10;Comunitat Valenciana;Información y comunicaciones (Tech);J;2024;32600.4;78.63
+10;Comunitat Valenciana;Hostelería;I;2024;18250.7;0.0
+11;Extremadura;Información y comunicaciones (Tech);J;2020;26010.09;70.5
+11;Extremadura;Hostelería;I;2020;15255.27;0.0
+11;Extremadura;Información y comunicaciones (Tech);J;2021;26877.09;70.5
+11;Extremadura;Hostelería;I;2021;15763.78;0.0
+11;Extremadura;Información y comunicaciones (Tech);J;2022;27744.1;70.5
+11;Extremadura;Hostelería;I;2022;16272.29;0.0
+11;Extremadura;Información y comunicaciones (Tech);J;2023;28322.1;70.5
+11;Extremadura;Hostelería;I;2023;16611.29;0.0
+11;Extremadura;Información y comunicaciones (Tech);J;2024;28900.1;70.5
+11;Extremadura;Hostelería;I;2024;16950.3;0.0
+12;Galicia;Información y comunicaciones (Tech);J;2020;28665.63;78.93
+12;Galicia;Hostelería;I;2020;16020.81;0.0
+12;Galicia;Información y comunicaciones (Tech);J;2021;29621.15;78.93
+12;Galicia;Hostelería;I;2021;16554.84;0.0
+12;Galicia;Información y comunicaciones (Tech);J;2022;30576.67;78.93
+12;Galicia;Hostelería;I;2022;17088.86;0.0
+12;Galicia;Información y comunicaciones (Tech);J;2023;31213.69;78.93
+12;Galicia;Hostelería;I;2023;17444.88;0.0
+12;Galicia;Información y comunicaciones (Tech);J;2024;31850.7;78.93
+12;Galicia;Hostelería;I;2024;17800.9;0.0
+13;Madrid, Comunidad de;Información y comunicaciones (Tech);J;2020;39825.54;102.52
+13;Madrid, Comunidad de;Hostelería;I;2020;19665.45;0.0
+13;Madrid, Comunidad de;Información y comunicaciones (Tech);J;2021;41153.06;102.52
+13;Madrid, Comunidad de;Hostelería;I;2021;20320.97;0.0
+13;Madrid, Comunidad de;Información y comunicaciones (Tech);J;2022;42480.58;102.52
+13;Madrid, Comunidad de;Hostelería;I;2022;20976.48;0.0
+13;Madrid, Comunidad de;Información y comunicaciones (Tech);J;2023;43365.59;102.52
+13;Madrid, Comunidad de;Hostelería;I;2023;21413.49;0.0
+13;Madrid, Comunidad de;Información y comunicaciones (Tech);J;2024;44250.6;102.52
+13;Madrid, Comunidad de;Hostelería;I;2024;21850.5;0.0
+14;Murcia, Región de;Información y comunicaciones (Tech);J;2020;27180.36;73.56
+14;Murcia, Región de;Hostelería;I;2020;15660.18;0.0
+14;Murcia, Región de;Información y comunicaciones (Tech);J;2021;28086.37;73.56
+14;Murcia, Región de;Hostelería;I;2021;16182.19;0.0
+14;Murcia, Región de;Información y comunicaciones (Tech);J;2022;28992.38;73.56
+14;Murcia, Región de;Hostelería;I;2022;16704.19;0.0
+14;Murcia, Región de;Información y comunicaciones (Tech);J;2023;29596.39;73.56
+14;Murcia, Región de;Hostelería;I;2023;17052.2;0.0
+14;Murcia, Región de;Información y comunicaciones (Tech);J;2024;30200.4;73.56
+14;Murcia, Región de;Hostelería;I;2024;17400.2;0.0
+15;Navarra, Comunidad Foral de;Información y comunicaciones (Tech);J;2020;32850.81;84.34
+15;Navarra, Comunidad Foral de;Hostelería;I;2020;17820.54;0.0
+15;Navarra, Comunidad Foral de;Información y comunicaciones (Tech);J;2021;33945.84;84.34
+15;Navarra, Comunidad Foral de;Hostelería;I;2021;18414.56;0.0
+15;Navarra, Comunidad Foral de;Información y comunicaciones (Tech);J;2022;35040.86;84.34
+15;Navarra, Comunidad Foral de;Hostelería;I;2022;19008.58;0.0
+15;Navarra, Comunidad Foral de;Información y comunicaciones (Tech);J;2023;35770.88;84.34
+15;Navarra, Comunidad Foral de;Hostelería;I;2023;19404.59;0.0
+15;Navarra, Comunidad Foral de;Información y comunicaciones (Tech);J;2024;36500.9;84.34
+15;Navarra, Comunidad Foral de;Hostelería;I;2024;19800.6;0.0
+16;País Vasco;Información y comunicaciones (Tech);J;2020;35820.27;90.42
+16;País Vasco;Hostelería;I;2020;18810.72;0.0
+16;País Vasco;Información y comunicaciones (Tech);J;2021;37014.28;90.42
+16;País Vasco;Hostelería;I;2021;19437.74;0.0
+16;País Vasco;Información y comunicaciones (Tech);J;2022;38208.29;90.42
+16;País Vasco;Hostelería;I;2022;20064.77;0.0
+16;País Vasco;Información y comunicaciones (Tech);J;2023;39004.29;90.42
+16;País Vasco;Hostelería;I;2023;20482.78;0.0
+16;País Vasco;Información y comunicaciones (Tech);J;2024;39800.3;90.42
+16;País Vasco;Hostelería;I;2024;20900.8;0.0
+17;Rioja, La;Información y comunicaciones (Tech);J;2020;27990.18;75.21
+17;Rioja, La;Hostelería;I;2020;15975.36;0.0
+17;Rioja, La;Información y comunicaciones (Tech);J;2021;28923.19;75.21
+17;Rioja, La;Hostelería;I;2021;16507.87;0.0
+17;Rioja, La;Información y comunicaciones (Tech);J;2022;29856.19;75.21
+17;Rioja, La;Hostelería;I;2022;17040.38;0.0
+17;Rioja, La;Información y comunicaciones (Tech);J;2023;30478.2;75.21
+17;Rioja, La;Hostelería;I;2023;17395.39;0.0
+17;Rioja, La;Información y comunicaciones (Tech);J;2024;31100.2;75.21
+17;Rioja, La;Hostelería;I;2024;17750.4;0.0

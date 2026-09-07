@@ -1,0 +1,19 @@
+{"COD":"EAES244", "Nombre":"Hombres. Información y comunicaciones. Dato base. Total Nacional. Salario medio bruto. ", "FK_Unidad":7, "FK_Escala":1, "Data":[{"Fecha":1199142000000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2008, "Valor":33090.09, "Secreto":false}
+,{"Fecha":1230764400000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2009, "Valor":34513.44, "Secreto":false}
+,{"Fecha":1262300400000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2010, "Valor":34726.99, "Secreto":false}
+,{"Fecha":1293836400000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2011, "Valor":34990.87, "Secreto":false}
+,{"Fecha":1325372400000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2012, "Valor":35196.03, "Secreto":false}
+,{"Fecha":1356994800000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2013, "Valor":35756.26, "Secreto":false}
+,{"Fecha":1388530800000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2014, "Valor":34740.6, "Secreto":false}
+,{"Fecha":1420066800000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2015, "Valor":35417.86, "Secreto":false}
+,{"Fecha":1451602800000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2016, "Valor":34475.06, "Secreto":false}
+,{"Fecha":1483225200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2017, "Valor":35768.78, "Secreto":false}
+,{"Fecha":1514761200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2018, "Valor":35411.23, "Secreto":false}
+,{"Fecha":1546297200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2019, "Valor":36746.41, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":37580.51, "Secreto":false}
+,{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":38514.17, "Secreto":false}
+,{"Fecha":1640991600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2022, "Valor":39135.1, "Secreto":false}
+,{"Fecha":1672527600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2023, "Valor":41536.56, "Secreto":false}
+,{"Fecha":1704063600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2024, "Valor":45054.3, "Secreto":false}
+]
+}

@@ -1,0 +1,5 @@
+{
+  "ratio_mediana_sobre_media": 0.826,
+  "ratio_moda_sobre_media": 0.6456,
+  "nota": "Ratios calculados sobre datos reales nacionales INE (tabla 10882, tipo de jornada completo/parcial). Se usan UNICAMENTE para estimar mediana/moda por sector y CCAA cuando el organismo oficial no publica ese cruce especifico; los valores estimados se marcan siempre como tales en la web."
+}

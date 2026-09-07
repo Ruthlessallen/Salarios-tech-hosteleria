@@ -1,0 +1,160 @@
+﻿anio;salario_medio_anual_eur;sector;sexo;codigo_serie_ine;es_estimacion
+2008;13957.49;Hostelería;Ambos sexos;EAES283;False
+2009;13996.7;Hostelería;Ambos sexos;EAES283;False
+2010;14629.55;Hostelería;Ambos sexos;EAES283;False
+2011;14234.54;Hostelería;Ambos sexos;EAES283;False
+2012;13867.02;Hostelería;Ambos sexos;EAES283;False
+2013;13851.08;Hostelería;Ambos sexos;EAES283;False
+2014;13636.04;Hostelería;Ambos sexos;EAES283;False
+2015;13977.06;Hostelería;Ambos sexos;EAES283;False
+2016;14125.34;Hostelería;Ambos sexos;EAES283;False
+2017;14540.14;Hostelería;Ambos sexos;EAES283;False
+2018;14345.3;Hostelería;Ambos sexos;EAES283;False
+2019;14561.75;Hostelería;Ambos sexos;EAES283;False
+2020;14136.95;Hostelería;Ambos sexos;EAES283;False
+2021;14632.81;Hostelería;Ambos sexos;EAES283;False
+2022;16274.71;Hostelería;Ambos sexos;EAES283;False
+2023;16985.78;Hostelería;Ambos sexos;EAES283;False
+2024;17653.42;Hostelería;Ambos sexos;EAES283;False
+2008;15885.32;Hostelería;Hombres;EAES245;False
+2009;15940.32;Hostelería;Hombres;EAES245;False
+2010;16891.74;Hostelería;Hombres;EAES245;False
+2011;16216.7;Hostelería;Hombres;EAES245;False
+2012;15518.31;Hostelería;Hombres;EAES245;False
+2013;15552.49;Hostelería;Hombres;EAES245;False
+2014;15368.45;Hostelería;Hombres;EAES245;False
+2015;15751.27;Hostelería;Hombres;EAES245;False
+2016;15907.9;Hostelería;Hombres;EAES245;False
+2017;16138.88;Hostelería;Hombres;EAES245;False
+2018;16271.82;Hostelería;Hombres;EAES245;False
+2019;16134.55;Hostelería;Hombres;EAES245;False
+2020;15767.95;Hostelería;Hombres;EAES245;False
+2021;16229.88;Hostelería;Hombres;EAES245;False
+2022;17921.24;Hostelería;Hombres;EAES245;False
+2023;18701.7;Hostelería;Hombres;EAES245;False
+2024;19526.77;Hostelería;Hombres;EAES245;False
+2008;12404.49;Hostelería;Mujeres;EAES264;False
+2009;12518.34;Hostelería;Mujeres;EAES264;False
+2010;12825.48;Hostelería;Mujeres;EAES264;False
+2011;12645.88;Hostelería;Mujeres;EAES264;False
+2012;12694.16;Hostelería;Mujeres;EAES264;False
+2013;12536.29;Hostelería;Mujeres;EAES264;False
+2014;12311.78;Hostelería;Mujeres;EAES264;False
+2015;12563.08;Hostelería;Mujeres;EAES264;False
+2016;12608.92;Hostelería;Mujeres;EAES264;False
+2017;13161.33;Hostelería;Mujeres;EAES264;False
+2018;12808.88;Hostelería;Mujeres;EAES264;False
+2019;13410.37;Hostelería;Mujeres;EAES264;False
+2020;12874.08;Hostelería;Mujeres;EAES264;False
+2021;13388.55;Hostelería;Mujeres;EAES264;False
+2022;15022.32;Hostelería;Mujeres;EAES264;False
+2023;15676.28;Hostelería;Mujeres;EAES264;False
+2024;16222.08;Hostelería;Mujeres;EAES264;False
+2008;30628.48;Información y comunicaciones;Ambos sexos;EAES282;False
+2009;31551.65;Información y comunicaciones;Ambos sexos;EAES282;False
+2010;32425.68;Información y comunicaciones;Ambos sexos;EAES282;False
+2011;32491.04;Información y comunicaciones;Ambos sexos;EAES282;False
+2012;32522.11;Información y comunicaciones;Ambos sexos;EAES282;False
+2013;33137.17;Información y comunicaciones;Ambos sexos;EAES282;False
+2014;32754.21;Información y comunicaciones;Ambos sexos;EAES282;False
+2015;33046.23;Información y comunicaciones;Ambos sexos;EAES282;False
+2016;32448.31;Información y comunicaciones;Ambos sexos;EAES282;False
+2017;33664.26;Información y comunicaciones;Ambos sexos;EAES282;False
+2018;33117.64;Información y comunicaciones;Ambos sexos;EAES282;False
+2019;34641.28;Información y comunicaciones;Ambos sexos;EAES282;False
+2020;35663.8;Información y comunicaciones;Ambos sexos;EAES282;False
+2021;36630.48;Información y comunicaciones;Ambos sexos;EAES282;False
+2022;37438.55;Información y comunicaciones;Ambos sexos;EAES282;False
+2023;39674.43;Información y comunicaciones;Ambos sexos;EAES282;False
+2024;42741.94;Información y comunicaciones;Ambos sexos;EAES282;False
+2008;33090.09;Información y comunicaciones;Hombres;EAES244;False
+2009;34513.44;Información y comunicaciones;Hombres;EAES244;False
+2010;34726.99;Información y comunicaciones;Hombres;EAES244;False
+2011;34990.87;Información y comunicaciones;Hombres;EAES244;False
+2012;35196.03;Información y comunicaciones;Hombres;EAES244;False
+2013;35756.26;Información y comunicaciones;Hombres;EAES244;False
+2014;34740.6;Información y comunicaciones;Hombres;EAES244;False
+2015;35417.86;Información y comunicaciones;Hombres;EAES244;False
+2016;34475.06;Información y comunicaciones;Hombres;EAES244;False
+2017;35768.78;Información y comunicaciones;Hombres;EAES244;False
+2018;35411.23;Información y comunicaciones;Hombres;EAES244;False
+2019;36746.41;Información y comunicaciones;Hombres;EAES244;False
+2020;37580.51;Información y comunicaciones;Hombres;EAES244;False
+2021;38514.17;Información y comunicaciones;Hombres;EAES244;False
+2022;39135.1;Información y comunicaciones;Hombres;EAES244;False
+2023;41536.56;Información y comunicaciones;Hombres;EAES244;False
+2024;45054.3;Información y comunicaciones;Hombres;EAES244;False
+2008;26573.64;Información y comunicaciones;Mujeres;EAES263;False
+2009;26716.32;Información y comunicaciones;Mujeres;EAES263;False
+2010;28610.13;Información y comunicaciones;Mujeres;EAES263;False
+2011;28464.25;Información y comunicaciones;Mujeres;EAES263;False
+2012;28166.28;Información y comunicaciones;Mujeres;EAES263;False
+2013;28651.29;Información y comunicaciones;Mujeres;EAES263;False
+2014;29223.97;Información y comunicaciones;Mujeres;EAES263;False
+2015;28935.74;Información y comunicaciones;Mujeres;EAES263;False
+2016;28834.47;Información y comunicaciones;Mujeres;EAES263;False
+2017;30015.53;Información y comunicaciones;Mujeres;EAES263;False
+2018;29099.47;Información y comunicaciones;Mujeres;EAES263;False
+2019;30898.57;Información y comunicaciones;Mujeres;EAES263;False
+2020;32227.73;Información y comunicaciones;Mujeres;EAES263;False
+2021;33225.56;Información y comunicaciones;Mujeres;EAES263;False
+2022;34306.95;Información y comunicaciones;Mujeres;EAES263;False
+2023;36392.76;Información y comunicaciones;Mujeres;EAES263;False
+2024;38807.08;Información y comunicaciones;Mujeres;EAES263;False
+2008;21883.42;Total nacional;Ambos sexos;EAES291;False
+2009;22511.47;Total nacional;Ambos sexos;EAES291;False
+2010;22790.2;Total nacional;Ambos sexos;EAES291;False
+2011;22899.35;Total nacional;Ambos sexos;EAES291;False
+2012;22726.44;Total nacional;Ambos sexos;EAES291;False
+2013;22697.86;Total nacional;Ambos sexos;EAES291;False
+2014;22858.17;Total nacional;Ambos sexos;EAES291;False
+2015;23106.3;Total nacional;Ambos sexos;EAES291;False
+2016;23156.34;Total nacional;Ambos sexos;EAES291;False
+2017;23646.5;Total nacional;Ambos sexos;EAES291;False
+2018;24009.12;Total nacional;Ambos sexos;EAES291;False
+2019;24395.98;Total nacional;Ambos sexos;EAES291;False
+2020;25165.51;Total nacional;Ambos sexos;EAES291;False
+2021;25896.82;Total nacional;Ambos sexos;EAES291;False
+2022;26948.87;Total nacional;Ambos sexos;EAES291;False
+2023;28049.94;Total nacional;Ambos sexos;EAES291;False
+2024;29540.26;Total nacional;Ambos sexos;EAES291;False
+2008;24203.33;Total nacional;Hombres;EAES253;False
+2009;25001.05;Total nacional;Hombres;EAES253;False
+2010;25479.74;Total nacional;Hombres;EAES253;False
+2011;25667.89;Total nacional;Hombres;EAES253;False
+2012;25682.05;Total nacional;Hombres;EAES253;False
+2013;25675.17;Total nacional;Hombres;EAES253;False
+2014;25727.24;Total nacional;Hombres;EAES253;False
+2015;25992.76;Total nacional;Hombres;EAES253;False
+2016;25924.43;Total nacional;Hombres;EAES253;False
+2017;26391.84;Total nacional;Hombres;EAES253;False
+2018;26738.19;Total nacional;Hombres;EAES253;False
+2019;26934.38;Total nacional;Hombres;EAES253;False
+2020;27642.52;Total nacional;Hombres;EAES253;False
+2021;28388.69;Total nacional;Hombres;EAES253;False
+2022;29381.84;Total nacional;Hombres;EAES253;False
+2023;30372.49;Total nacional;Hombres;EAES253;False
+2024;32057.55;Total nacional;Hombres;EAES253;False
+2008;18910.62;Total nacional;Mujeres;EAES272;False
+2009;19502.02;Total nacional;Mujeres;EAES272;False
+2010;19735.22;Total nacional;Mujeres;EAES272;False
+2011;19767.59;Total nacional;Mujeres;EAES272;False
+2012;19537.33;Total nacional;Mujeres;EAES272;False
+2013;19514.58;Total nacional;Mujeres;EAES272;False
+2014;19744.82;Total nacional;Mujeres;EAES272;False
+2015;20051.58;Total nacional;Mujeres;EAES272;False
+2016;20131.41;Total nacional;Mujeres;EAES272;False
+2017;20607.85;Total nacional;Mujeres;EAES272;False
+2018;21011.89;Total nacional;Mujeres;EAES272;False
+2019;21682.02;Total nacional;Mujeres;EAES272;False
+2020;22467.48;Total nacional;Mujeres;EAES272;False
+2021;23175.95;Total nacional;Mujeres;EAES272;False
+2022;24359.82;Total nacional;Mujeres;EAES272;False
+2023;25591.31;Total nacional;Mujeres;EAES272;False
+2024;26904.9;Total nacional;Mujeres;EAES272;False
+2025;18752.51;Hostelería;Ambos sexos;ESTIMACION_LINEAL;True
+2026;19691.1;Hostelería;Ambos sexos;ESTIMACION_LINEAL;True
+2025;43589.91;Información y comunicaciones;Ambos sexos;ESTIMACION_LINEAL;True
+2026;45309.93;Información y comunicaciones;Ambos sexos;ESTIMACION_LINEAL;True
+2025;30391.07;Total nacional;Ambos sexos;ESTIMACION_LINEAL;True
+2026;31481.33;Total nacional;Ambos sexos;ESTIMACION_LINEAL;True
