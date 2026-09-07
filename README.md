@@ -6,6 +6,55 @@ Adicionalmente, se complementa con la información procedente de otras **fuentes
 
 ---
 
+## Demo en vivo
+
+**[salarios-tech-hosteleria.onrender.com](https://salarios-tech-hosteleria.onrender.com/)**
+
+Dashboard interactivo con 4 páginas (Comparativa, Mapa, Tecnología, Hostelería), toggle €/año-€/mes, y desglose por Comunidad Autónoma. Al estar en el plan gratuito de Render, la primera visita puede tardar unos segundos en despertar el servidor.
+
+---
+
+## Stack técnico
+
+| Área | Tecnología |
+| :--- | :--- |
+| Lenguaje | Python 3.13 |
+| Dashboard web | [Dash](https://dash.plotly.com/) (Flask + React por debajo) |
+| Visualización | Plotly (mapas coropléticos, series temporales, barras apiladas) |
+| Análisis de datos | Pandas, NumPy |
+| Exploración / notebooks | Jupyter, Matplotlib, Seaborn |
+| Frontend | CSS a medida (sin frameworks), Google Fonts |
+| Ingesta de datos | API WSTempus del INE, *scraping* de la AEAT (`urllib` + expresiones regulares) |
+| Servidor de producción | Gunicorn |
+| Despliegue | [Render](https://render.com/) (Web Service, plan gratuito) |
+| Control de versiones | Git / GitHub |
+
+---
+
+## El resumen, en un vistazo
+
+Carrusel con las conclusiones principales del análisis:
+
+<table>
+<tr>
+<td><img src="webapp/assets/carousel/slide_01.png" width="260"></td>
+<td><img src="webapp/assets/carousel/slide_02.png" width="260"></td>
+<td><img src="webapp/assets/carousel/slide_03.png" width="260"></td>
+</tr>
+<tr>
+<td><img src="webapp/assets/carousel/slide_04.png" width="260"></td>
+<td><img src="webapp/assets/carousel/slide_05.png" width="260"></td>
+<td><img src="webapp/assets/carousel/slide_06.png" width="260"></td>
+</tr>
+<tr>
+<td><img src="webapp/assets/carousel/slide_07.png" width="260"></td>
+<td><img src="webapp/assets/carousel/slide_08.png" width="260"></td>
+<td><img src="webapp/assets/carousel/slide_09.png" width="260"></td>
+</tr>
+</table>
+
+---
+
 ## 1. Fuentes oficiales consultadas
 
 Todas las cifras analizadas provienen exclusivamente de organismos públicos oficiales:
